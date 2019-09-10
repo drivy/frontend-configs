@@ -3,12 +3,14 @@
     "@drivy/eslint-config": "file:packages/eslint-config",
     "@drivy/prettier-config": "file:packages/prettier-config",
     "@drivy/stylelint-config": "file:packages/stylelint-config",
+    "@drivy/ts-config": "file:packages/ts-config",
     "eslint": "^6.3.0",
     "eslint-config-prettier": "^6.2.0",
     "eslint-plugin-prettier": "^3.1.0",
     "lerna": "^3.16.4",
     "prettier": "^1.18.2",
-    "stylelint": "^10.1.0"
+    "stylelint": "^10.1.0",
+    "typescript": "^3.6.2"
   },
   "scripts": {
     "postinstall": "yarn lerna exec yarn",

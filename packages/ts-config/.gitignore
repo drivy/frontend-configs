@@ -1,0 +1,3 @@
+# No need for modules in this package
+node_modules/
+yarn.lock
