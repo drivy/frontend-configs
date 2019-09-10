@@ -12,6 +12,7 @@
     "stylelint": "^10.1.0",
     "typescript": "^3.6.2"
   },
+  "license": "MIT",
   "scripts": {
     "postinstall": "yarn lerna exec yarn",
     "test": "yarn lerna run test",
