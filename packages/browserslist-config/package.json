@@ -1,0 +1,16 @@
+{
+  "name": "@drivy/browserslist-config",
+  "description": "Shareable browserslist config for Drivy's projects",
+  "license": "MIT",
+  "version": "1.0.1",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "browserslist",
+    "browserslist-config"
+  ],
+  "devDependencies": {
+    "browserslist": "^4.6.2"
+  }
+}
