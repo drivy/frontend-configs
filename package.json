@@ -1,11 +1,16 @@
 {
   "dependencies": {
+    "@drivy/eslint-config": "file:packages/eslint-config",
     "@drivy/prettier-config": "file:packages/prettier-config",
+    "eslint": "^6.3.0",
+    "eslint-config-prettier": "^6.2.0",
+    "eslint-plugin-prettier": "^3.1.0",
     "lerna": "^3.16.4",
     "prettier": "^1.18.2"
   },
   "scripts": {
     "postinstall": "yarn lerna exec yarn",
-    "test": "yarn lerna run test"
+    "test": "yarn lerna run test",
+    "lint": "yarn eslint packages/*"
   }
 }
