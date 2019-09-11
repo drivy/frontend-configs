@@ -14,8 +14,9 @@
   },
   "license": "MIT",
   "scripts": {
-    "postinstall": "yarn lerna exec yarn",
-    "test": "yarn lerna run test",
-    "lint": "yarn eslint packages/*"
+    "postinstall": "lerna exec yarn",
+    "test": "lerna run test",
+    "lint": "eslint packages/*",
+    "typecheck": "tsc"
   }
 }

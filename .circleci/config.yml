@@ -29,3 +29,7 @@ jobs:
       - run:
           name: "Test"
           command: yarn test
+
+      - run:
+          name: "Typecheck"
+          command: yarn typecheck

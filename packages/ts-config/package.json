@@ -3,6 +3,7 @@
   "description": "Shareable ts config for Drivy's projects",
   "license": "MIT",
   "version": "1.0.0",
+  "main": "base.json",
   "publishConfig": {
     "access": "public"
   }
