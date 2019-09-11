@@ -12,6 +12,6 @@ In a `tsconfig.json`:
 
 ```json
 {
-  "extends": "@drivy/ts-config"
+  "extends": "./node_modules/@drivy/ts-config/base"
 }
 ```
