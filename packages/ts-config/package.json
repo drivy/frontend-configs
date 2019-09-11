@@ -2,5 +2,8 @@
   "name": "@drivy/ts-config",
   "description": "Shareable ts config for Drivy's projects",
   "license": "MIT",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
+  }
 }

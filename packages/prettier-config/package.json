@@ -2,5 +2,8 @@
   "name": "@drivy/prettier-config",
   "description": "Shareable prettier config for Drivy's projects",
   "license": "MIT",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -10,6 +10,9 @@
     "browserslist",
     "browserslist-config"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "browserslist": "^4.6.2"
   }
