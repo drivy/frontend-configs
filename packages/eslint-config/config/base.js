@@ -1,12 +1,12 @@
 module.exports = {
   env: {
     browser: true,
-    es6: true
+    es6: true,
   },
   parserOptions: {
     ecmaVersion: 6,
     sourceType: "module",
-    allowImportExportEverywhere: true
+    allowImportExportEverywhere: true,
   },
   plugins: ["prettier"],
   extends: ["eslint:recommended", "prettier"],
@@ -14,7 +14,7 @@ module.exports = {
     google: true,
     html: true,
     require: true,
-    module: true
+    module: true,
   },
   rules: {
     "prettier/prettier": "error",
@@ -38,8 +38,8 @@ module.exports = {
     "no-param-reassign": [
       "error",
       {
-        props: false
-      }
+        props: false,
+      },
     ],
     "no-proto": "error",
     "no-script-url": "error",
@@ -61,14 +61,14 @@ module.exports = {
       "dlv",
       "moment",
       "immutable",
-      "axios"
+      "axios",
     ],
     "dot-notation": [
       "error",
       {
-        allowPattern: "^[a-z]+(_[a-z]+)+$"
-      }
+        allowPattern: "^[a-z]+(_[a-z]+)+$",
+      },
     ],
-    "no-var": "error"
-  }
+    "no-var": "error",
+  },
 }

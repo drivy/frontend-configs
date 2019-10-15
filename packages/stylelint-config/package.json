@@ -2,7 +2,7 @@
   "name": "@drivy/stylelint-config",
   "description": "Shareable stylelint config for Drivy's projects",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "stylelint-order": "^3.1.0"
   },

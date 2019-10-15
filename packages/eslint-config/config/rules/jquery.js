@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    jquery: true
+    jquery: true,
   },
   plugins: ["jquery"],
   rules: {
@@ -29,6 +29,6 @@ module.exports = {
     "jquery/no-size": 2,
     "jquery/no-slide": 2,
     "jquery/no-trim": 2,
-    "jquery/no-when": 2
-  }
+    "jquery/no-when": 2,
+  },
 }

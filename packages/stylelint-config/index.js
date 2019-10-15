@@ -4,12 +4,12 @@ module.exports = {
     "declaration-bang-space-after": "never",
     "declaration-bang-space-before": "always",
     "declaration-property-value-blacklist": {
-      "/^border/": "none"
+      "/^border/": "none",
     },
     "declaration-block-no-duplicate-properties": true,
     "rule-empty-line-before": [
       "always-multi-line",
-      { except: ["first-nested", "after-single-line-comment"] }
+      { except: ["first-nested", "after-single-line-comment"] },
     ],
     "block-no-empty": true,
     "no-missing-end-of-source-newline": true,
@@ -31,7 +31,7 @@ module.exports = {
       "ms",
       "s",
       "%",
-      "fr"
+      "fr",
     ],
     "string-quotes": "double",
     "number-no-trailing-zeros": true,
@@ -50,7 +50,7 @@ module.exports = {
       "declarations",
       { type: "at-rule", name: "include", parameter: "breakpoint" },
       { type: "at-rule", name: "media" },
-      "rules"
+      "rules",
     ],
     "order/properties-order": [
       [
@@ -64,8 +64,8 @@ module.exports = {
             "top",
             "right",
             "bottom",
-            "left"
-          ]
+            "left",
+          ],
         },
         {
           order: "flexible",
@@ -118,8 +118,8 @@ module.exports = {
             "margin-top",
             "margin-right",
             "margin-bottom",
-            "margin-left"
-          ]
+            "margin-left",
+          ],
         },
         {
           order: "flexible",
@@ -138,8 +138,8 @@ module.exports = {
             "word-wrap",
             "white-space",
             "text-overflow",
-            "text-transform"
-          ]
+            "text-transform",
+          ],
         },
         {
           order: "flexible",
@@ -159,8 +159,8 @@ module.exports = {
             "content",
             "cursor",
             "opacity",
-            "fill"
-          ]
+            "fill",
+          ],
         },
         {
           order: "flexible",
@@ -170,13 +170,13 @@ module.exports = {
             "animation-name",
             "animation-duration",
             "transition",
-            "transform"
-          ]
-        }
+            "transform",
+          ],
+        },
       ],
       {
-        unspecified: "bottom"
-      }
-    ]
-  }
+        unspecified: "bottom",
+      },
+    ],
+  },
 }

@@ -3,9 +3,9 @@ module.exports = {
   extends: ["plugin:jest/recommended"],
   globals: {
     global: true,
-    jsdom: true
+    jsdom: true,
   },
   env: {
-    "jest/globals": true
-  }
+    "jest/globals": true,
+  },
 }

@@ -2,15 +2,15 @@ module.exports = {
   plugins: ["@typescript-eslint"],
   extends: [
     "plugin:@typescript-eslint/recommended",
-    "prettier/@typescript-eslint"
+    "prettier/@typescript-eslint",
   ],
   parser: "@typescript-eslint/parser",
   rules: {
     "@typescript-eslint/camelcase": [
       "error",
       {
-        properties: "never"
-      }
+        properties: "never",
+      },
     ],
 
     "@typescript-eslint/no-non-null-assertion": "off",
@@ -25,9 +25,9 @@ module.exports = {
         vars: "all",
         args: "all",
         argsIgnorePattern: "^_[^_]+",
-        varsIgnorePattern: "^_[^_]+"
-      }
+        varsIgnorePattern: "^_[^_]+",
+      },
     ],
-    "@typescript-eslint/explicit-member-accessibility": "off"
-  }
+    "@typescript-eslint/explicit-member-accessibility": "off",
+  },
 }

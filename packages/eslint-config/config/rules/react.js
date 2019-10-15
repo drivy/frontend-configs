@@ -1,12 +1,12 @@
 module.exports = {
   parserOptions: {
     ecmaFeatures: {
-      jsx: true
-    }
+      jsx: true,
+    },
   },
   plugins: ["react"],
   extends: ["plugin:react/recommended", "prettier/react"],
   rules: {
-    "react/prop-types": "off"
-  }
+    "react/prop-types": "off",
+  },
 }
