@@ -26,6 +26,7 @@ module.exports = declare(function(api) {
   }
 
   const presetEnvBrowserOptions = {
+    forceAllTransforms: true,
     targets: browserslist,
     modules: false,
     exclude: ["transform-typeof-symbol"],
@@ -34,27 +35,24 @@ module.exports = declare(function(api) {
 
   return {
     presets: [
-      require.resolve("@babel/preset-typescript"),
+      require("@babel/preset-typescript").default,
       isTestEnv
-        ? [require.resolve("@babel/preset-env"), presetEnvNodeOptions]
-        : [require.resolve("@babel/preset-env"), presetEnvBrowserOptions],
+        ? [require("@babel/preset-env").default, presetEnvNodeOptions]
+        : [require("@babel/preset-env").default, presetEnvBrowserOptions],
       [
-        require.resolve("@babel/preset-react"),
+        require("@babel/preset-react").default,
         { development: isDevelopmentEnv || isTestEnv },
       ],
     ].filter(Boolean),
     plugins: [
-      require.resolve("babel-plugin-macros"),
-      require.resolve("@babel/plugin-syntax-dynamic-import"),
-      isTestEnv && require.resolve("babel-plugin-dynamic-import-node"),
+      require("babel-plugin-macros"),
+      require("@babel/plugin-syntax-dynamic-import").default,
+      isTestEnv && require("babel-plugin-dynamic-import-node"),
+      require("@babel/plugin-proposal-class-properties").default,
       [
-        require.resolve("@babel/plugin-proposal-class-properties"),
-        { loose: true },
-      ],
-      [
-        require.resolve("@babel/plugin-transform-runtime"),
+        require("@babel/plugin-transform-runtime").default,
         {
-          helpers: true,
+          helpers: false,
           regenerator: true,
         },
       ],

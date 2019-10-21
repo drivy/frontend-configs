@@ -4,6 +4,8 @@ Babel shareable preset for Getaround's projects. [See Babel documentation](https
 
 ## Using in another project
 
+Install: `yarn add --dev @drivy/babel-preset-app`
+
 In your local babel configuration file, add it into the `presets` field:
 
 ```
