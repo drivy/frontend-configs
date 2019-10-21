@@ -23,6 +23,7 @@ module.exports = declare(function(api) {
     targets: { node: "current" },
     modules: "commonjs",
     useBuiltIns: false,
+    corejs: 3,
   }
 
   const presetEnvBrowserOptions = {
@@ -31,29 +32,31 @@ module.exports = declare(function(api) {
     modules: false,
     exclude: ["transform-typeof-symbol"],
     useBuiltIns: "entry",
+    corejs: 3,
   }
 
   return {
     presets: [
-      require("@babel/preset-typescript").default,
+      require.resolve("@babel/preset-typescript"),
       isTestEnv
-        ? [require("@babel/preset-env").default, presetEnvNodeOptions]
-        : [require("@babel/preset-env").default, presetEnvBrowserOptions],
+        ? [require.resolve("@babel/preset-env"), presetEnvNodeOptions]
+        : [require.resolve("@babel/preset-env"), presetEnvBrowserOptions],
       [
-        require("@babel/preset-react").default,
+        require.resolve("@babel/preset-react"),
         { development: isDevelopmentEnv || isTestEnv },
       ],
     ].filter(Boolean),
     plugins: [
-      require("babel-plugin-macros"),
-      require("@babel/plugin-syntax-dynamic-import").default,
-      isTestEnv && require("babel-plugin-dynamic-import-node"),
-      require("@babel/plugin-proposal-class-properties").default,
+      require.resolve("babel-plugin-macros"),
+      require.resolve("@babel/plugin-syntax-dynamic-import"),
+      isTestEnv && require.resolve("babel-plugin-dynamic-import-node"),
+      require.resolve("@babel/plugin-proposal-class-properties"),
       [
-        require("@babel/plugin-transform-runtime").default,
+        require.resolve("@babel/plugin-transform-runtime"),
         {
           helpers: false,
           regenerator: true,
+          corejs: 3,
         },
       ],
     ].filter(Boolean),
