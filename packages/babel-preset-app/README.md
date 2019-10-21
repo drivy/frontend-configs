@@ -9,8 +9,9 @@ In your local babel configuration file, add it into the `presets` field:
 ```
 {
   "presets": [
-    "@drivy/babel-preset-app",
-    "@drivy/app" // equivalent
+    "@drivy/babel-preset-app"
   ]
 }
 ```
+
+__:warning: Note:__ For some weird reasons, the shorthand `@drivy/app` seems to not work correctly so we avoid using it. If in any updates of Babel, this issue is fixed, feel free to update this readme accordingly.

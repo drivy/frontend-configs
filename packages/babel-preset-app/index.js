@@ -1,10 +1,12 @@
 const browserslist = require("@drivy/browserslist-config")
+const { declare } = require("@babel/helper-plugin-utils")
 
-module.exports = function(api) {
+module.exports = declare(function(api) {
+  api.assertVersion(7)
+
   const validEnv = ["development", "test", "production"]
   const currentEnv = api.env()
   const isDevelopmentEnv = api.env("development")
-  const isProductionEnv = api.env("production")
   const isTestEnv = api.env("test")
 
   if (!validEnv.includes(currentEnv)) {
@@ -50,7 +52,7 @@ module.exports = function(api) {
         { loose: true },
       ],
       [
-        require("@babel/plugin-transform-runtime").default,
+        require.resolve("@babel/plugin-transform-runtime"),
         {
           helpers: true,
           regenerator: true,
@@ -58,4 +60,4 @@ module.exports = function(api) {
       ],
     ].filter(Boolean),
   }
-}
+})
