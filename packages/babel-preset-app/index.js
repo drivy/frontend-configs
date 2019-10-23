@@ -56,7 +56,6 @@ module.exports = declare(function(api) {
         {
           helpers: false,
           regenerator: true,
-          corejs: 3,
         },
       ],
     ].filter(Boolean),
