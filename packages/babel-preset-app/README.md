@@ -8,12 +8,14 @@ Install: `yarn add --dev @drivy/babel-preset-app`
 
 In your local babel configuration file `babel.config.js`, add it into the `presets` field:
 
-```
-{
+```javascript
+module.exports = {
   "presets": [
+    "@drivy/app",
+    // or equivalent
+    "@drivy/babel-preset-app",
+    // or equivalent
     require("@drivy/babel-preset-app"),
   ]
 }
 ```
-
-__:warning: Note:__ For some weird reasons, the shorthand `@drivy/app` seems to not work correctly so we avoid using it. If in any updates of Babel, this issue is fixed, feel free to update this readme accordingly.
