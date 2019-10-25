@@ -1,15 +1,17 @@
 module.exports = {
+  parser: "babel-eslint",
   env: {
     browser: true,
     es6: true,
+    jest: true,
+    node: true,
   },
   parserOptions: {
     ecmaVersion: 6,
     sourceType: "module",
     allowImportExportEverywhere: true,
   },
-  plugins: ["prettier"],
-  extends: ["eslint:recommended", "prettier"],
+  extends: ["eslint:recommended", "plugin:prettier/recommended"],
   globals: {
     google: true,
     html: true,
@@ -17,7 +19,6 @@ module.exports = {
     module: true,
   },
   rules: {
-    "prettier/prettier": "error",
     "block-scoped-var": "error",
     complexity: ["error", 20],
     eqeqeq: ["error", "allow-null"],
@@ -53,7 +54,15 @@ module.exports = {
     "wrap-iife": ["error", "any"],
     "no-shadow-restricted-names": "error",
     "no-shadow": "error",
-    "no-unused-vars": "off",
+    "no-unused-vars": [
+      "error",
+      {
+        vars: "all",
+        args: "all",
+        argsIgnorePattern: "^_[^_]+",
+        varsIgnorePattern: "^_[^_]+",
+      },
+    ],
     "no-use-before-define": ["error", "nofunc"],
     "no-restricted-imports": [
       "error",
