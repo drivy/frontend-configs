@@ -2,7 +2,7 @@
   "name": "@drivy/browserslist-config",
   "description": "Shareable browserslist config for Drivy's projects",
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "test": "node test.js"
   },
