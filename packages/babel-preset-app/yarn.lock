@@ -764,10 +764,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@drivy/browserslist-config@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.0.3.tgz#49816c43e1419fc18761677942370048293e280b"
-  integrity sha512-XB2Cf1kgni87Dp0d68SbAgMM6/QfdUVpfesvu4RjxZ7dsxv3Yqhu0IXQWFw5detdqScdfO4jxwpY65Yhh75Few==
+"@drivy/browserslist-config@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.0.4.tgz#624a0adbaa764cae000d7c80ab4c8136c8989dda"
+  integrity sha512-AnicMVTehDkcIvthFeWmSjyPENKoapUoVwJhJQ44lk6vXe2d4EJhoZBQAgylgmgKkvcVv0Je1QQgbKAHBb3MLg==
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -874,9 +874,9 @@ core-js-pure@^3.0.0:
   integrity sha512-sw695hB0UxFXrSkUthEby5tMdjOYN3hVC8IGQePF1m3JYb9e/KjT0TOFWzaSzlKwGNglKCgLYUjiJ7uZvactiw==
 
 core-js@^3.3.2:
-  version "3.3.5"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.3.5.tgz#58d20f48a95a07304b62ff752742b82b56431ed8"
-  integrity sha512-0J3K+Par/ZydhKg8pEiTcK/9d65/nqJOzY62uMkjeBmt05fDOt/khUVjDdh8TpeIuGQDy1yLDDCjiWN/8pFIuw==
+  version "3.3.6"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.3.6.tgz#6ad1650323c441f45379e176ed175c0d021eac92"
+  integrity sha512-u4oM8SHwmDuh5mWZdDg9UwNVq5s1uqq6ZDLLIs07VY+VJU91i3h4f3K/pgFvtUQPGdeStrZ+odKyfyt4EnKHfA==
 
 cosmiconfig@^5.2.0:
   version "5.2.1"
