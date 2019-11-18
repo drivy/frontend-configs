@@ -7,7 +7,7 @@
     "eslint": "^6.3.0",
     "lerna": "^3.16.4",
     "prettier": "^1.18.2",
-    "stylelint": "^11.0.0",
+    "stylelint": "^12.0.0",
     "typescript": "^3.6.2"
   },
   "license": "MIT",
