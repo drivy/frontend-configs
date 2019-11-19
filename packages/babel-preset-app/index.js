@@ -23,7 +23,6 @@ module.exports = declare(function(api) {
     targets: { node: "current" },
     modules: "commonjs",
     useBuiltIns: false,
-    corejs: 3,
   }
 
   const presetEnvBrowserOptions = {
