@@ -2,6 +2,7 @@
 
 Available shareable configs:
 
+- [Babel config](./packages/babel-preset-app)
 - [Browserslist config](./packages/browserslist-config)
 - [ESLint config](./packages/eslint-config)
 - [Prettier config](./packages/prettier-config)
