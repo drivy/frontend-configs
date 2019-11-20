@@ -1,6 +1,11 @@
 {
   "name": "@drivy/stylelint-config",
   "description": "Shareable stylelint config for Drivy's projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drivy/frontend-configs.git",
+    "directory": "packages/stylelint-config"
+  },
   "license": "MIT",
   "version": "1.0.4",
   "dependencies": {

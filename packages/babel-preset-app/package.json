@@ -4,7 +4,8 @@
   "description": "Babel preset used by Getaround",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drivy/frontend-configs.git"
+    "url": "git+https://github.com/drivy/frontend-configs.git",
+    "directory": "packages/babel-preset-app"
   },
   "homepage": "https://github.com/drivy/frontend-configs/tree/master/packages/babel-preset-app",
   "bugs": {

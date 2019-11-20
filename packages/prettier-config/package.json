@@ -1,6 +1,11 @@
 {
   "name": "@drivy/prettier-config",
   "description": "Shareable prettier config for Drivy's projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drivy/frontend-configs.git",
+    "directory": "packages/prettier-config"
+  },
   "license": "MIT",
   "version": "1.1.1",
   "publishConfig": {
