@@ -1,5 +1,6 @@
 module.exports = {
   plugins: ["stylelint-order"],
+  ignoreFiles: ["**/*.{js|ts|jsx|tsx}"],
   rules: {
     "declaration-bang-space-after": "never",
     "declaration-bang-space-before": "always",
