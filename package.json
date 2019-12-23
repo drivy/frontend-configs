@@ -4,7 +4,7 @@
     "@drivy/prettier-config": "file:packages/prettier-config",
     "@drivy/stylelint-config": "file:packages/stylelint-config",
     "@drivy/ts-config": "file:packages/ts-config",
-    "eslint": "^6.3.0",
+    "eslint": "^6.8.0",
     "lerna": "^3.16.4",
     "prettier": "^1.18.2",
     "stylelint": "^12.0.0",
