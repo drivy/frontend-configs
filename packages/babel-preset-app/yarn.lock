@@ -756,10 +756,10 @@
     "@babel/helper-plugin-utils" "^7.0.0"
     "@babel/plugin-transform-typescript" "^7.7.4"
 
-"@babel/runtime-corejs3@^7.7.7":
-  version "7.7.7"
-  resolved "https://registry.yarnpkg.com/@babel/runtime-corejs3/-/runtime-corejs3-7.7.7.tgz#78fcbd472daec13abc42678bfc319e58a62235a3"
-  integrity sha512-kr3W3Fw8mB/CTru2M5zIRQZZgC/9zOxNSoJ/tVCzjPt3H1/p5uuGbz6WwmaQy/TLQcW31rUhUUWKY28sXFRelA==
+"@babel/runtime-corejs3@^7.8.0":
+  version "7.8.0"
+  resolved "https://registry.yarnpkg.com/@babel/runtime-corejs3/-/runtime-corejs3-7.8.0.tgz#397520fd2375bb35ed91306be14052fbe2dc598b"
+  integrity sha512-5XaME/D4hTkUclw4BW+FeDyfUcxN5/Fox/+9UiWUqdyU33zsLxDAE74IexAmLccuHSQyFbIzF5+Yb4E6obVOSg==
   dependencies:
     core-js-pure "^3.0.0"
     regenerator-runtime "^0.13.2"
@@ -811,10 +811,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@drivy/browserslist-config@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.0.7.tgz#90703ac9201f96687db3da6e8c9ce2f88eec20a1"
-  integrity sha512-QZoW7ZcoENYXnorMzWpPfRunAsvw2JGo9oVrVbwxIL627UR17nBvUeqS5o9AFyB8SK1K6v4WE22aFF3u3ABBeQ==
+"@drivy/browserslist-config@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.0.8.tgz#6def539d39d8b1458b45c46bcd111afaa88e8d2e"
+  integrity sha512-Z0y0bP/zPrEuJNSpFazql4+8yZC8YU4JocjEN+7enhYzkXEfAnHUAcV020Vbbdl8Iy83rSG3ULz10iud0xVyXg==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
