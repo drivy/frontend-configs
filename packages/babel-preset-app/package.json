@@ -29,6 +29,6 @@
     "@drivy/browserslist-config": "^1.0.8",
     "babel-plugin-dynamic-import-node": "^2.3.0",
     "babel-plugin-macros": "^2.8.0",
-    "core-js": "^3.6.3"
+    "core-js": "^3.6.4"
   }
 }
