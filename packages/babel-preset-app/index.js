@@ -26,10 +26,13 @@ module.exports = declare(function(api) {
   }
 
   const presetEnvBrowserOptions = {
-    forceAllTransforms: true,
     targets: browserslist,
+    // Do not transform modules to CJS
     modules: false,
+    // this transform makes the code slower, so we exclude it
     exclude: ["transform-typeof-symbol"],
+    // Adds specific imports for polyfills when they are used in each file.
+    // We take advantage of the fact that a bundler will load the same polyfill only once.
     useBuiltIns: "entry",
     corejs: 3,
   }
@@ -53,8 +56,15 @@ module.exports = declare(function(api) {
       [
         require.resolve("@babel/plugin-transform-runtime"),
         {
+          corejs: false,
           helpers: false,
+          // By default, babel assumes babel/runtime version 7.0.0-beta.0,
+          // explicitly resolving to match the provided helper functions.
+          // https://github.com/babel/babel/issues/10261
+          version: require("@babel/runtime/package.json").version,
           regenerator: true,
+          // https://babeljs.io/docs/en/babel-plugin-transform-runtime#useesmodules
+          useESModules: !isTestEnv,
         },
       ],
     ].filter(Boolean),
