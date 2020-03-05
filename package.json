@@ -1,0 +1,33 @@
+{
+  "name": "@drivy/babel-preset-app",
+  "version": "0.1.12",
+  "description": "Babel preset used by Getaround",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drivy/frontend-configs.git",
+    "directory": "packages/babel-preset-app"
+  },
+  "homepage": "https://github.com/drivy/frontend-configs/tree/master/packages/babel-preset-app",
+  "bugs": {
+    "url": "https://github.com/drivy/frontend-configs/issues"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-syntax-dynamic-import": "^7.8.3",
+    "@babel/plugin-transform-runtime": "^7.8.3",
+    "@babel/preset-env": "^7.8.6",
+    "@babel/preset-react": "^7.8.3",
+    "@babel/preset-typescript": "^7.8.3",
+    "@babel/runtime": "^7.8.4",
+    "@drivy/browserslist-config": "^1.0.10",
+    "babel-plugin-dynamic-import-node": "^2.3.0",
+    "babel-plugin-macros": "^2.8.0",
+    "core-js": "^3.6.4"
+  }
+}
