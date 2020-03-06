@@ -15,6 +15,7 @@
     "postinstall": "lerna exec yarn",
     "test": "lerna run test",
     "lint": "eslint packages/ --ext js",
-    "typecheck": "tsc"
+    "typecheck": "tsc --noEmit",
+    "publish": "lerna publish -m ':gem: Release configs'"
   }
 }
