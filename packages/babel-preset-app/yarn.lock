@@ -883,10 +883,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@drivy/browserslist-config@^1.0.10":
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.0.10.tgz#1f68d53466986fcce10559a92ce41fb65a0f1a90"
-  integrity sha512-2/jTJUxysDELTeZWboUNiyW2DRKVQ6j4w2aY1oNAd3Jx2X1KDFibpEEuZbDP7DUxxrtCF7XgKBYIDZszqwKBFw==
+"@drivy/browserslist-config@^1.0.11":
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.0.11.tgz#28125182d56553cd3e22361f632a1539f3d576a8"
+  integrity sha512-A7jHtxlTb3jPFUx3aOMs3qiSxQz2j3LtJQ9SkrmiDxtq/BIb7CyTv027qBmMWau5qO57IvrXhnxfnIYC//CrfA==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -900,10 +900,10 @@ ansi-styles@^3.2.1:
   dependencies:
     color-convert "^1.9.0"
 
-babel-plugin-dynamic-import-node@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-dynamic-import-node/-/babel-plugin-dynamic-import-node-2.3.0.tgz#f00f507bdaa3c3e3ff6e7e5e98d90a7acab96f7f"
-  integrity sha512-o6qFkpeQEBxcqt0XYlWzAVxNCSCZdUgcR8IRlhD/8DylxjjO4foPcvTW0GGKa/cVt3rvxZ7o5ippJ+/0nvLhlQ==
+babel-plugin-dynamic-import-node@^2.3.0, babel-plugin-dynamic-import-node@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/babel-plugin-dynamic-import-node/-/babel-plugin-dynamic-import-node-2.3.2.tgz#14fb5accb300f9aac0151949f6192259f1403c4a"
+  integrity sha512-yvczAMjbc73xira9yTyF1XnEmkX8QwlUhmxuhimeMUeAaA6s7busTPRVDzhVG7eeBdNcRiZ/mAwFrJ9It4vQcg==
   dependencies:
     object.assign "^4.1.0"
 
