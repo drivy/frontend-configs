@@ -27,7 +27,7 @@
     "@babel/runtime": "^7.8.7",
     "@babel/runtime-corejs3": "^7.8.7",
     "@drivy/browserslist-config": "^1.0.11",
-    "babel-plugin-dynamic-import-node": "^2.3.0",
+    "babel-plugin-dynamic-import-node": "^2.3.3",
     "babel-plugin-macros": "^2.8.0",
     "core-js": "^3.6.5"
   }
