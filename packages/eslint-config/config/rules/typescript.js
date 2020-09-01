@@ -6,10 +6,16 @@ module.exports = {
   ],
   parser: "@typescript-eslint/parser",
   rules: {
-    "@typescript-eslint/camelcase": [
+    "@typescript-eslint/naming-convention": [
       "error",
       {
-        properties: "never",
+        selector: "variable",
+        format: ["camelCase", "UPPER_CASE"],
+      },
+      {
+        selector: "parameter",
+        format: ["camelCase"],
+        leadingUnderscore: "allow",
       },
     ],
 
