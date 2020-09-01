@@ -13,9 +13,21 @@ module.exports = {
         format: ["camelCase", "UPPER_CASE"],
       },
       {
+        selector: "class",
+        format: ["PascalCase"],
+      },
+      {
         selector: "parameter",
         format: ["camelCase"],
         leadingUnderscore: "allow",
+      },
+      {
+        selector: "property",
+        format: ["camelCase"],
+        filter: {
+          regex: "[- ]",
+          match: false,
+        },
       },
     ],
 
