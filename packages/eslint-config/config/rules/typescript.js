@@ -6,37 +6,13 @@ module.exports = {
   ],
   parser: "@typescript-eslint/parser",
   rules: {
-    "@typescript-eslint/naming-convention": [
-      "error",
-      {
-        selector: "variable",
-        format: ["camelCase", "UPPER_CASE"],
-      },
-      {
-        selector: "class",
-        format: ["PascalCase"],
-      },
-      {
-        selector: "parameter",
-        format: ["camelCase"],
-        leadingUnderscore: "allow",
-      },
-      {
-        selector: "property",
-        format: ["camelCase"],
-        filter: {
-          regex: "[- ]",
-          match: false,
-        },
-      },
-    ],
-
     "@typescript-eslint/no-non-null-assertion": "off",
     "@typescript-eslint/no-explicit-any": "off",
     "@typescript-eslint/no-use-before-define": "off",
     "@typescript-eslint/no-var-requires": "off",
     "@typescript-eslint/prefer-interface": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
     "@typescript-eslint/no-unused-vars": [
       "error",
       {
