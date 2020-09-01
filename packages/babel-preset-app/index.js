@@ -1,7 +1,7 @@
 const browserslist = require("@drivy/browserslist-config")
 const { declare } = require("@babel/helper-plugin-utils")
 
-module.exports = declare(function(api) {
+module.exports = declare(function (api) {
   api.assertVersion(7)
 
   const validEnv = ["development", "test", "production"]
