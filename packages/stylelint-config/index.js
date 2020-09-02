@@ -4,7 +4,7 @@ module.exports = {
   rules: {
     "declaration-bang-space-after": "never",
     "declaration-bang-space-before": "always",
-    "declaration-property-value-blacklist": {
+    "declaration-property-value-disallowed-list": {
       "/^border/": "none",
     },
     "declaration-block-no-duplicate-properties": true,
@@ -18,7 +18,7 @@ module.exports = {
     "color-hex-case": "lower",
     "color-no-invalid-hex": true,
     "no-duplicate-selectors": true,
-    "unit-whitelist": [
+    "unit-allowed-list": [
       "em",
       "rem",
       "px",
@@ -44,7 +44,7 @@ module.exports = {
     "value-no-vendor-prefix": true,
     "length-zero-no-unit": true,
     "max-nesting-depth": 3,
-    "function-blacklist": ["repeat"], // because of an issue with sass and autoprefixer
+    "function-disallowed-list": ["repeat"], // because of an issue with sass and autoprefixer
     "order/order": [
       "dollar-variables",
       { type: "at-rule", name: "include" },
