@@ -1,6 +1,6 @@
 {
   "name": "@drivy/eslint-config",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Shareable eslint config for Drivy's projects",
   "repository": {
     "type": "git",
@@ -21,11 +21,11 @@
     "@typescript-eslint/eslint-plugin": ">= 3.10.1",
     "@typescript-eslint/parser": ">= 3.10.1",
     "eslint": ">= 5.3.0",
-    "prettier": ">= 1.16.4",
     "eslint-config-prettier": ">= 6.10.0",
     "eslint-plugin-prettier": ">= 3.1.2",
     "eslint-plugin-react": ">= 7.19.0",
-    "eslint-plugin-react-hooks": ">= 2.5.0"
+    "eslint-plugin-react-hooks": ">= 2.5.0",
+    "prettier": ">= 1.16.4"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "3.10.1",
