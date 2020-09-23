@@ -19,6 +19,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "browserslist": "^4.14.3"
+    "browserslist": "^4.14.4"
   }
 }
