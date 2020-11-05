@@ -7,7 +7,7 @@
     "directory": "packages/browserslist-config"
   },
   "license": "MIT",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "scripts": {
     "test": "node test.js"
   },
