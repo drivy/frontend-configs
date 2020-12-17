@@ -1,5 +1,9 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "reviewers": ["cpatchane"],
+  "assignees": ["cpatchane"],
+  "labels": ["dependencies"],
+  "dependencyDashboard": true
 }
