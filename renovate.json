@@ -3,7 +3,7 @@
     "config:base"
   ],
   "rangeStrategy": "bump",
-  "reviewers": ["cpatchane"],
+  "reviewers": [],
   "assignees": ["cpatchane"],
   "labels": ["dependencies"],
   "dependencyDashboard": true
