@@ -6,5 +6,6 @@
   "reviewers": [],
   "assignees": ["cpatchane"],
   "labels": ["dependencies"],
-  "dependencyDashboard": true
+  "dependencyDashboard": true,
+  "dependencyDashboardTitle": "⭐️ Dependency Dashboard ⭐️"
 }
