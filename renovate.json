@@ -3,6 +3,7 @@
     "config:base"
   ],
   "rangeStrategy": "bump",
+  "lockFileMaintenance": { "enabled": true },
   "reviewers": [],
   "assignees": ["cpatchane"],
   "labels": ["dependencies"],
