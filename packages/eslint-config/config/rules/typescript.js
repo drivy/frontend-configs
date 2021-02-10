@@ -6,12 +6,15 @@ module.exports = {
   ],
   parser: "@typescript-eslint/parser",
   rules: {
+    // We disable some rules from eslint to the use the typescript-eslint ones
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": ["error"],
+    "no-shadow": "off",
+    "@typescript-eslint/no-shadow": ["error"],
+
     "@typescript-eslint/no-non-null-assertion": "off",
     "@typescript-eslint/no-empty-function": "off",
     "@typescript-eslint/no-explicit-any": "off",
-    // We disable the rule from eslint to the use the typescript-eslint one
-    "no-use-before-define": "off",
-    "@typescript-eslint/no-use-before-define": "error",
     "@typescript-eslint/no-var-requires": "off",
     "@typescript-eslint/prefer-interface": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
