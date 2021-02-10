@@ -1,6 +1,6 @@
 {
   "name": "@drivy/babel-preset-app",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Babel preset used by Getaround",
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
     "@babel/preset-typescript": "^7.12.13",
     "@babel/runtime": "^7.12.13",
     "@babel/runtime-corejs3": "^7.12.13",
-    "@drivy/browserslist-config": "^1.0.15",
+    "@drivy/browserslist-config": "^1.0.16",
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "babel-plugin-macros": "^3.0.1",
     "core-js": "^3.8.3"
