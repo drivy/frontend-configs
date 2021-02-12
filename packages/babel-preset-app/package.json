@@ -1,6 +1,6 @@
 {
   "name": "@drivy/babel-preset-app",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "Babel preset used by Getaround",
   "repository": {
     "type": "git",
