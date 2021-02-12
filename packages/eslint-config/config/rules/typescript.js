@@ -8,7 +8,8 @@ module.exports = {
   rules: {
     // We disable some rules from eslint to the use the typescript-eslint ones
     "no-use-before-define": "off",
-    "@typescript-eslint/no-use-before-define": ["error"],
+    // Disabled on functions since they can be hoisted
+    "@typescript-eslint/no-use-before-define": ["error", { functions: false }],
     "no-shadow": "off",
     "@typescript-eslint/no-shadow": ["error"],
 
