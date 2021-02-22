@@ -5,7 +5,7 @@ module.exports = {
     },
   },
   plugins: ["react", "react-hooks"],
-  extends: ["plugin:react/recommended", "prettier/react"],
+  extends: ["plugin:react/recommended"],
   rules: {
     "react/prop-types": "off",
   },

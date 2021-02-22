@@ -1,9 +1,6 @@
 module.exports = {
   plugins: ["@typescript-eslint"],
-  extends: [
-    "plugin:@typescript-eslint/recommended",
-    "prettier/@typescript-eslint",
-  ],
+  extends: ["plugin:@typescript-eslint/recommended"],
   parser: "@typescript-eslint/parser",
   rules: {
     // We disable some rules from eslint to the use the typescript-eslint ones
