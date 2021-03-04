@@ -6,7 +6,7 @@
     "@drivy/ts-config": "file:packages/ts-config",
     "@rushstack/eslint-patch": "1.0.6",
     "eslint": "7.21.0",
-    "lerna": "3.22.1",
+    "lerna": "4.0.0",
     "prettier": "2.2.1",
     "stylelint": "13.11.0",
     "typescript": "4.2.2"
