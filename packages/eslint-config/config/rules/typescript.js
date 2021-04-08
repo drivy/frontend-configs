@@ -9,6 +9,8 @@ module.exports = {
     "@typescript-eslint/no-use-before-define": ["error", { functions: false }],
     "no-shadow": "off",
     "@typescript-eslint/no-shadow": ["error"],
+    // We let prettier handle semicolons in the code
+    "@typescript-eslint/no-extra-semi": "off",
 
     "@typescript-eslint/no-non-null-assertion": "off",
     "@typescript-eslint/no-empty-function": "off",
