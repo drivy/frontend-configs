@@ -57,7 +57,7 @@ module.exports = {
       true,
       {
         // We ignore on image-set because of x unit usage
-        ignoreFunctions: ["image-set"],
+        ignoreFunctions: ["image-set", "-webkit-image-set"],
       },
     ],
     "order/properties-order": [
