@@ -53,6 +53,13 @@ module.exports = {
       { type: "at-rule", name: "media" },
       "rules",
     ],
+    "unit-no-unknown": [
+      true,
+      {
+        // We ignore on image-set because of x unit usage
+        ignoreFunctions: ["image-set"],
+      },
+    ],
     "order/properties-order": [
       [
         {
