@@ -17,6 +17,6 @@
     "test": "lerna run test",
     "lint": "eslint packages/ --ext js",
     "typecheck": "tsc --noEmit",
-    "publish": "lerna publish -m ':gem: Release configs'"
+    "publish:npm": "lerna publish -m ':gem: Release configs'"
   }
 }
