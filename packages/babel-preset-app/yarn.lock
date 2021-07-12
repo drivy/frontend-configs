@@ -965,10 +965,10 @@
     "@babel/helper-validator-identifier" "^7.14.5"
     to-fast-properties "^2.0.0"
 
-"@drivy/browserslist-config@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.2.1.tgz#c028e164f8480e58a6f1731502f38215d8586efe"
-  integrity sha512-RTFcoJNo0aJ1H963eUVEcT+Y6UkL9Amn0McB/OAzjoTmTFTQF1rd5q3qvOzTSFjMglrp3mikf0qAjJVgQjI4SQ==
+"@drivy/browserslist-config@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.2.2.tgz#2748a268b082c3e912224c6c11628995ee930257"
+  integrity sha512-amclDcCqUJfO2Jl0ZL0lPlvYWudSNqQGh205/K61XzNWVPlEPSDOX2tIwdWszxASouE2NZqCv5SjNGA3va33vg==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -1047,9 +1047,9 @@ callsites@^3.0.0:
   integrity sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==
 
 caniuse-lite@^1.0.30001219:
-  version "1.0.30001242"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001242.tgz#04201627abcd60dc89211f22cbe2347306cda46b"
-  integrity sha512-KvNuZ/duufelMB3w2xtf9gEWCSxJwUgoxOx5b6ScLXC4kPc9xsczUVCPrQU26j5kOsHM4pSUL54tAZt5THQKug==
+  version "1.0.30001243"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001243.tgz#d9250155c91e872186671c523f3ae50cfc94a3aa"
+  integrity sha512-vNxw9mkTBtkmLFnJRv/2rhs1yufpDfCkBZexG3Y0xdOH2Z/eE/85E4Dl5j1YUN34nZVsSp6vVRFQRrez9wJMRA==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -1128,9 +1128,9 @@ define-properties@^1.1.3:
     object-keys "^1.0.12"
 
 electron-to-chromium@^1.3.723:
-  version "1.3.766"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.766.tgz#2fd14a4e54f77665872f4e23fcf4968e83638220"
-  integrity sha512-u2quJ862q9reRKh/je3GXis3w38+RoXH1J9N3XjtsS6NzmUAosNsyZgUVFZPN/ZlJ3v6T0rTyZR3q/J5c6Sy5w==
+  version "1.3.772"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.772.tgz#fd1ed39f9f3149f62f581734e4f026e600369479"
+  integrity sha512-X/6VRCXWALzdX+RjCtBU6cyg8WZgoxm9YA02COmDOiNJEZ59WkQggDbWZ4t/giHi/3GS+cvdrP6gbLISANAGYA==
 
 error-ex@^1.3.1:
   version "1.3.2"
