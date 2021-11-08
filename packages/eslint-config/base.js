@@ -1,5 +1,5 @@
 module.exports = {
-  parser: "babel-eslint",
+  parser: "@babel/eslint-parser",
   env: {
     browser: true,
     es6: true,
@@ -7,6 +7,7 @@ module.exports = {
     node: true,
   },
   parserOptions: {
+    requireConfigFile: false,
     ecmaVersion: 6,
     sourceType: "module",
     allowImportExportEverywhere: true,
