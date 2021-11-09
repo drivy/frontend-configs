@@ -35,10 +35,10 @@
     semver "^6.3.0"
     source-map "^0.5.0"
 
-"@babel/eslint-parser@7.16.0":
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.16.0.tgz#032cf6c8d844a95ad62f779d2708fb4f77e1a81c"
-  integrity sha512-c+AsYOHjI+FgCa+ifLd8sDXp4U4mjkfFgL9NdQWhuA731kAUJs0WdJIXET4A14EJAR9Jv9FFF/MzPWJfV9Oirw==
+"@babel/eslint-parser@7.16.3":
+  version "7.16.3"
+  resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.16.3.tgz#2a6b1702f3f5aea48e00cea5a5bcc241c437e459"
+  integrity sha512-iB4ElZT0jAt7PKVaeVulOECdGe6UnmA/O0P9jlF5g5GBOwDVbna8AXhHRu4s27xQf6OkveyA8iTDv1jHdDejgQ==
   dependencies:
     eslint-scope "^5.1.1"
     eslint-visitor-keys "^2.1.0"
@@ -211,10 +211,10 @@
     to-fast-properties "^2.0.0"
 
 "@drivy/eslint-config@file:packages/eslint-config":
-  version "1.5.5"
+  version "1.6.0"
   dependencies:
     "@babel/core" "^7.16.0"
-    "@babel/eslint-parser" "7.16.0"
+    "@babel/eslint-parser" "7.16.3"
     "@typescript-eslint/eslint-plugin" "5.3.0"
     "@typescript-eslint/parser" "5.3.0"
     eslint "^8.2.0"
@@ -229,7 +229,7 @@
   version "1.1.3"
 
 "@drivy/stylelint-config@file:packages/stylelint-config":
-  version "1.0.13"
+  version "1.1.0"
   dependencies:
     stylelint-order "5.0.0"
 
