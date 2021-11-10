@@ -1,6 +1,6 @@
 {
   "name": "@drivy/eslint-config",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Shareable eslint config for Drivy's projects",
   "repository": {
     "type": "git",
