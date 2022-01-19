@@ -7,7 +7,7 @@
     "directory": "packages/stylelint-config"
   },
   "license": "MIT",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "dependencies": {
     "stylelint-order": "5.0.0"
   },
