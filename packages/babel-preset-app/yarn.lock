@@ -985,10 +985,10 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@drivy/browserslist-config@^1.2.5":
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.2.5.tgz#1ef9da67c2f934f92a7732707a5a755874fd2d9e"
-  integrity sha512-ldN1KK3A3ADEEBHgi8YZiUIm5zC4RlCOOUnaPTebyec13ZyObwD5XQrtuYcD7LNAptemYBSWy+AzZVGQdLJZXQ==
+"@drivy/browserslist-config@^1.2.6":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.2.6.tgz#c0728cc9b77d815c4dc87d573b46311a66cf7c2d"
+  integrity sha512-kOaPL0LxRZaYwIQI7Kb0CAHcI+UDHBKaaQeakLjrh61Fc7NWsd1HrgfYHBA8Nvq6297c4leCTF65IGsEIe+NJA==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
