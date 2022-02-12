@@ -5,7 +5,7 @@
     "@drivy/stylelint-config": "file:packages/stylelint-config",
     "@drivy/ts-config": "file:packages/ts-config",
     "@rushstack/eslint-patch": "1.1.0",
-    "eslint": "8.8.0",
+    "eslint": "8.9.0",
     "lerna": "4.0.0",
     "prettier": "2.5.1",
     "stylelint": "14.3.0",
