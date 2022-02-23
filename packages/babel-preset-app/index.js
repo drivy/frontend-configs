@@ -41,6 +41,7 @@ module.exports = declare(function (api) {
     presets: [
       [
         require.resolve("@babel/preset-typescript"),
+        // To remove in Babel 8 since it will be the default
         { allowDeclareFields: true },
       ],
       isTestEnv
