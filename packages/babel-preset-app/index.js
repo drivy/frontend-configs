@@ -39,7 +39,10 @@ module.exports = declare(function (api) {
 
   return {
     presets: [
-      require.resolve("@babel/preset-typescript"),
+      [
+        require.resolve("@babel/preset-typescript"),
+        { allowDeclareFields: true },
+      ],
       isTestEnv
         ? [require.resolve("@babel/preset-env"), presetEnvNodeOptions]
         : [require.resolve("@babel/preset-env"), presetEnvBrowserOptions],
