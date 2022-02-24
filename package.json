@@ -5,6 +5,7 @@
     "@drivy/stylelint-config": "file:packages/stylelint-config",
     "@drivy/ts-config": "file:packages/ts-config",
     "@rushstack/eslint-patch": "1.1.0",
+    "auto-changelog": "2.4.0",
     "eslint": "8.9.0",
     "lerna": "4.0.0",
     "prettier": "2.5.1",
@@ -17,6 +18,7 @@
     "test": "lerna run test",
     "lint": "eslint packages/ --ext js",
     "typecheck": "tsc --noEmit",
+    "version": "./scripts/changelog.sh",
     "publish:npm": "lerna publish -m ':gem: Release configs'"
   }
 }
