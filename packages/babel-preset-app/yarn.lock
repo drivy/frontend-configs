@@ -992,10 +992,10 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@drivy/browserslist-config@^1.2.6":
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.2.6.tgz#c0728cc9b77d815c4dc87d573b46311a66cf7c2d"
-  integrity sha512-kOaPL0LxRZaYwIQI7Kb0CAHcI+UDHBKaaQeakLjrh61Fc7NWsd1HrgfYHBA8Nvq6297c4leCTF65IGsEIe+NJA==
+"@drivy/browserslist-config@^1.2.7":
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/@drivy/browserslist-config/-/browserslist-config-1.2.7.tgz#b64ba43c2fb27621d278db0ed170330e2d7241d5"
+  integrity sha512-kG/br9IqnyIAyVPhUPWIfICo6oWnKLYHZtm4mN73aItrlqHcucHjgRzL6D8TYMYE8xXJlixfpUM9nP7Sh/OpUg==
 
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.0.5"
@@ -1168,9 +1168,9 @@ define-properties@^1.1.3:
     object-keys "^1.0.12"
 
 electron-to-chromium@^1.4.71:
-  version "1.4.71"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.71.tgz#17056914465da0890ce00351a3b946fd4cd51ff6"
-  integrity sha512-Hk61vXXKRb2cd3znPE9F+2pLWdIOmP7GjiTj45y6L3W/lO+hSnUSUhq+6lEaERWBdZOHbk2s3YV5c9xVl3boVw==
+  version "1.4.72"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.72.tgz#19b871f1da8be8199b2330d694fc84fcdb72ecd9"
+  integrity sha512-9LkRQwjW6/wnSfevR21a3k8sOJ+XWSH7kkzs9/EUenKmuDkndP3W9y1yCZpOxufwGbX3JV8glZZSDb4o95zwXQ==
 
 error-ex@^1.3.1:
   version "1.3.2"
