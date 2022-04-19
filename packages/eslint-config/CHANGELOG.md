@@ -2,7 +2,46 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@drivy/eslint-config@1.6.5](https://github.com/drivy/frontend-configs/compare/@drivy/eslint-config@1.6.4...@drivy/eslint-config@1.6.5)
+
+- Lock file maintenance [`#726`](https://github.com/drivy/frontend-configs/pull/726)
+- Update typescript-eslint monorepo to v5.20.0 [`#727`](https://github.com/drivy/frontend-configs/pull/727)
+- Lock file maintenance [`#721`](https://github.com/drivy/frontend-configs/pull/721)
+- Update typescript-eslint monorepo to v5.19.0 [`#722`](https://github.com/drivy/frontend-configs/pull/722)
+- Update dependency eslint to v8.13.0 [`#719`](https://github.com/drivy/frontend-configs/pull/719)
+- Update dependency eslint-plugin-jest to ^26.1.4 [`#718`](https://github.com/drivy/frontend-configs/pull/718)
+- Update babel monorepo to ^7.17.9 [`#717`](https://github.com/drivy/frontend-configs/pull/717)
+- Lock file maintenance [`#713`](https://github.com/drivy/frontend-configs/pull/713)
+- Update typescript-eslint monorepo to v5.18.0 [`#714`](https://github.com/drivy/frontend-configs/pull/714)
+- Update dependency eslint-plugin-react-hooks to ^4.4.0 [`#715`](https://github.com/drivy/frontend-configs/pull/715)
+- Update dependency prettier to v2.6.2 [`#716`](https://github.com/drivy/frontend-configs/pull/716)
+- Update dependency eslint to v8.12.0 [`#712`](https://github.com/drivy/frontend-configs/pull/712)
+- Update dependency prettier to v2.6.1 [`#710`](https://github.com/drivy/frontend-configs/pull/710)
+- Bump minimist from 1.2.5 to 1.2.6 [`#708`](https://github.com/drivy/frontend-configs/pull/708)
+- Update dependency eslint-plugin-jest to ^26.1.3 [`#705`](https://github.com/drivy/frontend-configs/pull/705)
+- Update typescript-eslint monorepo to v5.16.0 [`#704`](https://github.com/drivy/frontend-configs/pull/704)
+- Lock file maintenance [`#703`](https://github.com/drivy/frontend-configs/pull/703)
+- Update dependency prettier to v2.6.0 [`#699`](https://github.com/drivy/frontend-configs/pull/699)
+- Update babel monorepo to ^7.17.8 [`#701`](https://github.com/drivy/frontend-configs/pull/701)
+- Update dependency eslint-plugin-jest to ^26.1.2 [`#702`](https://github.com/drivy/frontend-configs/pull/702)
+- Lock file maintenance [`#693`](https://github.com/drivy/frontend-configs/pull/693)
+- Update babel monorepo to ^7.17.7 [`#694`](https://github.com/drivy/frontend-configs/pull/694)
+- Update typescript-eslint monorepo to v5.15.0 [`#695`](https://github.com/drivy/frontend-configs/pull/695)
+- Update dependency eslint-plugin-react to ^7.29.4 [`#692`](https://github.com/drivy/frontend-configs/pull/692)
+- Update dependency eslint to v8.11.0 [`#691`](https://github.com/drivy/frontend-configs/pull/691)
+- Update typescript-eslint monorepo to v5.14.0 [`#690`](https://github.com/drivy/frontend-configs/pull/690)
+- Lock file maintenance [`#689`](https://github.com/drivy/frontend-configs/pull/689)
+- Update dependency eslint-plugin-react to ^7.29.3 [`#687`](https://github.com/drivy/frontend-configs/pull/687)
+- Update dependency eslint-config-prettier to ^8.5.0 [`#686`](https://github.com/drivy/frontend-configs/pull/686)
+- Update dependency eslint to v8.10.0 [`#682`](https://github.com/drivy/frontend-configs/pull/682)
+- Lock file maintenance [`#683`](https://github.com/drivy/frontend-configs/pull/683)
+- Update dependency eslint-plugin-react to ^7.29.2 [`#681`](https://github.com/drivy/frontend-configs/pull/681)
+- Update typescript-eslint monorepo to v5.13.0 [`#684`](https://github.com/drivy/frontend-configs/pull/684)
+- Update dependency eslint-plugin-react to ^7.29.0 [`#680`](https://github.com/drivy/frontend-configs/pull/680)
+
 #### [@drivy/eslint-config@1.6.4](https://github.com/drivy/frontend-configs/compare/@drivy/eslint-config@1.6.3...@drivy/eslint-config@1.6.4)
+
+> 24 February 2022
 
 - Lock file maintenance [`#679`](https://github.com/drivy/frontend-configs/pull/679)
 

@@ -2,7 +2,21 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@drivy/browserslist-config@1.2.9](https://github.com/drivy/frontend-configs/compare/@drivy/browserslist-config@1.2.8...@drivy/browserslist-config@1.2.9)
+
+- Lock file maintenance [`#726`](https://github.com/drivy/frontend-configs/pull/726)
+- Lock file maintenance [`#721`](https://github.com/drivy/frontend-configs/pull/721)
+- Lock file maintenance [`#713`](https://github.com/drivy/frontend-configs/pull/713)
+- Lock file maintenance [`#703`](https://github.com/drivy/frontend-configs/pull/703)
+- Update dependency browserslist to v4.20.2 [`#697`](https://github.com/drivy/frontend-configs/pull/697)
+- Lock file maintenance [`#693`](https://github.com/drivy/frontend-configs/pull/693)
+- Lock file maintenance [`#689`](https://github.com/drivy/frontend-configs/pull/689)
+- Update dependency browserslist to v4.20.0 [`#688`](https://github.com/drivy/frontend-configs/pull/688)
+- Lock file maintenance [`#683`](https://github.com/drivy/frontend-configs/pull/683)
+
 #### [@drivy/browserslist-config@1.2.8](https://github.com/drivy/frontend-configs/compare/@drivy/browserslist-config@1.2.7...@drivy/browserslist-config@1.2.8)
+
+> 24 February 2022
 
 - Lock file maintenance [`#679`](https://github.com/drivy/frontend-configs/pull/679)
 

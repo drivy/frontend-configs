@@ -2,7 +2,24 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@drivy/babel-preset-app@0.4.13](https://github.com/drivy/frontend-configs/compare/@drivy/babel-preset-app@0.4.12...@drivy/babel-preset-app@0.4.13)
+
+- Lock file maintenance [`#726`](https://github.com/drivy/frontend-configs/pull/726)
+- Update dependency core-js to ^3.22.0 [`#724`](https://github.com/drivy/frontend-configs/pull/724)
+- Lock file maintenance [`#721`](https://github.com/drivy/frontend-configs/pull/721)
+- Update babel monorepo to ^7.17.9 [`#717`](https://github.com/drivy/frontend-configs/pull/717)
+- Lock file maintenance [`#713`](https://github.com/drivy/frontend-configs/pull/713)
+- Bump minimist from 1.2.5 to 1.2.6 [`#708`](https://github.com/drivy/frontend-configs/pull/708)
+- Lock file maintenance [`#703`](https://github.com/drivy/frontend-configs/pull/703)
+- Update babel monorepo to ^7.17.8 [`#701`](https://github.com/drivy/frontend-configs/pull/701)
+- Lock file maintenance [`#693`](https://github.com/drivy/frontend-configs/pull/693)
+- Update babel monorepo to ^7.17.7 [`#694`](https://github.com/drivy/frontend-configs/pull/694)
+- Lock file maintenance [`#689`](https://github.com/drivy/frontend-configs/pull/689)
+- Lock file maintenance [`#683`](https://github.com/drivy/frontend-configs/pull/683)
+
 #### [@drivy/babel-preset-app@0.4.12](https://github.com/drivy/frontend-configs/compare/@drivy/babel-preset-app@0.4.11...@drivy/babel-preset-app@0.4.12)
+
+> 24 February 2022
 
 - Lock file maintenance [`#679`](https://github.com/drivy/frontend-configs/pull/679)
 
