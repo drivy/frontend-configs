@@ -22,7 +22,7 @@
     "prettier": ">= 2.6.2"
   },
   "dependencies": {
-    "@babel/core": "^7.17.9",
+    "@babel/core": "^7.17.10",
     "@babel/eslint-parser": "7.17.0",
     "@typescript-eslint/eslint-plugin": "5.21.0",
     "@typescript-eslint/parser": "5.21.0",
