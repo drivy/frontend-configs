@@ -7,7 +7,7 @@
     "directory": "packages/stylelint-config"
   },
   "license": "MIT",
-  "version": "1.1.6",
+  "version": "1.2.0",
   "dependencies": {
     "postcss-scss": "4.0.4",
     "stylelint-order": "5.0.0",
