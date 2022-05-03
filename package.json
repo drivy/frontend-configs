@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "@drivy/eslint-config": "file:packages/eslint-config",
-    "@drivy/prettier-config": "file:packages/prettier-config",
-    "@drivy/stylelint-config": "file:packages/stylelint-config",
-    "@drivy/ts-config": "file:packages/ts-config",
+    "@getaround-eu/eslint-config": "file:packages/eslint-config",
+    "@getaround-eu/prettier-config": "file:packages/prettier-config",
+    "@getaround-eu/stylelint-config": "file:packages/stylelint-config",
+    "@getaround-eu/ts-config": "file:packages/ts-config",
     "@rushstack/eslint-patch": "1.1.3",
     "auto-changelog": "2.4.0",
     "eslint": "8.14.0",

@@ -7,8 +7,8 @@ packages_path="$dir_path/../packages"
 compute_changelog()
 {
   initial_path=$(pwd)
-  # Remove the @drivy/ prefix, since the folder name doesn't have it
-  cd "$packages_path/${1/@drivy\//}"
+  # Remove the @getaround-eu/ prefix, since the folder name doesn't have it
+  cd "$packages_path/${1/@getaround-eu\//}"
 
   # Package release and tag is using the format `package_name@version`
   npm_version=$(node -pe "require('./package.json').version")

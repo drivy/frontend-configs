@@ -1,6 +1,6 @@
 {
-  "name": "@drivy/ts-config",
-  "description": "Shareable ts config for Drivy's projects",
+  "name": "@getaround-eu/ts-config",
+  "description": "Shareable ts config for Getaround's projects",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/drivy/frontend-configs.git",

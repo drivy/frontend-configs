@@ -1,6 +1,6 @@
 {
-  "name": "@drivy/stylelint-config",
-  "description": "Shareable stylelint config for Drivy's projects",
+  "name": "@getaround-eu/stylelint-config",
+  "description": "Shareable stylelint config for Getaround's projects",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/drivy/frontend-configs.git",

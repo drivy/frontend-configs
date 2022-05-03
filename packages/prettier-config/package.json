@@ -1,6 +1,6 @@
 {
-  "name": "@drivy/prettier-config",
-  "description": "Shareable prettier config for Drivy's projects",
+  "name": "@getaround-eu/prettier-config",
+  "description": "Shareable prettier config for Getaround's projects",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/drivy/frontend-configs.git",

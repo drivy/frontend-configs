@@ -1,9 +1,9 @@
-# @drivy/browserslist-config ![npm](https://img.shields.io/npm/v/@drivy/browserslist-config.svg?style=flat-square) ![CircleCI](https://img.shields.io/circleci/build/github/drivy/browserslist-config.svg?style=flat-square)
+# @getaround-eu/browserslist-config ![npm](https://img.shields.io/npm/v/@getaround-eu/browserslist-config.svg?style=flat-square) ![CircleCI](https://img.shields.io/circleci/build/github/drivy/browserslist-config.svg?style=flat-square)
 
-Shareable [Browserslist](https://github.com/ai/browserslist) config for [Drivy](https://www.drivy.com)'s projects.
+Shareable [Browserslist](https://github.com/ai/browserslist) config for [Getaround](https://fr.getaround.com)'s projects.
 
 ```sh
-$ yarn add -D @drivy/browserslist-config
+$ yarn add -D @getaround-eu/browserslist-config
 ```
 
 ## Usage
@@ -11,7 +11,7 @@ $ yarn add -D @drivy/browserslist-config
 ```js
 {
   "browserslist": [
-    "extends @drivy/browserslist-config"
+    "extends @getaround-eu/browserslist-config"
   ]
 }
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "@drivy/babel-preset-app",
+  "name": "@getaround-eu/babel-preset-app",
   "version": "0.4.13",
   "description": "Babel preset used by Getaround",
   "repository": {

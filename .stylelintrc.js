@@ -1,4 +1,4 @@
 module.exports = {
-  extends: "@drivy/stylelint-config",
+  extends: "@getaround-eu/stylelint-config",
   ignoreFiles: ["**/*.{js|ts|jsx|tsx}"],
 }

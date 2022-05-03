@@ -1,9 +1,9 @@
-# @drivy/stylelint-config ![npm](https://img.shields.io/npm/v/@drivy/stylelint-config.svg?style=flat-square) ![CircleCI](https://img.shields.io/circleci/build/github/drivy/stylelint-config.svg?style=flat-square)
+# @getaround-eu/stylelint-config ![npm](https://img.shields.io/npm/v/@getaround-eu/stylelint-config.svg?style=flat-square) ![CircleCI](https://img.shields.io/circleci/build/github/drivy/stylelint-config.svg?style=flat-square)
 
-Shareable [stylelint config](https://stylelint.io/user-guide/configuration#extends) for [Drivy](https://www.drivy.com)'s projects.
+Shareable [stylelint config](https://stylelint.io/user-guide/configuration#extends) for [Getaround](https://fr.getaround.com)'s projects.
 
 ```sh
-$ yarn add -D @drivy/stylelint-config
+$ yarn add -D @getaround-eu/stylelint-config
 ```
 
 ## Usage
@@ -11,13 +11,13 @@ $ yarn add -D @drivy/stylelint-config
 In a `.stylelintrc.json`:
 ```json
 {
-  "extends": "@drivy/stylelint-config"
+  "extends": "@getaround-eu/stylelint-config"
 }
 ```
 
 Or in order to be extended, in a `.stylelintrc.js`:
 ```
 module.exports = {
-  extends: "@drivy/stylelint-config"
+  extends: "@getaround-eu/stylelint-config"
 }
 ```

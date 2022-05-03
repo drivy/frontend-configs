@@ -1,6 +1,6 @@
 {
-  "name": "@drivy/browserslist-config",
-  "description": "Shareable browserslist config for Drivy's projects",
+  "name": "@getaround-eu/browserslist-config",
+  "description": "Shareable browserslist config for Getaround's projects",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/drivy/frontend-configs.git",
