@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/ts-config@2.2.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/ts-config@2.1.0...@getaround-eu/ts-config@2.2.0)
+
+- Handle dom.iterable in ts config [`cf88b43`](https://github.com/drivy/frontend-configs/commit/cf88b43269e269e98e65c2801333c5600b1b495b)
+
 #### @getaround-eu/ts-config@2.1.0
+
+> 3 May 2022
 
 - Add ts-config package and use it [`183e8b0`](https://github.com/drivy/frontend-configs/commit/183e8b09f5dc315f31e19925d9264bd1bcc56d61)
 - Use json for ts shareable config + use it [`d08033c`](https://github.com/drivy/frontend-configs/commit/d08033c37621167807a443e3866c39e30b34e43c)
