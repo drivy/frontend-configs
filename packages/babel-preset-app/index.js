@@ -22,7 +22,7 @@ module.exports = declare(function (api) {
   const presetEnvNodeOptions = {
     targets: { node: "current" },
     modules: "commonjs",
-    useBuiltIns: false,
+    useBuiltIns: "usage",
   }
 
   const presetEnvBrowserOptions = {
@@ -33,7 +33,7 @@ module.exports = declare(function (api) {
     exclude: ["transform-typeof-symbol"],
     // Adds specific imports for polyfills when they are used in each file.
     // We take advantage of the fact that a bundler will load the same polyfill only once.
-    useBuiltIns: "entry",
+    useBuiltIns: "usage",
     corejs: 3,
   }
 
