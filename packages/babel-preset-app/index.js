@@ -34,7 +34,7 @@ module.exports = declare(function (api) {
     // Adds specific imports for polyfills when they are used in each file.
     // We take advantage of the fact that a bundler will load the same polyfill only once.
     useBuiltIns: "usage",
-    corejs: 3,
+    corejs: "3.26",
   }
 
   return {
