@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/stylelint-config@1.2.5](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@1.2.4...@getaround-eu/stylelint-config@1.2.5)
+
+- Lock file maintenance [`#831`](https://github.com/drivy/frontend-configs/pull/831)
+
 #### [@getaround-eu/stylelint-config@1.2.4](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@1.2.3...@getaround-eu/stylelint-config@1.2.4)
+
+> 11 October 2022
 
 - Lock file maintenance [`#821`](https://github.com/drivy/frontend-configs/pull/821)
 - Update dependency postcss-scss to v4.0.5 [`#816`](https://github.com/drivy/frontend-configs/pull/816)

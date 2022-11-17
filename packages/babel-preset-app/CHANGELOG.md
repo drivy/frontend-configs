@@ -2,7 +2,17 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-#### [@getaround-eu/babel-preset-app@1.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@0.5.3...@getaround-eu/babel-preset-app@1.0.0)
+#### [@getaround-eu/babel-preset-app@1.1.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.0.0...@getaround-eu/babel-preset-app@1.1.0)
+
+- Lock file maintenance [`#831`](https://github.com/drivy/frontend-configs/pull/831)
+- Update dependency core-js to ^3.26.1 [`#845`](https://github.com/drivy/frontend-configs/pull/845)
+- Update dependency core-js to ^3.26.0 [`#836`](https://github.com/drivy/frontend-configs/pull/836)
+- Update babel monorepo [`#834`](https://github.com/drivy/frontend-configs/pull/834)
+- corejs props from babel config must be string [`0f83be8`](https://github.com/drivy/frontend-configs/commit/0f83be83f04adc6e6372027f321097bf8b1b0381)
+
+### [@getaround-eu/babel-preset-app@1.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@0.5.3...@getaround-eu/babel-preset-app@1.0.0)
+
+> 11 October 2022
 
 - Lock file maintenance [`#821`](https://github.com/drivy/frontend-configs/pull/821)
 - Update babel monorepo [`#815`](https://github.com/drivy/frontend-configs/pull/815)
