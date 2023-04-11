@@ -18,7 +18,7 @@
     "access": "public"
   },
   "peerDependencies": {
-    "eslint": ">= 8.32.0",
+    "eslint": ">= 8.38.0",
     "prettier": ">= 2.8.7"
   },
   "dependencies": {
@@ -26,7 +26,7 @@
     "@babel/eslint-parser": "7.19.1",
     "@typescript-eslint/eslint-plugin": "5.58.0",
     "@typescript-eslint/parser": "5.58.0",
-    "eslint": "^8.32.0",
+    "eslint": "^8.38.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-jest": "^27.2.1",
     "eslint-plugin-jquery": "^1.5.1",
