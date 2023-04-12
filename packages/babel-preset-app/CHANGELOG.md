@@ -2,7 +2,16 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/babel-preset-app@1.2.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.1.0...@getaround-eu/babel-preset-app@1.2.0)
+
+- Lock file maintenance [`#850`](https://github.com/drivy/frontend-configs/pull/850)
+- Update babel monorepo [`#859`](https://github.com/drivy/frontend-configs/pull/859)
+- Update dependency core-js to ^3.30.0 [`#863`](https://github.com/drivy/frontend-configs/pull/863)
+- Bump json5 from 2.2.1 to 2.2.3 in /packages/babel-preset-app [`#855`](https://github.com/drivy/frontend-configs/pull/855)
+
 #### [@getaround-eu/babel-preset-app@1.1.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.0.0...@getaround-eu/babel-preset-app@1.1.0)
+
+> 17 November 2022
 
 - Lock file maintenance [`#831`](https://github.com/drivy/frontend-configs/pull/831)
 - Update dependency core-js to ^3.26.1 [`#845`](https://github.com/drivy/frontend-configs/pull/845)
