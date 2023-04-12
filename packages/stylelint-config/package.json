@@ -11,7 +11,7 @@
   "dependencies": {
     "postcss-scss": "4.0.6",
     "stylelint-order": "6.0.3",
-    "stylelint-scss": "4.3.0"
+    "stylelint-scss": "4.6.0"
   },
   "publishConfig": {
     "access": "public"
