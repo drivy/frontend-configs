@@ -1,10 +1,9 @@
 module.exports = {
+  extends: ["stylelint-prettier/recommended"],
   plugins: ["stylelint-order", "stylelint-scss"],
   ignoreFiles: ["**/*.{js|ts|jsx|tsx}"],
   customSyntax: "postcss-scss",
   rules: {
-    "declaration-bang-space-after": "never",
-    "declaration-bang-space-before": "always",
     "declaration-property-value-disallowed-list": {
       "/^border/": "none",
     },
@@ -14,9 +13,7 @@ module.exports = {
       { except: ["first-nested", "after-single-line-comment"] },
     ],
     "block-no-empty": true,
-    "no-missing-end-of-source-newline": true,
     "color-hex-length": "short",
-    "color-hex-case": "lower",
     "color-no-invalid-hex": true,
     "no-duplicate-selectors": true,
     "unit-allowed-list": [
@@ -38,8 +35,6 @@ module.exports = {
       ],
       { ignoreProperties: { x: ["background-image"] } },
     ],
-    "string-quotes": "double",
-    "number-no-trailing-zeros": true,
     "function-url-quotes": "always",
     "property-no-vendor-prefix": true,
     "selector-no-vendor-prefix": true,
