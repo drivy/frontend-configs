@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/babel-preset-app@1.3.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.3.0...@getaround-eu/babel-preset-app@1.3.1)
+
+- Enable bugfixes option for babel [`#894`](https://github.com/drivy/frontend-configs/pull/894)
+
 #### [@getaround-eu/babel-preset-app@1.3.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.2.0...@getaround-eu/babel-preset-app@1.3.0)
+
+> 9 May 2023
 
 - Lock file maintenance [`#891`](https://github.com/drivy/frontend-configs/pull/891)
 - Update dependency core-js to ^3.30.2 [`#890`](https://github.com/drivy/frontend-configs/pull/890)
