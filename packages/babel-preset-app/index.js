@@ -1,7 +1,7 @@
 const browserslist = require("@getaround-eu/browserslist-config")
 const { declare } = require("@babel/helper-plugin-utils")
 
-module.exports = declare(function (api) {
+module.exports = declare(function (api, options) {
   api.assertVersion(7)
 
   const validEnv = ["development", "test", "production"]
@@ -23,6 +23,8 @@ module.exports = declare(function (api) {
     targets: { node: "current" },
     modules: "commonjs",
     useBuiltIns: "usage",
+    bugfixes: true,
+    debug: options.debug || false,
   }
 
   const presetEnvBrowserOptions = {
@@ -35,6 +37,7 @@ module.exports = declare(function (api) {
     // We take advantage of the fact that a bundler will load the same polyfill only once.
     useBuiltIns: "usage",
     bugfixes: true,
+    debug: options.debug || false,
     corejs: "3.30",
   }
 
