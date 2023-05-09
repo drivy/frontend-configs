@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/browserslist-config@1.4.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/browserslist-config@1.3.7...@getaround-eu/browserslist-config@1.4.0)
+
+- [browserslist] Remove Android &lt; 4.4.4 support [`#895`](https://github.com/drivy/frontend-configs/pull/895)
+
 #### [@getaround-eu/browserslist-config@1.3.7](https://github.com/drivy/frontend-configs/compare/@getaround-eu/browserslist-config@1.3.6...@getaround-eu/browserslist-config@1.3.7)
+
+> 9 May 2023
 
 - Lock file maintenance [`#891`](https://github.com/drivy/frontend-configs/pull/891)
 - Lock file maintenance [`#884`](https://github.com/drivy/frontend-configs/pull/884)

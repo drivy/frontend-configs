@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/babel-preset-app@1.3.3](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.3.2...@getaround-eu/babel-preset-app@1.3.3)
+
+- Update yarn.lock [`2d592ef`](https://github.com/drivy/frontend-configs/commit/2d592efe81990e51b0cf8d7718d0f5b4e02d4a4a)
+
 #### [@getaround-eu/babel-preset-app@1.3.2](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.3.1...@getaround-eu/babel-preset-app@1.3.2)
+
+> 9 May 2023
 
 - [babel-preset] Allow debug option [`7a9a338`](https://github.com/drivy/frontend-configs/commit/7a9a338dc093a92a308c5f74ed2eca57ee2b9c8b)
 
