@@ -2,17 +2,17 @@
 // source https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 const spreadInObjectSupport = [
   // Desktop
-  "chrome >= 60",
+  "chrome >= 69",
   "edge >= 79",
-  "firefox >= 55",
-  "opera >= 47",
-  "safari >= 11.1",
+  "firefox >= 62",
+  "opera >= 56",
+  "safari >= 12",
   // Mobile
-  "android >= 60",
-  "and_chr >= 60",
-  "and_ff >= 55",
-  "ios_saf >= 11.3",
-  "samsung >= 8.2",
+  "android >= 69",
+  "and_chr >= 69",
+  "and_ff >= 62",
+  "ios_saf >= 12",
+  "samsung >= 10.1",
 ]
 
 module.exports = [
