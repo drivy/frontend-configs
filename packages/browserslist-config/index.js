@@ -20,4 +20,5 @@ module.exports = [
   "not ie 11",
   "not samsung 4",
   "not op_mini all",
+  "not android <= 4.4.4",
 ].concat(spreadInObjectSupport)
