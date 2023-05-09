@@ -1012,10 +1012,10 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
-"@getaround-eu/browserslist-config@^1.3.7":
-  version "1.3.7"
-  resolved "https://registry.yarnpkg.com/@getaround-eu/browserslist-config/-/browserslist-config-1.3.7.tgz#b3ad5aaebb31c1351856e58eb2a748ca6abd7afa"
-  integrity sha512-Q8oWIjWHUvG07NzaS5JlVYaxLdkUQpjZjS3iiv4FZeXzrhR0luYoOPwlIeM0SLkEaTR1NZsXeNDqHSFxYMc+nA==
+"@getaround-eu/browserslist-config@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@getaround-eu/browserslist-config/-/browserslist-config-1.4.0.tgz#c792c68770f6c07d75c64832a8336fb34fc464d2"
+  integrity sha512-o7cIqc32Q2cFlnftOYbgn57HnSe61r52nQGJmGW9vnZidEeRnrlSKrPfS5jAnLycqnWDkBAE/DfhJ4xRsXCeLA==
 
 "@jridgewell/gen-mapping@^0.3.0", "@jridgewell/gen-mapping@^0.3.2":
   version "0.3.3"
