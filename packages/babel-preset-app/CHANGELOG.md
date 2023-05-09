@@ -2,7 +2,23 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/babel-preset-app@1.3.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.2.0...@getaround-eu/babel-preset-app@1.3.0)
+
+- Lock file maintenance [`#891`](https://github.com/drivy/frontend-configs/pull/891)
+- Update dependency core-js to ^3.30.2 [`#890`](https://github.com/drivy/frontend-configs/pull/890)
+- Update babel monorepo to ^7.21.8 [`#886`](https://github.com/drivy/frontend-configs/pull/886)
+- Lock file maintenance [`#884`](https://github.com/drivy/frontend-configs/pull/884)
+- Update babel monorepo to ^7.21.5 [`#881`](https://github.com/drivy/frontend-configs/pull/881)
+- Lock file maintenance [`#876`](https://github.com/drivy/frontend-configs/pull/876)
+- Update dependency core-js to ^3.30.1 [`#873`](https://github.com/drivy/frontend-configs/pull/873)
+- Use @getaround-eu/browserslist-config [`7878d26`](https://github.com/drivy/frontend-configs/commit/7878d26491c3283911b86857b560b5adf2e9a933)
+- Update yarn.lock [`b4f3209`](https://github.com/drivy/frontend-configs/commit/b4f320983d041d725d6b8e73dc46cdbca6009299)
+- Remove now unused package [`4bb55bb`](https://github.com/drivy/frontend-configs/commit/4bb55bb3d2382375ed7b2d748131f49d138c9e9e)
+- Upgrade corejs version in babel config [`9dc4d4c`](https://github.com/drivy/frontend-configs/commit/9dc4d4c79eeb1b400ff87dc207882ddee58a18ab)
+
 #### [@getaround-eu/babel-preset-app@1.2.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.1.0...@getaround-eu/babel-preset-app@1.2.0)
+
+> 12 April 2023
 
 - Lock file maintenance [`#850`](https://github.com/drivy/frontend-configs/pull/850)
 - Update babel monorepo [`#859`](https://github.com/drivy/frontend-configs/pull/859)

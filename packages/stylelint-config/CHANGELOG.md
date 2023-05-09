@@ -2,7 +2,16 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-#### [@getaround-eu/stylelint-config@2.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@1.2.5...@getaround-eu/stylelint-config@2.0.0)
+#### [@getaround-eu/stylelint-config@2.0.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@2.0.0...@getaround-eu/stylelint-config@2.0.1)
+
+- Lock file maintenance [`#884`](https://github.com/drivy/frontend-configs/pull/884)
+- Update dependency stylelint-scss to v5 [`#883`](https://github.com/drivy/frontend-configs/pull/883)
+- Lock file maintenance [`#876`](https://github.com/drivy/frontend-configs/pull/876)
+- Update dependency prettier to v2.8.8 [`#880`](https://github.com/drivy/frontend-configs/pull/880)
+
+### [@getaround-eu/stylelint-config@2.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@1.2.5...@getaround-eu/stylelint-config@2.0.0)
+
+> 12 April 2023
 
 - Update dependency stylelint to v15 [`#869`](https://github.com/drivy/frontend-configs/pull/869)
 - Update dependency stylelint-scss to v4.6.0 [`#868`](https://github.com/drivy/frontend-configs/pull/868)

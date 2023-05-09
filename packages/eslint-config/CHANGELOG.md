@@ -2,7 +2,24 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/eslint-config@2.0.3](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.2...@getaround-eu/eslint-config@2.0.3)
+
+- Lock file maintenance [`#891`](https://github.com/drivy/frontend-configs/pull/891)
+- Update dependency eslint to v8.40.0 [`#889`](https://github.com/drivy/frontend-configs/pull/889)
+- Update typescript-eslint monorepo to v5.59.5 [`#892`](https://github.com/drivy/frontend-configs/pull/892)
+- Update babel monorepo to ^7.21.8 [`#886`](https://github.com/drivy/frontend-configs/pull/886)
+- Lock file maintenance [`#884`](https://github.com/drivy/frontend-configs/pull/884)
+- Update babel monorepo to ^7.21.5 [`#881`](https://github.com/drivy/frontend-configs/pull/881)
+- Update typescript-eslint monorepo to v5.59.2 [`#885`](https://github.com/drivy/frontend-configs/pull/885)
+- Update dependency eslint to v8.39.0 [`#879`](https://github.com/drivy/frontend-configs/pull/879)
+- Lock file maintenance [`#876`](https://github.com/drivy/frontend-configs/pull/876)
+- Update typescript-eslint monorepo to v5.59.1 [`#877`](https://github.com/drivy/frontend-configs/pull/877)
+- Update dependency prettier to v2.8.8 [`#880`](https://github.com/drivy/frontend-configs/pull/880)
+- Update yarn.lock [`b4f3209`](https://github.com/drivy/frontend-configs/commit/b4f320983d041d725d6b8e73dc46cdbca6009299)
+
 #### [@getaround-eu/eslint-config@2.0.2](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.1...@getaround-eu/eslint-config@2.0.2)
+
+> 12 April 2023
 
 - Lock file maintenance [`#850`](https://github.com/drivy/frontend-configs/pull/850)
 - Update dependency eslint-config-prettier to ^8.8.0 [`#865`](https://github.com/drivy/frontend-configs/pull/865)
