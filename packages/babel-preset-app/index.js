@@ -1,4 +1,4 @@
-const browserslist = require("@drivy/browserslist-config")
+const browserslist = require("@getaround-eu/browserslist-config")
 const { declare } = require("@babel/helper-plugin-utils")
 
 module.exports = declare(function (api) {
