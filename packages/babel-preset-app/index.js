@@ -65,7 +65,11 @@ module.exports = declare(function (api, options) {
         require.resolve("@babel/plugin-transform-runtime"),
         {
           corejs: false,
-          helpers: false,
+          // By default Babel will add its helpers to every file that requires them.
+          // This can result in a very large bundle size due to the duplication.
+          // This option tells Babel to alias these helpers to a single module.
+          // https://babeljs.io/docs/en/babel-plugin-transform-runtime#helpers
+          helpers: true,
           // By default, babel assumes babel/runtime version 7.0.0-beta.0,
           // explicitly resolving to match the provided helper functions.
           // https://github.com/babel/babel/issues/10261
