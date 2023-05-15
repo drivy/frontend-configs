@@ -2,7 +2,25 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/babel-preset-app@1.3.5](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.1...@getaround-eu/babel-preset-app@1.3.5)
+
+- Continue to disable block-scoping for const/let variables [`#898`](https://github.com/drivy/frontend-configs/pull/898)
+
+#### [@getaround-eu/babel-preset-app@1.4.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.0...@getaround-eu/babel-preset-app@1.4.1)
+
+> 12 May 2023
+
+- Enable babel runtime helpers aliasing [`#896`](https://github.com/drivy/frontend-configs/pull/896)
+
+#### [@getaround-eu/babel-preset-app@1.4.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.3.4...@getaround-eu/babel-preset-app@1.4.0)
+
+> 12 May 2023
+
+- Enable babel runtime helpers aliasing [`b777b65`](https://github.com/drivy/frontend-configs/commit/b777b6565e2cb027a002779afba7567b5e381ec1)
+
 #### [@getaround-eu/babel-preset-app@1.3.4](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.3.3...@getaround-eu/babel-preset-app@1.3.4)
+
+> 9 May 2023
 
 - Update yarn.lock [`82d487d`](https://github.com/drivy/frontend-configs/commit/82d487d29f5ebf12f0eb9407f19c6b2dfed10f6f)
 
