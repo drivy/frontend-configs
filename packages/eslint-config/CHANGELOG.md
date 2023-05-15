@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/eslint-config@2.0.4](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.3...@getaround-eu/eslint-config@2.0.4)
+
+- Lock file maintenance [`#897`](https://github.com/drivy/frontend-configs/pull/897)
+
 #### [@getaround-eu/eslint-config@2.0.3](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.2...@getaround-eu/eslint-config@2.0.3)
+
+> 9 May 2023
 
 - Lock file maintenance [`#891`](https://github.com/drivy/frontend-configs/pull/891)
 - Update dependency eslint to v8.40.0 [`#889`](https://github.com/drivy/frontend-configs/pull/889)
