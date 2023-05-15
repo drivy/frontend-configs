@@ -61,6 +61,10 @@ module.exports = declare(function (api, options) {
       require.resolve("@babel/plugin-syntax-dynamic-import"),
       isTestEnv && require.resolve("babel-plugin-dynamic-import-node"),
       require.resolve("@babel/plugin-proposal-class-properties"),
+      // Continue to disable block-scoping for const/let variables
+      // and transform them to var variables.
+      // This is considered as technical debt and should be migrated to block-scoping
+      require.resolve("@babel/plugin-transform-block-scoping"),
       [
         require.resolve("@babel/plugin-transform-runtime"),
         {
