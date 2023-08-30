@@ -2,7 +2,27 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/babel-preset-app@1.4.3](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.2...@getaround-eu/babel-preset-app@1.4.3)
+
+- Lock file maintenance [`#962`](https://github.com/drivy/frontend-configs/pull/962)
+- Update babel monorepo to ^7.22.11 [`#960`](https://github.com/drivy/frontend-configs/pull/960)
+- Update dependency core-js to ^3.32.1 [`#958`](https://github.com/drivy/frontend-configs/pull/958)
+- Update babel monorepo to ^7.22.10 [`#956`](https://github.com/drivy/frontend-configs/pull/956)
+- Lock file maintenance [`#946`](https://github.com/drivy/frontend-configs/pull/946)
+- Lock file maintenance [`#927`](https://github.com/drivy/frontend-configs/pull/927)
+- Bump semver from 6.3.0 to 6.3.1 in /packages/babel-preset-app [`#934`](https://github.com/drivy/frontend-configs/pull/934)
+- Update babel monorepo [`#931`](https://github.com/drivy/frontend-configs/pull/931)
+- Update dependency core-js to ^3.31.1 [`#937`](https://github.com/drivy/frontend-configs/pull/937)
+- Lock file maintenance [`#923`](https://github.com/drivy/frontend-configs/pull/923)
+- Update dependency core-js to ^3.31.0 [`#916`](https://github.com/drivy/frontend-configs/pull/916)
+- Update babel monorepo to ^7.22.5 [`#913`](https://github.com/drivy/frontend-configs/pull/913)
+- Lock file maintenance [`#902`](https://github.com/drivy/frontend-configs/pull/902)
+- Update babel monorepo [`#905`](https://github.com/drivy/frontend-configs/pull/905)
+- Update dependency core-js to ^3.32.0 [`f5464ef`](https://github.com/drivy/frontend-configs/commit/f5464ef1e8862712ed084d5cc3487b6e507ede87)
+
 #### [@getaround-eu/babel-preset-app@1.4.2](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.1...@getaround-eu/babel-preset-app@1.4.2)
+
+> 15 May 2023
 
 - Lock file maintenance [`#897`](https://github.com/drivy/frontend-configs/pull/897)
 - Continue to disable block-scoping for const/let variables [`#898`](https://github.com/drivy/frontend-configs/pull/898)

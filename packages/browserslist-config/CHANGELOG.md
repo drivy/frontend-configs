@@ -2,7 +2,20 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/browserslist-config@1.4.2](https://github.com/drivy/frontend-configs/compare/@getaround-eu/browserslist-config@1.4.1...@getaround-eu/browserslist-config@1.4.2)
+
+- Lock file maintenance [`#962`](https://github.com/drivy/frontend-configs/pull/962)
+- Update dependency browserslist to v4.21.10 [`#952`](https://github.com/drivy/frontend-configs/pull/952)
+- Lock file maintenance [`#946`](https://github.com/drivy/frontend-configs/pull/946)
+- Lock file maintenance [`#927`](https://github.com/drivy/frontend-configs/pull/927)
+- Lock file maintenance [`#923`](https://github.com/drivy/frontend-configs/pull/923)
+- Update dependency browserslist to v4.21.9 [`#914`](https://github.com/drivy/frontend-configs/pull/914)
+- Lock file maintenance [`#902`](https://github.com/drivy/frontend-configs/pull/902)
+- Update dependency browserslist to v4.21.7 [`#906`](https://github.com/drivy/frontend-configs/pull/906)
+
 #### [@getaround-eu/browserslist-config@1.4.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/browserslist-config@1.4.0...@getaround-eu/browserslist-config@1.4.1)
+
+> 15 May 2023
 
 - Lock file maintenance [`#897`](https://github.com/drivy/frontend-configs/pull/897)
 
