@@ -2,7 +2,16 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/eslint-config@3.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.5...@getaround-eu/eslint-config@3.0.0)
+
+- Lock file maintenance [`#970`](https://github.com/drivy/frontend-configs/pull/970)
+- Upgrade to prettier v3 [`#969`](https://github.com/drivy/frontend-configs/pull/969)
+- Update typescript-eslint monorepo to v6.5.0 [`#968`](https://github.com/drivy/frontend-configs/pull/968)
+- Update dependency eslint to v8.48.0 [`#964`](https://github.com/drivy/frontend-configs/pull/964)
+
 #### [@getaround-eu/eslint-config@2.0.5](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.4...@getaround-eu/eslint-config@2.0.5)
+
+> 30 August 2023
 
 - Lock file maintenance [`#962`](https://github.com/drivy/frontend-configs/pull/962)
 - Update babel monorepo to ^7.22.11 [`#960`](https://github.com/drivy/frontend-configs/pull/960)

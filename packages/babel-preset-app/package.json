@@ -1,6 +1,6 @@
 {
   "name": "@getaround-eu/babel-preset-app",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Babel preset used by Getaround",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
     "@babel/preset-typescript": "^7.22.11",
     "@babel/runtime": "^7.22.11",
     "@babel/runtime-corejs3": "^7.22.11",
-    "@getaround-eu/browserslist-config": "^1.4.2",
+    "@getaround-eu/browserslist-config": "^1.4.3",
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "babel-plugin-macros": "^3.1.0",
     "core-js": "^3.32.1"
