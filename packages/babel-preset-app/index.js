@@ -9,6 +9,8 @@ module.exports = declare(function (api, options) {
   const isDevelopmentEnv = api.env("development")
   const isTestEnv = api.env("test")
 
+  const CORE_JS_VERSION = "3.32"
+
   if (!validEnv.includes(currentEnv)) {
     throw new Error(
       "Please specify a valid `NODE_ENV` or " +
@@ -25,6 +27,7 @@ module.exports = declare(function (api, options) {
     useBuiltIns: "usage",
     bugfixes: true,
     debug: options.debug || false,
+    corejs: CORE_JS_VERSION,
   }
 
   const presetEnvBrowserOptions = {
@@ -38,7 +41,7 @@ module.exports = declare(function (api, options) {
     useBuiltIns: "usage",
     bugfixes: true,
     debug: options.debug || false,
-    corejs: "3.30",
+    corejs: CORE_JS_VERSION,
   }
 
   return {
