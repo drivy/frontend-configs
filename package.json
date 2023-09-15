@@ -4,7 +4,7 @@
     "@getaround-eu/prettier-config": "file:packages/prettier-config",
     "@getaround-eu/stylelint-config": "file:packages/stylelint-config",
     "@getaround-eu/ts-config": "file:packages/ts-config",
-    "@rushstack/eslint-patch": "1.3.3",
+    "@rushstack/eslint-patch": "1.4.0",
     "auto-changelog": "2.4.0",
     "eslint": "8.49.0",
     "lerna": "7.3.0",
