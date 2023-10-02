@@ -1,12 +1,26 @@
 {
-  "extends": [
-    "config:base"
-  ],
+  "extends": ["config:base"],
   "rangeStrategy": "bump",
   "lockFileMaintenance": { "enabled": true },
   "reviewers": [],
   "assignees": ["cpatchane"],
   "labels": ["dependencies"],
   "dependencyDashboard": true,
-  "dependencyDashboardTitle": "⭐️ Dependency Dashboard ⭐️"
+  "dependencyDashboardTitle": "⭐️ Dependency Dashboard ⭐️",
+  "packageRules": [
+    {
+      "matchPackagePatterns": [
+        "lint",
+        "prettier",
+        "@types",
+        "typescript",
+        "babel",
+        "scss",
+        "core-js",
+        "browserslist"
+      ],
+      "matchUpdateTypes": ["minor", "patch"],
+      "automerge": true
+    }
+  ]
 }
