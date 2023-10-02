@@ -9,7 +9,7 @@
   "license": "MIT",
   "version": "3.0.0",
   "dependencies": {
-    "postcss-scss": "4.0.8",
+    "postcss-scss": "4.0.9",
     "prettier": "3.0.3",
     "stylelint-order": "6.0.3",
     "stylelint-prettier": "4.0.2",
