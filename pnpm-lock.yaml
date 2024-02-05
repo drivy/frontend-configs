@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@getaround-eu/eslint-config':
         specifier: file:packages/eslint-config
-        version: file:packages/eslint-config(eslint@8.56.0)(prettier@3.2.5)(typescript@5.3.3)
+        version: file:packages/eslint-config(typescript@5.3.3)
       '@getaround-eu/prettier-config':
         specifier: file:packages/prettier-config
         version: file:packages/prettier-config
@@ -129,7 +129,7 @@ importers:
         specifier: ^4.6.0
         version: 4.6.0(eslint@8.56.0)
       prettier:
-        specifier: '>= 3.2.5'
+        specifier: ^3.2.5
         version: 3.2.5
 
   packages/prettier-config: {}
@@ -7746,13 +7746,10 @@ packages:
     engines: {node: '>=10'}
     dev: false
 
-  file:packages/eslint-config(eslint@8.56.0)(prettier@3.2.5)(typescript@5.3.3):
+  file:packages/eslint-config(typescript@5.3.3):
     resolution: {directory: packages/eslint-config, type: directory}
     id: file:packages/eslint-config
     name: '@getaround-eu/eslint-config'
-    peerDependencies:
-      eslint: '>= 8.56.0'
-      prettier: '>= 3.2.5'
     dependencies:
       '@babel/core': 7.23.9
       '@babel/eslint-parser': 7.23.10(@babel/core@7.23.9)(eslint@8.56.0)
