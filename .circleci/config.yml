@@ -11,7 +11,7 @@ jobs:
 
       - run:
           name: Install Javascript dependencies
-          command: pnpm install --frozen-lockfile
+          command: pnpm install
 
       - run:
           name: "Lint"
