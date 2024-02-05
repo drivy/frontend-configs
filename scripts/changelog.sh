@@ -15,7 +15,7 @@ compute_changelog()
   npm_package_name=$(node -pe "require('./package.json').name")
   final_version="$npm_package_name@$npm_version"
 
-  node ../../node_modules/.bin/auto-changelog \
+  pnpm auto-changelog \
     --latest-version $final_version \
     --commit-limit false \
     --backfill-limit false \
@@ -32,7 +32,7 @@ compute_changelog()
 }
 
 # We write changelogs only for the packages that have changed since the last release
-changed_packages=$(./node_modules/.bin/lerna changed) || (printf "\n%s\n\n" "No changed package(s) found." && exit 1)
+changed_packages=$(pnpm lerna changed) || (printf "\n%s\n\n" "No changed package(s) found." && exit 1)
 for p in $changed_packages; do
   compute_changelog $p
 done

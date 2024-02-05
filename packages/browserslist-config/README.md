@@ -3,7 +3,9 @@
 Shareable [Browserslist](https://github.com/ai/browserslist) config for [Getaround](https://fr.getaround.com)'s projects.
 
 ```sh
-$ yarn add -D @getaround-eu/browserslist-config
+yarn add -D @getaround-eu/browserslist-config
+npm install -D @getaround-eu/browserslist-config
+pnpm install -D @getaround-eu/browserslist-config
 ```
 
 ## Usage

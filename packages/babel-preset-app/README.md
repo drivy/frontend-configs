@@ -4,7 +4,12 @@ Babel shareable preset for Getaround's projects. [See Babel documentation](https
 
 ## Using in another project
 
-Install: `yarn add --dev @getaround-eu/babel-preset-app`
+Install
+```sh
+yarn add -D @getaround-eu/babel-preset-app
+npm install -D @getaround-eu/babel-preset-app
+pnpm install -D @getaround-eu/babel-preset-app
+```
 
 In your local babel configuration file `babel.config.js`, add it into the `presets` field:
 

@@ -3,7 +3,9 @@
 Shareable [stylelint config](https://stylelint.io/user-guide/configuration#extends) for [Getaround](https://fr.getaround.com)'s projects.
 
 ```sh
-$ yarn add -D @getaround-eu/stylelint-config
+yarn add -D @getaround-eu/stylelint-config
+npm install -D @getaround-eu/stylelint-config
+pnpm install -D @getaround-eu/stylelint-config
 ```
 
 ## Usage

@@ -3,7 +3,9 @@
 Shareable [ts config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#configuration-inheritance-with-extends) for [Getaround](https://fr.getaround.com)'s projects.
 
 ```sh
-$ yarn add -D @getaround-eu/ts-config
+yarn add -D @getaround-eu/ts-config
+npm install -D @getaround-eu/ts-config
+pnpm install -D @getaround-eu/ts-config
 ```
 
 ## Usage

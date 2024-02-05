@@ -3,7 +3,9 @@
 Shareable [Prettier config](https://prettier.io/blog/2019/04/12/1.17.0.html#config) for [Getaround](https://fr.getaround.com)'s projects.
 
 ```sh
-$ yarn add -D @getaround-eu/prettier-config
+yarn add -D @getaround-eu/prettier-config
+npm install -D @getaround-eu/prettier-config
+pnpm install -D @getaround-eu/prettier-config
 ```
 
 ## Usage

@@ -11,7 +11,7 @@ Available shareable configs:
 
 #### Publish packages
 
-:bulb: You can check the packages that gonna be published by doing a `yarn lerna updated`.
+:bulb: You can check the packages that gonna be published by doing a `pnpm lerna updated`.
 
-Just run `yarn lerna publish` then follow the CLI instructions. Lerna will automatically
+Just run `pnpm lerna publish` then follow the CLI instructions. Lerna will automatically
 publish on NPM and add a tag to the repository according to the published version.
