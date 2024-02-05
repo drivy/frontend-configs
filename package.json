@@ -18,6 +18,6 @@
     "lint": "eslint packages/ --ext js",
     "typecheck": "tsc --noEmit",
     "version": "./scripts/changelog.sh",
-    "publish:npm": "lerna publish -m ':gem: Release configs'"
+    "release": "lerna publish -m ':gem: Release configs'"
   }
 }
