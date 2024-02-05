@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/ts-config@2.2.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/ts-config@2.2.0...@getaround-eu/ts-config@2.2.1)
+
+- Move from Yarn classic to pnpm [`da16d59`](https://github.com/drivy/frontend-configs/commit/da16d59411424bea9694276c63050f15a906777f)
+
 #### [@getaround-eu/ts-config@2.2.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/ts-config@2.1.0...@getaround-eu/ts-config@2.2.0)
+
+> 13 September 2022
 
 - Handle dom.iterable in ts config [`cf88b43`](https://github.com/drivy/frontend-configs/commit/cf88b43269e269e98e65c2801333c5600b1b495b)
 

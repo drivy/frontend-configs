@@ -2,7 +2,32 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-#### [@getaround-eu/stylelint-config@3.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@2.0.2...@getaround-eu/stylelint-config@3.0.0)
+#### [@getaround-eu/stylelint-config@3.0.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@3.0.0...@getaround-eu/stylelint-config@3.0.1)
+
+- Update dependency prettier to v3.2.5 [`#1081`](https://github.com/drivy/frontend-configs/pull/1081)
+- Lock file maintenance [`#1055`](https://github.com/drivy/frontend-configs/pull/1055)
+- Update dependency prettier to v3.2.4 [`#1070`](https://github.com/drivy/frontend-configs/pull/1070)
+- Update dependency prettier to v3.2.3 [`#1069`](https://github.com/drivy/frontend-configs/pull/1069)
+- Update dependency prettier to v3.2.2 [`#1066`](https://github.com/drivy/frontend-configs/pull/1066)
+- Update dependency prettier to v3.2.1 [`#1063`](https://github.com/drivy/frontend-configs/pull/1063)
+- Update dependency stylelint-scss to v5.3.2 [`#1047`](https://github.com/drivy/frontend-configs/pull/1047)
+- Update dependency prettier to v3.1.1 [`#1046`](https://github.com/drivy/frontend-configs/pull/1046)
+- Update dependency stylelint-order to v6.0.4 [`#1045`](https://github.com/drivy/frontend-configs/pull/1045)
+- Lock file maintenance [`#1028`](https://github.com/drivy/frontend-configs/pull/1028)
+- Update dependency stylelint-prettier to v4.1.0 [`#1034`](https://github.com/drivy/frontend-configs/pull/1034)
+- Update dependency prettier to v3.1.0 [`#1024`](https://github.com/drivy/frontend-configs/pull/1024)
+- Update dependency stylelint-scss to v5.3.1 [`#1021`](https://github.com/drivy/frontend-configs/pull/1021)
+- Lock file maintenance [`#989`](https://github.com/drivy/frontend-configs/pull/989)
+- Update dependency stylelint-scss to v5.3.0 [`#1015`](https://github.com/drivy/frontend-configs/pull/1015)
+- Update dependency postcss-scss to v4.0.9 [`#992`](https://github.com/drivy/frontend-configs/pull/992)
+- Update dependency stylelint-scss to v5.2.1 [`#983`](https://github.com/drivy/frontend-configs/pull/983)
+- Update dependency stylelint-scss to v5.2.0 [`#981`](https://github.com/drivy/frontend-configs/pull/981)
+- Update dependency postcss-scss to v4.0.8 [`#974`](https://github.com/drivy/frontend-configs/pull/974)
+- Move from Yarn classic to pnpm [`da16d59`](https://github.com/drivy/frontend-configs/commit/da16d59411424bea9694276c63050f15a906777f)
+
+### [@getaround-eu/stylelint-config@3.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@2.0.2...@getaround-eu/stylelint-config@3.0.0)
+
+> 4 September 2023
 
 - Upgrade to prettier v3 [`#969`](https://github.com/drivy/frontend-configs/pull/969)
 - Update dependency stylelint-scss to v5.1.0 [`#966`](https://github.com/drivy/frontend-configs/pull/966)

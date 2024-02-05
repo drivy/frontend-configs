@@ -2,7 +2,42 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/babel-preset-app@1.4.5](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.4...@getaround-eu/babel-preset-app@1.4.5)
+
+- Lock file maintenance [`#1082`](https://github.com/drivy/frontend-configs/pull/1082)
+- Lock file maintenance [`#1079`](https://github.com/drivy/frontend-configs/pull/1079)
+- Lock file maintenance [`#1077`](https://github.com/drivy/frontend-configs/pull/1077)
+- Lock file maintenance [`#1055`](https://github.com/drivy/frontend-configs/pull/1055)
+- Update babel monorepo to ^7.23.9 [`#1074`](https://github.com/drivy/frontend-configs/pull/1074)
+- Update dependency core-js to ^3.35.1 [`#1071`](https://github.com/drivy/frontend-configs/pull/1071)
+- Update dependency core-js to ^3.35.0 [`#1057`](https://github.com/drivy/frontend-configs/pull/1057)
+- Update babel monorepo [`#1050`](https://github.com/drivy/frontend-configs/pull/1050)
+- Lock file maintenance [`#1049`](https://github.com/drivy/frontend-configs/pull/1049)
+- Update dependency core-js to ^3.34.0 [`#1042`](https://github.com/drivy/frontend-configs/pull/1042)
+- Lock file maintenance [`#1028`](https://github.com/drivy/frontend-configs/pull/1028)
+- Update babel monorepo to ^7.23.5 [`#1037`](https://github.com/drivy/frontend-configs/pull/1037)
+- Update babel monorepo to ^7.23.4 [`#1029`](https://github.com/drivy/frontend-configs/pull/1029)
+- Update dependency core-js to ^3.33.3 [`#1027`](https://github.com/drivy/frontend-configs/pull/1027)
+- Update babel monorepo to ^7.23.3 [`#1022`](https://github.com/drivy/frontend-configs/pull/1022)
+- Lock file maintenance [`#1019`](https://github.com/drivy/frontend-configs/pull/1019)
+- Lock file maintenance [`#989`](https://github.com/drivy/frontend-configs/pull/989)
+- Update dependency core-js to ^3.33.2 [`#1016`](https://github.com/drivy/frontend-configs/pull/1016)
+- Update dependency core-js to ^3.33.1 [`#1009`](https://github.com/drivy/frontend-configs/pull/1009)
+- Update babel monorepo to ^7.23.2 [`#1002`](https://github.com/drivy/frontend-configs/pull/1002)
+- Update dependency core-js to ^3.33.0 [`#994`](https://github.com/drivy/frontend-configs/pull/994)
+- Update babel monorepo [`#990`](https://github.com/drivy/frontend-configs/pull/990)
+- Lock file maintenance [`#985`](https://github.com/drivy/frontend-configs/pull/985)
+- Update babel monorepo to ^7.22.20 [`#980`](https://github.com/drivy/frontend-configs/pull/980)
+- Lock file maintenance [`#977`](https://github.com/drivy/frontend-configs/pull/977)
+- Update dependency core-js to ^3.32.2 [`#973`](https://github.com/drivy/frontend-configs/pull/973)
+- Update dependency @babel/core to ^7.22.17 [`#975`](https://github.com/drivy/frontend-configs/pull/975)
+- Update babel monorepo to ^7.22.15 [`#971`](https://github.com/drivy/frontend-configs/pull/971)
+- Move from Yarn classic to pnpm [`da16d59`](https://github.com/drivy/frontend-configs/commit/da16d59411424bea9694276c63050f15a906777f)
+- Also precise core-js version for node babel-env [`63a1b0b`](https://github.com/drivy/frontend-configs/commit/63a1b0b437ff72fd419ee9cbb4e83132054368cd)
+
 #### [@getaround-eu/babel-preset-app@1.4.4](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.3...@getaround-eu/babel-preset-app@1.4.4)
+
+> 4 September 2023
 
 - Lock file maintenance [`#970`](https://github.com/drivy/frontend-configs/pull/970)
 - Update dependency @babel/preset-env to ^7.22.14 [`#965`](https://github.com/drivy/frontend-configs/pull/965)

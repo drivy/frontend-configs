@@ -2,7 +2,25 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/browserslist-config@1.4.4](https://github.com/drivy/frontend-configs/compare/@getaround-eu/browserslist-config@1.4.3...@getaround-eu/browserslist-config@1.4.4)
+
+- Lock file maintenance [`#1082`](https://github.com/drivy/frontend-configs/pull/1082)
+- Lock file maintenance [`#1079`](https://github.com/drivy/frontend-configs/pull/1079)
+- Lock file maintenance [`#1077`](https://github.com/drivy/frontend-configs/pull/1077)
+- Update dependency browserslist to v4.22.3 [`#1076`](https://github.com/drivy/frontend-configs/pull/1076)
+- Lock file maintenance [`#1055`](https://github.com/drivy/frontend-configs/pull/1055)
+- Lock file maintenance [`#1049`](https://github.com/drivy/frontend-configs/pull/1049)
+- Update dependency browserslist to v4.22.2 [`#1040`](https://github.com/drivy/frontend-configs/pull/1040)
+- Lock file maintenance [`#1019`](https://github.com/drivy/frontend-configs/pull/1019)
+- Lock file maintenance [`#989`](https://github.com/drivy/frontend-configs/pull/989)
+- Update dependency browserslist to v4.22.1 [`#987`](https://github.com/drivy/frontend-configs/pull/987)
+- Lock file maintenance [`#985`](https://github.com/drivy/frontend-configs/pull/985)
+- Lock file maintenance [`#977`](https://github.com/drivy/frontend-configs/pull/977)
+- Move from Yarn classic to pnpm [`da16d59`](https://github.com/drivy/frontend-configs/commit/da16d59411424bea9694276c63050f15a906777f)
+
 #### [@getaround-eu/browserslist-config@1.4.3](https://github.com/drivy/frontend-configs/compare/@getaround-eu/browserslist-config@1.4.2...@getaround-eu/browserslist-config@1.4.3)
+
+> 4 September 2023
 
 - Lock file maintenance [`#970`](https://github.com/drivy/frontend-configs/pull/970)
 

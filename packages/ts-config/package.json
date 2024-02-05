@@ -7,7 +7,7 @@
     "directory": "packages/ts-config"
   },
   "license": "MIT",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "main": "base.json",
   "publishConfig": {
     "access": "public"

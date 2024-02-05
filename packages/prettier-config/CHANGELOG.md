@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/prettier-config@1.2.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/prettier-config@1.2.0...@getaround-eu/prettier-config@1.2.1)
+
+- Move from Yarn classic to pnpm [`da16d59`](https://github.com/drivy/frontend-configs/commit/da16d59411424bea9694276c63050f15a906777f)
+
 #### @getaround-eu/prettier-config@1.2.0
+
+> 3 May 2022
 
 - Add prettier-config package and use it [`7ead170`](https://github.com/drivy/frontend-configs/commit/7ead1709998edef5fdc6871e870b9c706b589903)
 - publish to npm organisation getaround-eu [`c69acad`](https://github.com/drivy/frontend-configs/commit/c69acadafb6f153442cb06a05252fa12e4a47e78)
