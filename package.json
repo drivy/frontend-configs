@@ -10,7 +10,7 @@
     "lerna": "8.1.2",
     "prettier": "3.2.5",
     "stylelint": "15.11.0",
-    "typescript": "5.4.3"
+    "typescript": "5.4.4"
   },
   "license": "MIT",
   "scripts": {
