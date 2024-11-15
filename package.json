@@ -6,7 +6,7 @@
     "@getaround-eu/ts-config": "file:packages/ts-config",
     "@rushstack/eslint-patch": "1.10.4",
     "auto-changelog": "2.4.0",
-    "eslint": "8.57.1",
+    "eslint": "9.15.0",
     "lerna": "8.1.2",
     "prettier": "3.3.3",
     "stylelint": "15.11.0",
