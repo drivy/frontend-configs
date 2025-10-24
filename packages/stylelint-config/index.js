@@ -1,11 +1,11 @@
 module.exports = {
   extends: ["stylelint-prettier/recommended"],
   plugins: ["stylelint-order", "stylelint-scss"],
-  ignoreFiles: ["**/*.{js|ts|jsx|tsx}"],
-  customSyntax: "postcss-scss",
+  ignoreFiles: ["**/*.{js,ts,jsx,tsx}"],
+  customSyntax: require.resolve("postcss-scss"),
   rules: {
     "declaration-property-value-disallowed-list": {
-      "/^border/": "none",
+      "/^border/": ["none"],
     },
     "declaration-block-no-duplicate-properties": true,
     "rule-empty-line-before": [
@@ -76,7 +76,6 @@ module.exports = {
             "overflow-x",
             "overflow-y",
             "overflow-scrolling",
-            "box-sizing",
             "box-sizing",
             "flex",
             "flex-basis",
