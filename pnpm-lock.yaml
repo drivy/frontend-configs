@@ -70,7 +70,7 @@ importers:
         version: 7.26.0(@babel/core@7.26.9)
       '@babel/runtime':
         specifier: ^7.26.9
-        version: 7.26.10
+        version: 7.26.9
       '@babel/runtime-corejs3':
         specifier: ^7.26.9
         version: 7.26.9
@@ -86,6 +86,8 @@ importers:
       core-js:
         specifier: ^3.40.0
         version: 3.40.0
+
+  packages/biome-config: {}
 
   packages/browserslist-config:
     devDependencies:
@@ -1524,8 +1526,8 @@ packages:
       regenerator-runtime: 0.14.1
     dev: false
 
-  /@babel/runtime@7.26.10:
-    resolution: {integrity: sha512-2WJMeRQPHKSPemqk/awGrAiuFfzBmOIPXKizAsVhWH9YJqLZ0H+HS4c8loHGgW6utJ3E/ejXQUsiGaQy2NZ9Fw==}
+  /@babel/runtime@7.26.9:
+    resolution: {integrity: sha512-aA63XwOkcl4xxQa3HjPMqOP6LiK0ZDv3mUPYEFXkpHbaFjtGggE1A61FjFzJnB+p7/oy2gA8E+rcBNl/zC1tMg==}
     engines: {node: '>=6.9.0'}
     dependencies:
       regenerator-runtime: 0.14.1
@@ -2953,7 +2955,7 @@ packages:
     resolution: {integrity: sha512-Cg7TFGpIr01vOQNODXOOaGz2NpCU5gl8x1qJFbb6hbZxR7XrcE2vtbAsTAbJ7/xwJtUuJEw8K8Zr/AE0LHlesg==}
     engines: {node: '>=10', npm: '>=6'}
     dependencies:
-      '@babel/runtime': 7.26.10
+      '@babel/runtime': 7.26.9
       cosmiconfig: 7.1.0
       resolve: 1.22.8
     dev: false
@@ -7405,7 +7407,7 @@ packages:
   /regenerator-transform@0.15.2:
     resolution: {integrity: sha512-hfMp2BoF0qOk3uc5V20ALGDS2ddjQaLrdl7xrGXvAIow7qeWRM2VA2HuCHkUKk9slq3VwEwLNK3DFBqDfPGYtg==}
     dependencies:
-      '@babel/runtime': 7.26.10
+      '@babel/runtime': 7.26.9
     dev: false
 
   /regexp.prototype.flags@1.5.2:
