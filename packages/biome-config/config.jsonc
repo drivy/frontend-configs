@@ -1,4 +1,3 @@
-// Prettier config with disabled semi and es5 trailing comma
 {
   "formatter": {
     "indentStyle": "space",
@@ -7,24 +6,21 @@
   },
   "javascript": {
     "formatter": {
-      "quoteStyle": "single",
-      "trailingCommas": "es5",
-      "semicolons": "asNeeded",
-      "jsxQuoteStyle": "double"
+      "semicolons": "asNeeded"
+    }
+  },
+  "css": {
+    "formatter": {
+      "enabled": true
+    },
+    "parser": {
+      "tailwindDirectives": true
     }
   },
   "linter": {
-    "enabled": true,
-    "rules": {
-      "suspicious": {
-        "noEmptyBlock": "error"
-      },
-      "correctness": {
-        "noUnknownProperty": "error"
-      }
-    }
+    "enabled": true
   },
   "files": {
-    "includes": ["**", "!**/node_modules/**"]
+    "includes": ["**", "!!**/node_modules/**"]
   }
 }

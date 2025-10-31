@@ -1,7 +1,7 @@
 const browserslist = require("@getaround-eu/browserslist-config")
 const { declare } = require("@babel/helper-plugin-utils")
 
-module.exports = declare(function (api, options) {
+module.exports = declare((api, options) => {
   api.assertVersion(7)
 
   const validEnv = ["development", "test", "production"]
@@ -17,7 +17,7 @@ module.exports = declare(function (api, options) {
         '`BABEL_ENV` environment variables. Valid values are "development", ' +
         '"test", and "production". Instead, received: ' +
         JSON.stringify(currentEnv) +
-        "."
+        ".",
     )
   }
 

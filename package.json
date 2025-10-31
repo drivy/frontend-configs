@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@biomejs/biome": "2.3.2",
+    "@getaround-eu/biome-config": "file:packages/biome-config",
     "@getaround-eu/eslint-config": "file:packages/eslint-config",
     "@getaround-eu/prettier-config": "file:packages/prettier-config",
     "@getaround-eu/stylelint-config": "file:packages/stylelint-config",
@@ -7,7 +9,7 @@
     "@rushstack/eslint-patch": "1.10.5",
     "auto-changelog": "2.4.0",
     "eslint": "8.57.1",
-    "lerna": "8.1.2",
+    "lerna": "9.0.0",
     "prettier": "3.5.3",
     "stylelint": "15.11.0",
     "typescript": "5.7.3"
@@ -15,7 +17,7 @@
   "license": "MIT",
   "scripts": {
     "test": "lerna run test",
-    "lint": "eslint packages/ --ext js",
+    "lint": "biome check",
     "typecheck": "tsc --noEmit",
     "version": "./scripts/changelog.sh",
     "release": "lerna publish -m ':gem: Release configs'"
