@@ -2,7 +2,32 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/babel-preset-app@1.4.6](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.5...@getaround-eu/babel-preset-app@1.4.6)
+
+- Update babel monorepo [`#1156`](https://github.com/drivy/frontend-configs/pull/1156)
+- Update dependency core-js to ^3.46.0 [`#1159`](https://github.com/drivy/frontend-configs/pull/1159)
+- Propose to switch to BiomeJS [`#1151`](https://github.com/drivy/frontend-configs/pull/1151)
+- Update dependency core-js to ^3.40.0 [`#1141`](https://github.com/drivy/frontend-configs/pull/1141)
+- Update babel monorepo [`#1135`](https://github.com/drivy/frontend-configs/pull/1135)
+- Update dependency core-js to ^3.39.0 [`#1133`](https://github.com/drivy/frontend-configs/pull/1133)
+- Update dependency core-js to ^3.38.1 [`#1127`](https://github.com/drivy/frontend-configs/pull/1127)
+- Update babel monorepo [`#1125`](https://github.com/drivy/frontend-configs/pull/1125)
+- Update babel monorepo [`#1123`](https://github.com/drivy/frontend-configs/pull/1123)
+- Update dependency core-js to ^3.37.1 [`#1118`](https://github.com/drivy/frontend-configs/pull/1118)
+- Update babel monorepo to ^7.24.6 [`#1116`](https://github.com/drivy/frontend-configs/pull/1116)
+- Update babel monorepo to ^7.24.5 [`#1113`](https://github.com/drivy/frontend-configs/pull/1113)
+- Update dependency core-js to ^3.37.0 [`#1111`](https://github.com/drivy/frontend-configs/pull/1111)
+- Update babel monorepo to ^7.24.4 [`#1105`](https://github.com/drivy/frontend-configs/pull/1105)
+- Update babel monorepo to ^7.24.3 [`#1100`](https://github.com/drivy/frontend-configs/pull/1100)
+- Update babel monorepo to ^7.24.1 [`#1098`](https://github.com/drivy/frontend-configs/pull/1098)
+- Update dependency core-js to ^3.36.1 [`#1097`](https://github.com/drivy/frontend-configs/pull/1097)
+- Update babel monorepo to ^7.24.0 [`#1093`](https://github.com/drivy/frontend-configs/pull/1093)
+- Update dependency core-js to ^3.36.0 [`#1088`](https://github.com/drivy/frontend-configs/pull/1088)
+- Upgrade corejs version in babel config [`7228bbb`](https://github.com/drivy/frontend-configs/commit/7228bbba738e3a2286f344693c96f6d6b1d78a3f)
+
 #### [@getaround-eu/babel-preset-app@1.4.5](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.4...@getaround-eu/babel-preset-app@1.4.5)
+
+> 5 February 2024
 
 - Lock file maintenance [`#1082`](https://github.com/drivy/frontend-configs/pull/1082)
 - Lock file maintenance [`#1079`](https://github.com/drivy/frontend-configs/pull/1079)

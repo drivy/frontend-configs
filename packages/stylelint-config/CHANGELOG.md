@@ -2,7 +2,17 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/stylelint-config@4.0.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@3.0.1...@getaround-eu/stylelint-config@4.0.1)
+
+- Propose to switch to BiomeJS [`#1151`](https://github.com/drivy/frontend-configs/pull/1151)
+- Update dependency prettier to v3.5.3 [`#1146`](https://github.com/drivy/frontend-configs/pull/1146)
+- Update dependency prettier to v3.5.1 [`#1142`](https://github.com/drivy/frontend-configs/pull/1142)
+- Update dependency prettier to v3.3.3 [`#1130`](https://github.com/drivy/frontend-configs/pull/1130)
+- Upgrade stylelint config to v4 to support stylelint v15.x [`8865616`](https://github.com/drivy/frontend-configs/commit/8865616c47f0b77834d1041dae8f55a22935e1e7)
+
 #### [@getaround-eu/stylelint-config@3.0.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@3.0.0...@getaround-eu/stylelint-config@3.0.1)
+
+> 5 February 2024
 
 - Update dependency prettier to v3.2.5 [`#1081`](https://github.com/drivy/frontend-configs/pull/1081)
 - Lock file maintenance [`#1055`](https://github.com/drivy/frontend-configs/pull/1055)
