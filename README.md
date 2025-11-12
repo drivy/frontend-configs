@@ -5,10 +5,12 @@ Available shareable configs:
 - [Babel config](./packages/babel-preset-app)
 - [Browserslist config](./packages/browserslist-config)
 - [Biome config](./packages/biome-config)
-- [ESLint config](./packages/eslint-config) (DEPRECATED)
-- [Prettier config](./packages/prettier-config) (DEPRECATED)
-- [Stylelint config](./packages/stylelint-config) (DEPRECATED)
 - [Typescript config](./packages/ts-config)
+
+Not maintained anymore:
+- [ESLint config](./packages/eslint-config) (use Biome config instead)
+- [Prettier config](./packages/prettier-config) (use Biome config instead)
+- [Stylelint config](./packages/stylelint-config) (use Biome config instead)
 
 #### Publish packages
 
