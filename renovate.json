@@ -22,6 +22,11 @@
       ],
       "matchUpdateTypes": ["minor", "patch"],
       "automerge": true
+    },
+    {
+      "matchPackageNames": ["@getaround-eu/eslint-config", "@getaround-eu/prettier-config", "@getaround-eu/stylelint-config"],
+      "matchUpdateTypes": ["major"],
+      "enabled": false
     }
   ]
 }
