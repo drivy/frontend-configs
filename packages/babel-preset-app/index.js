@@ -9,7 +9,7 @@ module.exports = declare((api, options) => {
   const isDevelopmentEnv = api.env("development")
   const isTestEnv = api.env("test")
 
-  const CORE_JS_VERSION = "3.32"
+  const CORE_JS_VERSION = "3.46"
 
   if (!validEnv.includes(currentEnv)) {
     throw new Error(
