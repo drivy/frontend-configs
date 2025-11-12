@@ -5,9 +5,9 @@ Available shareable configs:
 - [Babel config](./packages/babel-preset-app)
 - [Browserslist config](./packages/browserslist-config)
 - [Biome config](./packages/biome-config)
-- [ESLint config](./packages/eslint-config)
-- [Prettier config](./packages/prettier-config)
-- [Stylelint config](./packages/stylelint-config)
+- [ESLint config](./packages/eslint-config) (DEPRECATED)
+- [Prettier config](./packages/prettier-config) (DEPRECATED)
+- [Stylelint config](./packages/stylelint-config) (DEPRECATED)
 - [Typescript config](./packages/ts-config)
 
 #### Publish packages
