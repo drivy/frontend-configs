@@ -1,0 +1,14 @@
+{
+  "name": "@getaround-eu/biome-config",
+  "version": "1.0.0",
+  "main": "config.jsonc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drivy/frontend-configs.git",
+    "directory": "packages/biome-config"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

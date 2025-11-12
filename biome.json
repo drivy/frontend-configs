@@ -1,0 +1,3 @@
+{
+  "extends": ["@getaround-eu/biome-config"]
+}
