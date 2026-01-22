@@ -30,6 +30,6 @@
     "@getaround-eu/browserslist-config": "workspace:^",
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "babel-plugin-macros": "^3.1.0",
-    "core-js": "^3.47.0"
+    "core-js": "^3.48.0"
   }
 }
