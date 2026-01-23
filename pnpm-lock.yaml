@@ -157,8 +157,8 @@ importers:
         specifier: 5.0.3
         version: 5.0.3(prettier@3.8.1)(stylelint@16.25.0)
       stylelint-scss:
-        specifier: 6.14.0
-        version: 6.14.0(stylelint@16.25.0)
+        specifier: 7.0.0
+        version: 7.0.0(stylelint@16.25.0)
 
   packages/ts-config: {}
 
@@ -7871,11 +7871,11 @@ packages:
       stylelint: 16.25.0(typescript@5.9.3)
     dev: false
 
-  /stylelint-scss@6.14.0(stylelint@15.11.0):
-    resolution: {integrity: sha512-ZKmHMZolxeuYsnB+PCYrTpFce0/QWX9i9gh0hPXzp73WjuIMqUpzdQaBCrKoLWh6XtCFSaNDErkMPqdjy1/8aA==}
-    engines: {node: '>=18.12.0'}
+  /stylelint-scss@7.0.0(stylelint@15.11.0):
+    resolution: {integrity: sha512-H88kCC+6Vtzj76NsC8rv6x/LW8slBzIbyeSjsKVlS+4qaEJoDrcJR4L+8JdrR2ORdTscrBzYWiiT2jq6leYR1Q==}
+    engines: {node: '>=20.19.0'}
     peerDependencies:
-      stylelint: ^16.8.2
+      stylelint: ^16.8.2 || ^17.0.0
     dependencies:
       css-tree: 3.1.0
       is-plain-object: 5.0.0
@@ -7888,11 +7888,11 @@ packages:
       stylelint: 15.11.0(typescript@5.9.3)
     dev: false
 
-  /stylelint-scss@6.14.0(stylelint@16.25.0):
-    resolution: {integrity: sha512-ZKmHMZolxeuYsnB+PCYrTpFce0/QWX9i9gh0hPXzp73WjuIMqUpzdQaBCrKoLWh6XtCFSaNDErkMPqdjy1/8aA==}
-    engines: {node: '>=18.12.0'}
+  /stylelint-scss@7.0.0(stylelint@16.25.0):
+    resolution: {integrity: sha512-H88kCC+6Vtzj76NsC8rv6x/LW8slBzIbyeSjsKVlS+4qaEJoDrcJR4L+8JdrR2ORdTscrBzYWiiT2jq6leYR1Q==}
+    engines: {node: '>=20.19.0'}
     peerDependencies:
-      stylelint: ^16.8.2
+      stylelint: ^16.8.2 || ^17.0.0
     dependencies:
       css-tree: 3.1.0
       is-plain-object: 5.0.0
@@ -8716,7 +8716,7 @@ packages:
       prettier: 3.8.1
       stylelint-order: 7.0.1(stylelint@15.11.0)
       stylelint-prettier: 5.0.3(prettier@3.8.1)(stylelint@15.11.0)
-      stylelint-scss: 6.14.0(stylelint@15.11.0)
+      stylelint-scss: 7.0.0(stylelint@15.11.0)
     transitivePeerDependencies:
       - postcss
       - stylelint
