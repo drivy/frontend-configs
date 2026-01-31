@@ -78,8 +78,8 @@ importers:
         specifier: ^7.28.6
         version: 7.28.6
       '@babel/runtime-corejs3':
-        specifier: ^7.28.6
-        version: 7.28.6
+        specifier: ^7.29.0
+        version: 7.29.0
       '@getaround-eu/browserslist-config':
         specifier: workspace:^
         version: link:../browserslist-config
@@ -1476,11 +1476,11 @@ packages:
       - supports-color
     dev: false
 
-  /@babel/runtime-corejs3@7.28.6:
-    resolution: {integrity: sha512-kz2fAQ5UzjV7X7D3ySxmj3vRq89dTpqOZWv76Z6pNPztkwb/0Yj1Mtx1xFrYj6mbIHysxtBot8J4o0JLCblcFw==}
+  /@babel/runtime-corejs3@7.29.0:
+    resolution: {integrity: sha512-TgUkdp71C9pIbBcHudc+gXZnihEDOjUAmXO1VO4HHGES7QLZcShR0stfKIxLSNIYx2fqhmJChOjm/wkF8wv4gA==}
     engines: {node: '>=6.9.0'}
     dependencies:
-      core-js-pure: 3.46.0
+      core-js-pure: 3.48.0
     dev: false
 
   /@babel/runtime@7.28.6:
@@ -3792,8 +3792,8 @@ packages:
       browserslist: 4.28.1
     dev: false
 
-  /core-js-pure@3.46.0:
-    resolution: {integrity: sha512-NMCW30bHNofuhwLhYPt66OLOKTMbOhgTTatKVbaQC3KRHpTCiRIBYvtshr+NBYSnBxwAFhjW/RfJ0XbIjS16rw==}
+  /core-js-pure@3.48.0:
+    resolution: {integrity: sha512-1slJgk89tWC51HQ1AEqG+s2VuwpTRr8ocu4n20QUcH1v9lAN0RXen0Q0AABa/DK1I7RrNWLucplOHMx8hfTGTw==}
     requiresBuild: true
     dev: false
 
