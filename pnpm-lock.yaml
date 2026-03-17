@@ -90,8 +90,8 @@ importers:
         specifier: ^3.1.0
         version: 3.1.0
       core-js:
-        specifier: ^3.48.0
-        version: 3.48.0
+        specifier: ^3.49.0
+        version: 3.49.0
 
   packages/biome-config: {}
 
@@ -3843,8 +3843,8 @@ packages:
     requiresBuild: true
     dev: false
 
-  /core-js@3.48.0:
-    resolution: {integrity: sha512-zpEHTy1fjTMZCKLHUZoVeylt9XrzaIN2rbPXEt0k+q7JE5CkCZdo6bNq55bn24a69CH7ErAVLKijxJja4fw+UQ==}
+  /core-js@3.49.0:
+    resolution: {integrity: sha512-es1U2+YTtzpwkxVLwAFdSpaIMyQaq0PBgm3YD1W3Qpsn1NAmO3KSgZfu+oGSWVu6NvLHoHCV/aYcsE5wiB7ALg==}
     requiresBuild: true
     dev: false
 
