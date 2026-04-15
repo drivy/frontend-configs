@@ -2,7 +2,23 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-#### [@getaround-eu/stylelint-config@4.0.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@3.0.1...@getaround-eu/stylelint-config@4.0.1)
+#### [@getaround-eu/stylelint-config@4.0.2](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@4.0.1...@getaround-eu/stylelint-config@4.0.2)
+
+- Update dependency prettier to v3.8.3 [`#1196`](https://github.com/drivy/frontend-configs/pull/1196)
+- Update dependency prettier to v3.8.2 [`#1195`](https://github.com/drivy/frontend-configs/pull/1195)
+- Update dependency prettier to v3.8.1 [`#1184`](https://github.com/drivy/frontend-configs/pull/1184)
+- Update dependency prettier to v3.8.0 [`#1181`](https://github.com/drivy/frontend-configs/pull/1181)
+- Update dependency stylelint-order to v7.0.1 [`#1178`](https://github.com/drivy/frontend-configs/pull/1178)
+- Update dependency stylelint-scss to v6.14.0 [`#1177`](https://github.com/drivy/frontend-configs/pull/1177)
+- Update dependency stylelint-scss to v6.13.0 [`#1175`](https://github.com/drivy/frontend-configs/pull/1175)
+- Update dependency prettier to v3.7.4 [`#1173`](https://github.com/drivy/frontend-configs/pull/1173)
+- Update dependency prettier to v3.7.3 [`#1172`](https://github.com/drivy/frontend-configs/pull/1172)
+- Update dependency prettier to v3.7.2 [`#1171`](https://github.com/drivy/frontend-configs/pull/1171)
+- Update dependency prettier to v3.7.1 [`#1170`](https://github.com/drivy/frontend-configs/pull/1170)
+
+### [@getaround-eu/stylelint-config@4.0.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/stylelint-config@3.0.1...@getaround-eu/stylelint-config@4.0.1)
+
+> 12 November 2025
 
 - Propose to switch to BiomeJS [`#1151`](https://github.com/drivy/frontend-configs/pull/1151)
 - Update dependency prettier to v3.5.3 [`#1146`](https://github.com/drivy/frontend-configs/pull/1146)

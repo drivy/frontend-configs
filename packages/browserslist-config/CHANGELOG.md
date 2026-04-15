@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/browserslist-config@1.4.6](https://github.com/drivy/frontend-configs/compare/@getaround-eu/browserslist-config@1.4.5...@getaround-eu/browserslist-config@1.4.6)
+
+- Update dependency browserslist to v4.28.2 [`#1194`](https://github.com/drivy/frontend-configs/pull/1194)
+- Update dependency browserslist to v4.28.1 [`#1174`](https://github.com/drivy/frontend-configs/pull/1174)
+
 #### [@getaround-eu/browserslist-config@1.4.5](https://github.com/drivy/frontend-configs/compare/@getaround-eu/browserslist-config@1.4.4...@getaround-eu/browserslist-config@1.4.5)
+
+> 12 November 2025
 
 - Update dependency browserslist to v4.28.0 [`#1158`](https://github.com/drivy/frontend-configs/pull/1158)
 - Propose to switch to BiomeJS [`#1151`](https://github.com/drivy/frontend-configs/pull/1151)

@@ -2,7 +2,18 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/babel-preset-app@1.4.7](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.6...@getaround-eu/babel-preset-app@1.4.7)
+
+- Update babel monorepo to ^7.29.2 [`#1192`](https://github.com/drivy/frontend-configs/pull/1192)
+- Update dependency core-js to ^3.49.0 [`#1191`](https://github.com/drivy/frontend-configs/pull/1191)
+- Update babel monorepo to ^7.29.0 [`#1186`](https://github.com/drivy/frontend-configs/pull/1186)
+- Update dependency core-js to ^3.48.0 [`#1185`](https://github.com/drivy/frontend-configs/pull/1185)
+- Update babel monorepo to ^7.28.6 [`#1179`](https://github.com/drivy/frontend-configs/pull/1179)
+- Update dependency core-js to ^3.47.0 [`#1169`](https://github.com/drivy/frontend-configs/pull/1169)
+
 #### [@getaround-eu/babel-preset-app@1.4.6](https://github.com/drivy/frontend-configs/compare/@getaround-eu/babel-preset-app@1.4.5...@getaround-eu/babel-preset-app@1.4.6)
+
+> 12 November 2025
 
 - Update babel monorepo [`#1156`](https://github.com/drivy/frontend-configs/pull/1156)
 - Update dependency core-js to ^3.46.0 [`#1159`](https://github.com/drivy/frontend-configs/pull/1159)

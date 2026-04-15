@@ -1,6 +1,6 @@
 {
   "name": "@getaround-eu/babel-preset-app",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "Babel preset used by Getaround",
   "repository": {
     "type": "git",

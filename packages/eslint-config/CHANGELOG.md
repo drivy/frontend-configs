@@ -2,7 +2,24 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [@getaround-eu/eslint-config@4.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@3.1.1...@getaround-eu/eslint-config@4.0.0)
+
+- Update dependency prettier to v3.8.3 [`#1196`](https://github.com/drivy/frontend-configs/pull/1196)
+- Update dependency prettier to v3.8.2 [`#1195`](https://github.com/drivy/frontend-configs/pull/1195)
+- Update babel monorepo to ^7.29.0 [`#1186`](https://github.com/drivy/frontend-configs/pull/1186)
+- Update dependency prettier to v3.8.1 [`#1184`](https://github.com/drivy/frontend-configs/pull/1184)
+- Update dependency prettier to v3.8.0 [`#1181`](https://github.com/drivy/frontend-configs/pull/1181)
+- Update dependency eslint-plugin-prettier to ^5.5.5 [`#1180`](https://github.com/drivy/frontend-configs/pull/1180)
+- Update babel monorepo to ^7.28.6 [`#1179`](https://github.com/drivy/frontend-configs/pull/1179)
+- Update dependency prettier to v3.7.4 [`#1173`](https://github.com/drivy/frontend-configs/pull/1173)
+- Update dependency prettier to v3.7.3 [`#1172`](https://github.com/drivy/frontend-configs/pull/1172)
+- Update dependency prettier to v3.7.2 [`#1171`](https://github.com/drivy/frontend-configs/pull/1171)
+- Update dependency prettier to v3.7.1 [`#1170`](https://github.com/drivy/frontend-configs/pull/1170)
+- Bump typescript to v6 [`166ba4c`](https://github.com/drivy/frontend-configs/commit/166ba4cd79f2496e42c979f414038ead1f17f2db)
+
 #### [@getaround-eu/eslint-config@3.1.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@3.1.0...@getaround-eu/eslint-config@3.1.1)
+
+> 12 November 2025
 
 - Update dependency eslint-plugin-react to ^7.37.5 [`#1155`](https://github.com/drivy/frontend-configs/pull/1155)
 - Update dependency eslint-config-prettier to ^9.1.2 [`#1152`](https://github.com/drivy/frontend-configs/pull/1152)
