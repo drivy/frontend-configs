@@ -1,18 +1,17 @@
-// We use spread in object support to say if a browser is supported or not
-// source https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
-const spreadInObjectSupport = [
+// We use Object.hasOwn support to say if a browser is supported or not
+const objectHasOwnSupport = [
   // Desktop
-  "chrome >= 60",
-  "edge >= 79",
-  "firefox >= 55",
-  "opera >= 47",
-  "safari >= 11.1",
+  "chrome >= 93",
+  "edge >= 93",
+  "firefox >= 92",
+  "opera >= 79",
+  "safari >= 15.4",
   // Mobile
-  "android >= 60",
-  "and_chr >= 60",
-  "and_ff >= 55",
-  "ios_saf >= 11.3",
-  "samsung >= 8.2",
+  "android >= 147",
+  "and_chr >= 147",
+  "and_ff >= 150",
+  "ios_saf >= 15.4",
+  "samsung >= 17.0",
 ]
 
 module.exports = [
@@ -21,4 +20,4 @@ module.exports = [
   "not samsung 4",
   "not op_mini all",
   "not android <= 4.4.4",
-].concat(spreadInObjectSupport)
+].concat(objectHasOwnSupport)
