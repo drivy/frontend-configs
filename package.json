@@ -20,6 +20,6 @@
     "lint": "biome check",
     "typecheck": "tsc --noEmit",
     "version": "./scripts/changelog.sh",
-    "release": "lerna publish -m ':gem: Release configs'"
+    "release": "npm whoami && lerna publish -m ':gem: Release configs'"
   }
 }
