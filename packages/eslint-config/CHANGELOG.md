@@ -2,540 +2,1031 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-#### [@getaround-eu/eslint-config@4.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@3.1.1...@getaround-eu/eslint-config@4.0.0)
+#### [@getaround-eu/eslint-config@5.0.0](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@4.0.0...@getaround-eu/eslint-config@5.0.0)
 
-- Update dependency prettier to v3.8.3 [`#1196`](https://github.com/drivy/frontend-configs/pull/1196)
-- Update dependency prettier to v3.8.2 [`#1195`](https://github.com/drivy/frontend-configs/pull/1195)
-- Update babel monorepo to ^7.29.0 [`#1186`](https://github.com/drivy/frontend-configs/pull/1186)
-- Update dependency prettier to v3.8.1 [`#1184`](https://github.com/drivy/frontend-configs/pull/1184)
-- Update dependency prettier to v3.8.0 [`#1181`](https://github.com/drivy/frontend-configs/pull/1181)
-- Update dependency eslint-plugin-prettier to ^5.5.5 [`#1180`](https://github.com/drivy/frontend-configs/pull/1180)
-- Update babel monorepo to ^7.28.6 [`#1179`](https://github.com/drivy/frontend-configs/pull/1179)
-- Update dependency prettier to v3.7.4 [`#1173`](https://github.com/drivy/frontend-configs/pull/1173)
-- Update dependency prettier to v3.7.3 [`#1172`](https://github.com/drivy/frontend-configs/pull/1172)
-- Update dependency prettier to v3.7.2 [`#1171`](https://github.com/drivy/frontend-configs/pull/1171)
-- Update dependency prettier to v3.7.1 [`#1170`](https://github.com/drivy/frontend-configs/pull/1170)
-- Bump typescript to v6 [`166ba4c`](https://github.com/drivy/frontend-configs/commit/166ba4cd79f2496e42c979f414038ead1f17f2db)
+- Update typescript-eslint monorepo to v8.59.0 [`#1199`](https://github.com/drivy/frontend-configs.git
+/pull/1199)
 
-#### [@getaround-eu/eslint-config@3.1.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@3.1.0...@getaround-eu/eslint-config@3.1.1)
+### [@getaround-eu/eslint-config@4.0.0](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@3.1.1...@getaround-eu/eslint-config@4.0.0)
+
+> 15 April 2026
+
+- Update dependency prettier to v3.8.3 [`#1196`](https://github.com/drivy/frontend-configs.git
+/pull/1196)
+- Update dependency prettier to v3.8.2 [`#1195`](https://github.com/drivy/frontend-configs.git
+/pull/1195)
+- Update babel monorepo to ^7.29.0 [`#1186`](https://github.com/drivy/frontend-configs.git
+/pull/1186)
+- Update dependency prettier to v3.8.1 [`#1184`](https://github.com/drivy/frontend-configs.git
+/pull/1184)
+- Update dependency prettier to v3.8.0 [`#1181`](https://github.com/drivy/frontend-configs.git
+/pull/1181)
+- Update dependency eslint-plugin-prettier to ^5.5.5 [`#1180`](https://github.com/drivy/frontend-configs.git
+/pull/1180)
+- Update babel monorepo to ^7.28.6 [`#1179`](https://github.com/drivy/frontend-configs.git
+/pull/1179)
+- Update dependency prettier to v3.7.4 [`#1173`](https://github.com/drivy/frontend-configs.git
+/pull/1173)
+- Update dependency prettier to v3.7.3 [`#1172`](https://github.com/drivy/frontend-configs.git
+/pull/1172)
+- Update dependency prettier to v3.7.2 [`#1171`](https://github.com/drivy/frontend-configs.git
+/pull/1171)
+- Update dependency prettier to v3.7.1 [`#1170`](https://github.com/drivy/frontend-configs.git
+/pull/1170)
+- Bump typescript to v6 [`166ba4c`](https://github.com/drivy/frontend-configs.git
+/commit/166ba4cd79f2496e42c979f414038ead1f17f2db)
+
+#### [@getaround-eu/eslint-config@3.1.1](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@3.1.0...@getaround-eu/eslint-config@3.1.1)
 
 > 12 November 2025
 
-- Update dependency eslint-plugin-react to ^7.37.5 [`#1155`](https://github.com/drivy/frontend-configs/pull/1155)
-- Update dependency eslint-config-prettier to ^9.1.2 [`#1152`](https://github.com/drivy/frontend-configs/pull/1152)
-- Update dependency eslint-plugin-prettier to ^5.5.4 [`#1160`](https://github.com/drivy/frontend-configs/pull/1160)
-- Update babel monorepo [`#1156`](https://github.com/drivy/frontend-configs/pull/1156)
-- Update dependency prettier to v3.6.2 [`#1161`](https://github.com/drivy/frontend-configs/pull/1161)
-- Propose to switch to BiomeJS [`#1151`](https://github.com/drivy/frontend-configs/pull/1151)
-- Update dependency prettier to v3.5.3 [`#1146`](https://github.com/drivy/frontend-configs/pull/1146)
-- Update dependency prettier to v3.5.1 [`#1142`](https://github.com/drivy/frontend-configs/pull/1142)
-- Update dependency eslint-plugin-react to ^7.37.4 [`#1139`](https://github.com/drivy/frontend-configs/pull/1139)
-- Update dependency eslint-plugin-prettier to ^5.2.3 [`#1138`](https://github.com/drivy/frontend-configs/pull/1138)
-- Update babel monorepo [`#1135`](https://github.com/drivy/frontend-configs/pull/1135)
-- Update dependency prettier to v3.3.3 [`#1130`](https://github.com/drivy/frontend-configs/pull/1130)
-- Update dependency eslint-plugin-react to ^7.37.2 [`#1129`](https://github.com/drivy/frontend-configs/pull/1129)
-- Update dependency eslint-plugin-prettier to ^5.2.1 [`#1128`](https://github.com/drivy/frontend-configs/pull/1128)
-- Update babel monorepo [`#1125`](https://github.com/drivy/frontend-configs/pull/1125)
-- Update babel monorepo [`#1123`](https://github.com/drivy/frontend-configs/pull/1123)
-- Update dependency eslint to v8.57.1 [`#1122`](https://github.com/drivy/frontend-configs/pull/1122)
-- Update dependency eslint-plugin-react to ^7.34.2 [`#1119`](https://github.com/drivy/frontend-configs/pull/1119)
-- Update babel monorepo to ^7.24.6 [`#1116`](https://github.com/drivy/frontend-configs/pull/1116)
-- Update dependency eslint-plugin-react-hooks to ^4.6.2 [`#1114`](https://github.com/drivy/frontend-configs/pull/1114)
-- Update babel monorepo to ^7.24.5 [`#1113`](https://github.com/drivy/frontend-configs/pull/1113)
-- Update dependency eslint-plugin-react-hooks to ^4.6.1 [`#1109`](https://github.com/drivy/frontend-configs/pull/1109)
-- Update babel monorepo to ^7.24.4 [`#1105`](https://github.com/drivy/frontend-configs/pull/1105)
-- Update babel monorepo to ^7.24.3 [`#1100`](https://github.com/drivy/frontend-configs/pull/1100)
-- Update babel monorepo to ^7.24.1 [`#1098`](https://github.com/drivy/frontend-configs/pull/1098)
-- Update dependency eslint-plugin-react to ^7.34.1 [`#1096`](https://github.com/drivy/frontend-configs/pull/1096)
-- Update dependency eslint-plugin-react to ^7.34.0 [`#1094`](https://github.com/drivy/frontend-configs/pull/1094)
-- Update babel monorepo to ^7.24.0 [`#1093`](https://github.com/drivy/frontend-configs/pull/1093)
-- Update dependency eslint to v8.57.0 [`#1092`](https://github.com/drivy/frontend-configs/pull/1092)
-- Update dependency eslint-plugin-jest to ^27.9.0 [`#1090`](https://github.com/drivy/frontend-configs/pull/1090)
-- Update dependency eslint-plugin-jest to ^27.8.0 [`#1087`](https://github.com/drivy/frontend-configs/pull/1087)
-- Update typescript-eslint monorepo to v6.21.0 [`#1084`](https://github.com/drivy/frontend-configs/pull/1084)
+- Update dependency eslint-plugin-react to ^7.37.5 [`#1155`](https://github.com/drivy/frontend-configs.git
+/pull/1155)
+- Update dependency eslint-config-prettier to ^9.1.2 [`#1152`](https://github.com/drivy/frontend-configs.git
+/pull/1152)
+- Update dependency eslint-plugin-prettier to ^5.5.4 [`#1160`](https://github.com/drivy/frontend-configs.git
+/pull/1160)
+- Update babel monorepo [`#1156`](https://github.com/drivy/frontend-configs.git
+/pull/1156)
+- Update dependency prettier to v3.6.2 [`#1161`](https://github.com/drivy/frontend-configs.git
+/pull/1161)
+- Propose to switch to BiomeJS [`#1151`](https://github.com/drivy/frontend-configs.git
+/pull/1151)
+- Update dependency prettier to v3.5.3 [`#1146`](https://github.com/drivy/frontend-configs.git
+/pull/1146)
+- Update dependency prettier to v3.5.1 [`#1142`](https://github.com/drivy/frontend-configs.git
+/pull/1142)
+- Update dependency eslint-plugin-react to ^7.37.4 [`#1139`](https://github.com/drivy/frontend-configs.git
+/pull/1139)
+- Update dependency eslint-plugin-prettier to ^5.2.3 [`#1138`](https://github.com/drivy/frontend-configs.git
+/pull/1138)
+- Update babel monorepo [`#1135`](https://github.com/drivy/frontend-configs.git
+/pull/1135)
+- Update dependency prettier to v3.3.3 [`#1130`](https://github.com/drivy/frontend-configs.git
+/pull/1130)
+- Update dependency eslint-plugin-react to ^7.37.2 [`#1129`](https://github.com/drivy/frontend-configs.git
+/pull/1129)
+- Update dependency eslint-plugin-prettier to ^5.2.1 [`#1128`](https://github.com/drivy/frontend-configs.git
+/pull/1128)
+- Update babel monorepo [`#1125`](https://github.com/drivy/frontend-configs.git
+/pull/1125)
+- Update babel monorepo [`#1123`](https://github.com/drivy/frontend-configs.git
+/pull/1123)
+- Update dependency eslint to v8.57.1 [`#1122`](https://github.com/drivy/frontend-configs.git
+/pull/1122)
+- Update dependency eslint-plugin-react to ^7.34.2 [`#1119`](https://github.com/drivy/frontend-configs.git
+/pull/1119)
+- Update babel monorepo to ^7.24.6 [`#1116`](https://github.com/drivy/frontend-configs.git
+/pull/1116)
+- Update dependency eslint-plugin-react-hooks to ^4.6.2 [`#1114`](https://github.com/drivy/frontend-configs.git
+/pull/1114)
+- Update babel monorepo to ^7.24.5 [`#1113`](https://github.com/drivy/frontend-configs.git
+/pull/1113)
+- Update dependency eslint-plugin-react-hooks to ^4.6.1 [`#1109`](https://github.com/drivy/frontend-configs.git
+/pull/1109)
+- Update babel monorepo to ^7.24.4 [`#1105`](https://github.com/drivy/frontend-configs.git
+/pull/1105)
+- Update babel monorepo to ^7.24.3 [`#1100`](https://github.com/drivy/frontend-configs.git
+/pull/1100)
+- Update babel monorepo to ^7.24.1 [`#1098`](https://github.com/drivy/frontend-configs.git
+/pull/1098)
+- Update dependency eslint-plugin-react to ^7.34.1 [`#1096`](https://github.com/drivy/frontend-configs.git
+/pull/1096)
+- Update dependency eslint-plugin-react to ^7.34.0 [`#1094`](https://github.com/drivy/frontend-configs.git
+/pull/1094)
+- Update babel monorepo to ^7.24.0 [`#1093`](https://github.com/drivy/frontend-configs.git
+/pull/1093)
+- Update dependency eslint to v8.57.0 [`#1092`](https://github.com/drivy/frontend-configs.git
+/pull/1092)
+- Update dependency eslint-plugin-jest to ^27.9.0 [`#1090`](https://github.com/drivy/frontend-configs.git
+/pull/1090)
+- Update dependency eslint-plugin-jest to ^27.8.0 [`#1087`](https://github.com/drivy/frontend-configs.git
+/pull/1087)
+- Update typescript-eslint monorepo to v6.21.0 [`#1084`](https://github.com/drivy/frontend-configs.git
+/pull/1084)
 
-#### [@getaround-eu/eslint-config@3.1.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@3.0.0...@getaround-eu/eslint-config@3.1.0)
+#### [@getaround-eu/eslint-config@3.1.0](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@3.0.0...@getaround-eu/eslint-config@3.1.0)
 
 > 5 February 2024
 
-- Lock file maintenance [`#1082`](https://github.com/drivy/frontend-configs/pull/1082)
-- Update dependency prettier to v3.2.5 [`#1081`](https://github.com/drivy/frontend-configs/pull/1081)
-- Update dependency @babel/eslint-parser to v7.23.10 [`#1080`](https://github.com/drivy/frontend-configs/pull/1080)
-- Lock file maintenance [`#1079`](https://github.com/drivy/frontend-configs/pull/1079)
-- Update typescript-eslint monorepo to v6.20.0 [`#1078`](https://github.com/drivy/frontend-configs/pull/1078)
-- Lock file maintenance [`#1077`](https://github.com/drivy/frontend-configs/pull/1077)
-- Lock file maintenance [`#1055`](https://github.com/drivy/frontend-configs/pull/1055)
-- Update babel monorepo to ^7.23.9 [`#1074`](https://github.com/drivy/frontend-configs/pull/1074)
-- Update typescript-eslint monorepo to v6.19.1 [`#1072`](https://github.com/drivy/frontend-configs/pull/1072)
-- Update dependency prettier to v3.2.4 [`#1070`](https://github.com/drivy/frontend-configs/pull/1070)
-- Update dependency prettier to v3.2.3 [`#1069`](https://github.com/drivy/frontend-configs/pull/1069)
-- Update typescript-eslint monorepo to v6.19.0 [`#1067`](https://github.com/drivy/frontend-configs/pull/1067)
-- Update dependency prettier to v3.2.2 [`#1066`](https://github.com/drivy/frontend-configs/pull/1066)
-- Update dependency eslint-plugin-jest to ^27.6.3 [`#1064`](https://github.com/drivy/frontend-configs/pull/1064)
-- Update dependency prettier to v3.2.1 [`#1063`](https://github.com/drivy/frontend-configs/pull/1063)
-- Update dependency eslint-plugin-jest to ^27.6.2 [`#1062`](https://github.com/drivy/frontend-configs/pull/1062)
-- Update dependency eslint-plugin-prettier to ^5.1.3 [`#1061`](https://github.com/drivy/frontend-configs/pull/1061)
-- Update typescript-eslint monorepo to v6.18.1 [`#1060`](https://github.com/drivy/frontend-configs/pull/1060)
-- Update dependency eslint-plugin-prettier to ^5.1.2 [`#1059`](https://github.com/drivy/frontend-configs/pull/1059)
-- Update dependency eslint-plugin-jest to ^27.6.1 [`#1056`](https://github.com/drivy/frontend-configs/pull/1056)
-- Update babel monorepo [`#1050`](https://github.com/drivy/frontend-configs/pull/1050)
-- Update dependency eslint to v8.56.0 [`#1054`](https://github.com/drivy/frontend-configs/pull/1054)
-- Lock file maintenance [`#1049`](https://github.com/drivy/frontend-configs/pull/1049)
-- Update typescript-eslint monorepo to v6.14.0 [`#1051`](https://github.com/drivy/frontend-configs/pull/1051)
-- Update dependency prettier to v3.1.1 [`#1046`](https://github.com/drivy/frontend-configs/pull/1046)
-- Update typescript-eslint monorepo to v6.13.2 [`#1041`](https://github.com/drivy/frontend-configs/pull/1041)
-- Lock file maintenance [`#1028`](https://github.com/drivy/frontend-configs/pull/1028)
-- Update dependency eslint-config-prettier to ^9.1.0 [`#1039`](https://github.com/drivy/frontend-configs/pull/1039)
-- Update babel monorepo to ^7.23.5 [`#1037`](https://github.com/drivy/frontend-configs/pull/1037)
-- Update dependency eslint to v8.55.0 [`#1038`](https://github.com/drivy/frontend-configs/pull/1038)
-- Update typescript-eslint monorepo to v6.13.1 [`#1036`](https://github.com/drivy/frontend-configs/pull/1036)
-- Update typescript-eslint monorepo to v6.13.0 [`#1035`](https://github.com/drivy/frontend-configs/pull/1035)
-- Update typescript-eslint monorepo to v6.12.0 [`#1031`](https://github.com/drivy/frontend-configs/pull/1031)
-- Update dependency eslint to v8.54.0 [`#1026`](https://github.com/drivy/frontend-configs/pull/1026)
-- Update babel monorepo to ^7.23.3 [`#1022`](https://github.com/drivy/frontend-configs/pull/1022)
-- Lock file maintenance [`#1019`](https://github.com/drivy/frontend-configs/pull/1019)
-- Update typescript-eslint monorepo to v6.11.0 [`#1025`](https://github.com/drivy/frontend-configs/pull/1025)
-- Update dependency prettier to v3.1.0 [`#1024`](https://github.com/drivy/frontend-configs/pull/1024)
-- Update typescript-eslint monorepo to v6.10.0 [`#1020`](https://github.com/drivy/frontend-configs/pull/1020)
-- Update dependency eslint to v8.53.0 [`#1018`](https://github.com/drivy/frontend-configs/pull/1018)
-- Lock file maintenance [`#989`](https://github.com/drivy/frontend-configs/pull/989)
-- Update typescript-eslint monorepo to v6.9.1 [`#1017`](https://github.com/drivy/frontend-configs/pull/1017)
-- Update dependency eslint-plugin-jest to ^27.6.0 [`#1014`](https://github.com/drivy/frontend-configs/pull/1014)
-- Update typescript-eslint monorepo to v6.9.0 [`#1012`](https://github.com/drivy/frontend-configs/pull/1012)
-- Update dependency eslint to v8.52.0 [`#1011`](https://github.com/drivy/frontend-configs/pull/1011)
-- Update dependency eslint-plugin-jest to ^27.4.3 [`#1010`](https://github.com/drivy/frontend-configs/pull/1010)
-- Update babel monorepo to ^7.23.2 [`#1002`](https://github.com/drivy/frontend-configs/pull/1002)
-- Update typescript-eslint monorepo to v6.8.0 [`#1003`](https://github.com/drivy/frontend-configs/pull/1003)
-- Update dependency eslint-plugin-prettier to ^5.0.1 [`#1001`](https://github.com/drivy/frontend-configs/pull/1001)
-- Update typescript-eslint monorepo to v6.7.5 [`#999`](https://github.com/drivy/frontend-configs/pull/999)
-- Update dependency eslint to v8.51.0 [`#996`](https://github.com/drivy/frontend-configs/pull/996)
-- Update typescript-eslint monorepo to v6.7.4 [`#995`](https://github.com/drivy/frontend-configs/pull/995)
-- Update typescript-eslint monorepo to v6.7.3 [`#986`](https://github.com/drivy/frontend-configs/pull/986)
-- Update dependency eslint-plugin-jest to ^27.4.2 [`#993`](https://github.com/drivy/frontend-configs/pull/993)
-- Update dependency eslint to v8.50.0 [`#988`](https://github.com/drivy/frontend-configs/pull/988)
-- Update babel monorepo [`#990`](https://github.com/drivy/frontend-configs/pull/990)
-- Lock file maintenance [`#985`](https://github.com/drivy/frontend-configs/pull/985)
-- Update babel monorepo to ^7.22.20 [`#980`](https://github.com/drivy/frontend-configs/pull/980)
-- Update dependency eslint-plugin-jest to ^27.4.0 [`#984`](https://github.com/drivy/frontend-configs/pull/984)
-- Update typescript-eslint monorepo to v6.7.0 [`#978`](https://github.com/drivy/frontend-configs/pull/978)
-- Lock file maintenance [`#977`](https://github.com/drivy/frontend-configs/pull/977)
-- Update dependency @babel/core to ^7.22.17 [`#975`](https://github.com/drivy/frontend-configs/pull/975)
-- Update dependency eslint to v8.49.0 [`#976`](https://github.com/drivy/frontend-configs/pull/976)
-- Update babel monorepo to ^7.22.15 [`#971`](https://github.com/drivy/frontend-configs/pull/971)
-- Update typescript-eslint monorepo to v6.6.0 [`#972`](https://github.com/drivy/frontend-configs/pull/972)
-- Move from Yarn classic to pnpm [`da16d59`](https://github.com/drivy/frontend-configs/commit/da16d59411424bea9694276c63050f15a906777f)
-- Move prettier + eslint to deps instead of peers for eslint-config [`5ec870b`](https://github.com/drivy/frontend-configs/commit/5ec870b99c4ce71096b9618a1f4e7fbcf1232157)
+- Lock file maintenance [`#1082`](https://github.com/drivy/frontend-configs.git
+/pull/1082)
+- Update dependency prettier to v3.2.5 [`#1081`](https://github.com/drivy/frontend-configs.git
+/pull/1081)
+- Update dependency @babel/eslint-parser to v7.23.10 [`#1080`](https://github.com/drivy/frontend-configs.git
+/pull/1080)
+- Lock file maintenance [`#1079`](https://github.com/drivy/frontend-configs.git
+/pull/1079)
+- Update typescript-eslint monorepo to v6.20.0 [`#1078`](https://github.com/drivy/frontend-configs.git
+/pull/1078)
+- Lock file maintenance [`#1077`](https://github.com/drivy/frontend-configs.git
+/pull/1077)
+- Lock file maintenance [`#1055`](https://github.com/drivy/frontend-configs.git
+/pull/1055)
+- Update babel monorepo to ^7.23.9 [`#1074`](https://github.com/drivy/frontend-configs.git
+/pull/1074)
+- Update typescript-eslint monorepo to v6.19.1 [`#1072`](https://github.com/drivy/frontend-configs.git
+/pull/1072)
+- Update dependency prettier to v3.2.4 [`#1070`](https://github.com/drivy/frontend-configs.git
+/pull/1070)
+- Update dependency prettier to v3.2.3 [`#1069`](https://github.com/drivy/frontend-configs.git
+/pull/1069)
+- Update typescript-eslint monorepo to v6.19.0 [`#1067`](https://github.com/drivy/frontend-configs.git
+/pull/1067)
+- Update dependency prettier to v3.2.2 [`#1066`](https://github.com/drivy/frontend-configs.git
+/pull/1066)
+- Update dependency eslint-plugin-jest to ^27.6.3 [`#1064`](https://github.com/drivy/frontend-configs.git
+/pull/1064)
+- Update dependency prettier to v3.2.1 [`#1063`](https://github.com/drivy/frontend-configs.git
+/pull/1063)
+- Update dependency eslint-plugin-jest to ^27.6.2 [`#1062`](https://github.com/drivy/frontend-configs.git
+/pull/1062)
+- Update dependency eslint-plugin-prettier to ^5.1.3 [`#1061`](https://github.com/drivy/frontend-configs.git
+/pull/1061)
+- Update typescript-eslint monorepo to v6.18.1 [`#1060`](https://github.com/drivy/frontend-configs.git
+/pull/1060)
+- Update dependency eslint-plugin-prettier to ^5.1.2 [`#1059`](https://github.com/drivy/frontend-configs.git
+/pull/1059)
+- Update dependency eslint-plugin-jest to ^27.6.1 [`#1056`](https://github.com/drivy/frontend-configs.git
+/pull/1056)
+- Update babel monorepo [`#1050`](https://github.com/drivy/frontend-configs.git
+/pull/1050)
+- Update dependency eslint to v8.56.0 [`#1054`](https://github.com/drivy/frontend-configs.git
+/pull/1054)
+- Lock file maintenance [`#1049`](https://github.com/drivy/frontend-configs.git
+/pull/1049)
+- Update typescript-eslint monorepo to v6.14.0 [`#1051`](https://github.com/drivy/frontend-configs.git
+/pull/1051)
+- Update dependency prettier to v3.1.1 [`#1046`](https://github.com/drivy/frontend-configs.git
+/pull/1046)
+- Update typescript-eslint monorepo to v6.13.2 [`#1041`](https://github.com/drivy/frontend-configs.git
+/pull/1041)
+- Lock file maintenance [`#1028`](https://github.com/drivy/frontend-configs.git
+/pull/1028)
+- Update dependency eslint-config-prettier to ^9.1.0 [`#1039`](https://github.com/drivy/frontend-configs.git
+/pull/1039)
+- Update babel monorepo to ^7.23.5 [`#1037`](https://github.com/drivy/frontend-configs.git
+/pull/1037)
+- Update dependency eslint to v8.55.0 [`#1038`](https://github.com/drivy/frontend-configs.git
+/pull/1038)
+- Update typescript-eslint monorepo to v6.13.1 [`#1036`](https://github.com/drivy/frontend-configs.git
+/pull/1036)
+- Update typescript-eslint monorepo to v6.13.0 [`#1035`](https://github.com/drivy/frontend-configs.git
+/pull/1035)
+- Update typescript-eslint monorepo to v6.12.0 [`#1031`](https://github.com/drivy/frontend-configs.git
+/pull/1031)
+- Update dependency eslint to v8.54.0 [`#1026`](https://github.com/drivy/frontend-configs.git
+/pull/1026)
+- Update babel monorepo to ^7.23.3 [`#1022`](https://github.com/drivy/frontend-configs.git
+/pull/1022)
+- Lock file maintenance [`#1019`](https://github.com/drivy/frontend-configs.git
+/pull/1019)
+- Update typescript-eslint monorepo to v6.11.0 [`#1025`](https://github.com/drivy/frontend-configs.git
+/pull/1025)
+- Update dependency prettier to v3.1.0 [`#1024`](https://github.com/drivy/frontend-configs.git
+/pull/1024)
+- Update typescript-eslint monorepo to v6.10.0 [`#1020`](https://github.com/drivy/frontend-configs.git
+/pull/1020)
+- Update dependency eslint to v8.53.0 [`#1018`](https://github.com/drivy/frontend-configs.git
+/pull/1018)
+- Lock file maintenance [`#989`](https://github.com/drivy/frontend-configs.git
+/pull/989)
+- Update typescript-eslint monorepo to v6.9.1 [`#1017`](https://github.com/drivy/frontend-configs.git
+/pull/1017)
+- Update dependency eslint-plugin-jest to ^27.6.0 [`#1014`](https://github.com/drivy/frontend-configs.git
+/pull/1014)
+- Update typescript-eslint monorepo to v6.9.0 [`#1012`](https://github.com/drivy/frontend-configs.git
+/pull/1012)
+- Update dependency eslint to v8.52.0 [`#1011`](https://github.com/drivy/frontend-configs.git
+/pull/1011)
+- Update dependency eslint-plugin-jest to ^27.4.3 [`#1010`](https://github.com/drivy/frontend-configs.git
+/pull/1010)
+- Update babel monorepo to ^7.23.2 [`#1002`](https://github.com/drivy/frontend-configs.git
+/pull/1002)
+- Update typescript-eslint monorepo to v6.8.0 [`#1003`](https://github.com/drivy/frontend-configs.git
+/pull/1003)
+- Update dependency eslint-plugin-prettier to ^5.0.1 [`#1001`](https://github.com/drivy/frontend-configs.git
+/pull/1001)
+- Update typescript-eslint monorepo to v6.7.5 [`#999`](https://github.com/drivy/frontend-configs.git
+/pull/999)
+- Update dependency eslint to v8.51.0 [`#996`](https://github.com/drivy/frontend-configs.git
+/pull/996)
+- Update typescript-eslint monorepo to v6.7.4 [`#995`](https://github.com/drivy/frontend-configs.git
+/pull/995)
+- Update typescript-eslint monorepo to v6.7.3 [`#986`](https://github.com/drivy/frontend-configs.git
+/pull/986)
+- Update dependency eslint-plugin-jest to ^27.4.2 [`#993`](https://github.com/drivy/frontend-configs.git
+/pull/993)
+- Update dependency eslint to v8.50.0 [`#988`](https://github.com/drivy/frontend-configs.git
+/pull/988)
+- Update babel monorepo [`#990`](https://github.com/drivy/frontend-configs.git
+/pull/990)
+- Lock file maintenance [`#985`](https://github.com/drivy/frontend-configs.git
+/pull/985)
+- Update babel monorepo to ^7.22.20 [`#980`](https://github.com/drivy/frontend-configs.git
+/pull/980)
+- Update dependency eslint-plugin-jest to ^27.4.0 [`#984`](https://github.com/drivy/frontend-configs.git
+/pull/984)
+- Update typescript-eslint monorepo to v6.7.0 [`#978`](https://github.com/drivy/frontend-configs.git
+/pull/978)
+- Lock file maintenance [`#977`](https://github.com/drivy/frontend-configs.git
+/pull/977)
+- Update dependency @babel/core to ^7.22.17 [`#975`](https://github.com/drivy/frontend-configs.git
+/pull/975)
+- Update dependency eslint to v8.49.0 [`#976`](https://github.com/drivy/frontend-configs.git
+/pull/976)
+- Update babel monorepo to ^7.22.15 [`#971`](https://github.com/drivy/frontend-configs.git
+/pull/971)
+- Update typescript-eslint monorepo to v6.6.0 [`#972`](https://github.com/drivy/frontend-configs.git
+/pull/972)
+- Move from Yarn classic to pnpm [`da16d59`](https://github.com/drivy/frontend-configs.git
+/commit/da16d59411424bea9694276c63050f15a906777f)
+- Move prettier + eslint to deps instead of peers for eslint-config [`5ec870b`](https://github.com/drivy/frontend-configs.git
+/commit/5ec870b99c4ce71096b9618a1f4e7fbcf1232157)
 
-### [@getaround-eu/eslint-config@3.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.5...@getaround-eu/eslint-config@3.0.0)
+### [@getaround-eu/eslint-config@3.0.0](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@2.0.5...@getaround-eu/eslint-config@3.0.0)
 
 > 4 September 2023
 
-- Lock file maintenance [`#970`](https://github.com/drivy/frontend-configs/pull/970)
-- Upgrade to prettier v3 [`#969`](https://github.com/drivy/frontend-configs/pull/969)
-- Update typescript-eslint monorepo to v6.5.0 [`#968`](https://github.com/drivy/frontend-configs/pull/968)
-- Update dependency eslint to v8.48.0 [`#964`](https://github.com/drivy/frontend-configs/pull/964)
+- Lock file maintenance [`#970`](https://github.com/drivy/frontend-configs.git
+/pull/970)
+- Upgrade to prettier v3 [`#969`](https://github.com/drivy/frontend-configs.git
+/pull/969)
+- Update typescript-eslint monorepo to v6.5.0 [`#968`](https://github.com/drivy/frontend-configs.git
+/pull/968)
+- Update dependency eslint to v8.48.0 [`#964`](https://github.com/drivy/frontend-configs.git
+/pull/964)
 
-#### [@getaround-eu/eslint-config@2.0.5](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.4...@getaround-eu/eslint-config@2.0.5)
+#### [@getaround-eu/eslint-config@2.0.5](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@2.0.4...@getaround-eu/eslint-config@2.0.5)
 
 > 30 August 2023
 
-- Lock file maintenance [`#962`](https://github.com/drivy/frontend-configs/pull/962)
-- Update babel monorepo to ^7.22.11 [`#960`](https://github.com/drivy/frontend-configs/pull/960)
-- Update dependency eslint-plugin-react to ^7.33.2 [`#959`](https://github.com/drivy/frontend-configs/pull/959)
-- Update babel monorepo to ^7.22.10 [`#956`](https://github.com/drivy/frontend-configs/pull/956)
-- Update dependency eslint-config-prettier to ^8.10.0 [`#954`](https://github.com/drivy/frontend-configs/pull/954)
-- Update typescript-eslint monorepo to v6.3.0 [`#953`](https://github.com/drivy/frontend-configs/pull/953)
-- Update dependency eslint to v8.46.0 [`#950`](https://github.com/drivy/frontend-configs/pull/950)
-- Update dependency eslint-plugin-react to ^7.33.1 [`#951`](https://github.com/drivy/frontend-configs/pull/951)
-- Update dependency eslint-config-prettier to ^8.9.0 [`#948`](https://github.com/drivy/frontend-configs/pull/948)
-- Update typescript-eslint monorepo to v6.2.0 [`#947`](https://github.com/drivy/frontend-configs/pull/947)
-- Lock file maintenance [`#946`](https://github.com/drivy/frontend-configs/pull/946)
-- Update dependency eslint-plugin-react to ^7.33.0 [`#945`](https://github.com/drivy/frontend-configs/pull/945)
-- Update typescript-eslint monorepo to v6 [`#944`](https://github.com/drivy/frontend-configs/pull/944)
-- Lock file maintenance [`#927`](https://github.com/drivy/frontend-configs/pull/927)
-- Update dependency eslint to v8.45.0 [`#930`](https://github.com/drivy/frontend-configs/pull/930)
-- Bump semver from 6.3.0 to 6.3.1 in /packages/eslint-config [`#936`](https://github.com/drivy/frontend-configs/pull/936)
-- Update babel monorepo [`#931`](https://github.com/drivy/frontend-configs/pull/931)
-- Update dependency eslint-plugin-jest to ^27.2.3 [`#938`](https://github.com/drivy/frontend-configs/pull/938)
-- Update typescript-eslint monorepo to v5.62.0 [`#928`](https://github.com/drivy/frontend-configs/pull/928)
-- Update dependency eslint to v8.43.0 [`#921`](https://github.com/drivy/frontend-configs/pull/921)
-- Lock file maintenance [`#923`](https://github.com/drivy/frontend-configs/pull/923)
-- Update typescript-eslint monorepo to v5.60.0 [`#925`](https://github.com/drivy/frontend-configs/pull/925)
-- Update dependency eslint-plugin-jest to ^27.2.2 [`#924`](https://github.com/drivy/frontend-configs/pull/924)
-- Update typescript-eslint monorepo to v5.59.11 [`#915`](https://github.com/drivy/frontend-configs/pull/915)
-- Update babel monorepo to ^7.22.5 [`#913`](https://github.com/drivy/frontend-configs/pull/913)
-- Update dependency eslint to v8.42.0 [`#901`](https://github.com/drivy/frontend-configs/pull/901)
-- Lock file maintenance [`#902`](https://github.com/drivy/frontend-configs/pull/902)
-- Update typescript-eslint monorepo to v5.59.9 [`#909`](https://github.com/drivy/frontend-configs/pull/909)
-- Update babel monorepo [`#905`](https://github.com/drivy/frontend-configs/pull/905)
-- Update typescript-eslint monorepo to v5.59.8 [`#904`](https://github.com/drivy/frontend-configs/pull/904)
-- Update typescript-eslint monorepo to v5.59.6 [`#899`](https://github.com/drivy/frontend-configs/pull/899)
+- Lock file maintenance [`#962`](https://github.com/drivy/frontend-configs.git
+/pull/962)
+- Update babel monorepo to ^7.22.11 [`#960`](https://github.com/drivy/frontend-configs.git
+/pull/960)
+- Update dependency eslint-plugin-react to ^7.33.2 [`#959`](https://github.com/drivy/frontend-configs.git
+/pull/959)
+- Update babel monorepo to ^7.22.10 [`#956`](https://github.com/drivy/frontend-configs.git
+/pull/956)
+- Update dependency eslint-config-prettier to ^8.10.0 [`#954`](https://github.com/drivy/frontend-configs.git
+/pull/954)
+- Update typescript-eslint monorepo to v6.3.0 [`#953`](https://github.com/drivy/frontend-configs.git
+/pull/953)
+- Update dependency eslint to v8.46.0 [`#950`](https://github.com/drivy/frontend-configs.git
+/pull/950)
+- Update dependency eslint-plugin-react to ^7.33.1 [`#951`](https://github.com/drivy/frontend-configs.git
+/pull/951)
+- Update dependency eslint-config-prettier to ^8.9.0 [`#948`](https://github.com/drivy/frontend-configs.git
+/pull/948)
+- Update typescript-eslint monorepo to v6.2.0 [`#947`](https://github.com/drivy/frontend-configs.git
+/pull/947)
+- Lock file maintenance [`#946`](https://github.com/drivy/frontend-configs.git
+/pull/946)
+- Update dependency eslint-plugin-react to ^7.33.0 [`#945`](https://github.com/drivy/frontend-configs.git
+/pull/945)
+- Update typescript-eslint monorepo to v6 [`#944`](https://github.com/drivy/frontend-configs.git
+/pull/944)
+- Lock file maintenance [`#927`](https://github.com/drivy/frontend-configs.git
+/pull/927)
+- Update dependency eslint to v8.45.0 [`#930`](https://github.com/drivy/frontend-configs.git
+/pull/930)
+- Bump semver from 6.3.0 to 6.3.1 in /packages/eslint-config [`#936`](https://github.com/drivy/frontend-configs.git
+/pull/936)
+- Update babel monorepo [`#931`](https://github.com/drivy/frontend-configs.git
+/pull/931)
+- Update dependency eslint-plugin-jest to ^27.2.3 [`#938`](https://github.com/drivy/frontend-configs.git
+/pull/938)
+- Update typescript-eslint monorepo to v5.62.0 [`#928`](https://github.com/drivy/frontend-configs.git
+/pull/928)
+- Update dependency eslint to v8.43.0 [`#921`](https://github.com/drivy/frontend-configs.git
+/pull/921)
+- Lock file maintenance [`#923`](https://github.com/drivy/frontend-configs.git
+/pull/923)
+- Update typescript-eslint monorepo to v5.60.0 [`#925`](https://github.com/drivy/frontend-configs.git
+/pull/925)
+- Update dependency eslint-plugin-jest to ^27.2.2 [`#924`](https://github.com/drivy/frontend-configs.git
+/pull/924)
+- Update typescript-eslint monorepo to v5.59.11 [`#915`](https://github.com/drivy/frontend-configs.git
+/pull/915)
+- Update babel monorepo to ^7.22.5 [`#913`](https://github.com/drivy/frontend-configs.git
+/pull/913)
+- Update dependency eslint to v8.42.0 [`#901`](https://github.com/drivy/frontend-configs.git
+/pull/901)
+- Lock file maintenance [`#902`](https://github.com/drivy/frontend-configs.git
+/pull/902)
+- Update typescript-eslint monorepo to v5.59.9 [`#909`](https://github.com/drivy/frontend-configs.git
+/pull/909)
+- Update babel monorepo [`#905`](https://github.com/drivy/frontend-configs.git
+/pull/905)
+- Update typescript-eslint monorepo to v5.59.8 [`#904`](https://github.com/drivy/frontend-configs.git
+/pull/904)
+- Update typescript-eslint monorepo to v5.59.6 [`#899`](https://github.com/drivy/frontend-configs.git
+/pull/899)
 
-#### [@getaround-eu/eslint-config@2.0.4](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.3...@getaround-eu/eslint-config@2.0.4)
+#### [@getaround-eu/eslint-config@2.0.4](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@2.0.3...@getaround-eu/eslint-config@2.0.4)
 
 > 15 May 2023
 
-- Lock file maintenance [`#897`](https://github.com/drivy/frontend-configs/pull/897)
+- Lock file maintenance [`#897`](https://github.com/drivy/frontend-configs.git
+/pull/897)
 
-#### [@getaround-eu/eslint-config@2.0.3](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.2...@getaround-eu/eslint-config@2.0.3)
+#### [@getaround-eu/eslint-config@2.0.3](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@2.0.2...@getaround-eu/eslint-config@2.0.3)
 
 > 9 May 2023
 
-- Lock file maintenance [`#891`](https://github.com/drivy/frontend-configs/pull/891)
-- Update dependency eslint to v8.40.0 [`#889`](https://github.com/drivy/frontend-configs/pull/889)
-- Update typescript-eslint monorepo to v5.59.5 [`#892`](https://github.com/drivy/frontend-configs/pull/892)
-- Update babel monorepo to ^7.21.8 [`#886`](https://github.com/drivy/frontend-configs/pull/886)
-- Lock file maintenance [`#884`](https://github.com/drivy/frontend-configs/pull/884)
-- Update babel monorepo to ^7.21.5 [`#881`](https://github.com/drivy/frontend-configs/pull/881)
-- Update typescript-eslint monorepo to v5.59.2 [`#885`](https://github.com/drivy/frontend-configs/pull/885)
-- Update dependency eslint to v8.39.0 [`#879`](https://github.com/drivy/frontend-configs/pull/879)
-- Lock file maintenance [`#876`](https://github.com/drivy/frontend-configs/pull/876)
-- Update typescript-eslint monorepo to v5.59.1 [`#877`](https://github.com/drivy/frontend-configs/pull/877)
-- Update dependency prettier to v2.8.8 [`#880`](https://github.com/drivy/frontend-configs/pull/880)
-- Update yarn.lock [`b4f3209`](https://github.com/drivy/frontend-configs/commit/b4f320983d041d725d6b8e73dc46cdbca6009299)
+- Lock file maintenance [`#891`](https://github.com/drivy/frontend-configs.git
+/pull/891)
+- Update dependency eslint to v8.40.0 [`#889`](https://github.com/drivy/frontend-configs.git
+/pull/889)
+- Update typescript-eslint monorepo to v5.59.5 [`#892`](https://github.com/drivy/frontend-configs.git
+/pull/892)
+- Update babel monorepo to ^7.21.8 [`#886`](https://github.com/drivy/frontend-configs.git
+/pull/886)
+- Lock file maintenance [`#884`](https://github.com/drivy/frontend-configs.git
+/pull/884)
+- Update babel monorepo to ^7.21.5 [`#881`](https://github.com/drivy/frontend-configs.git
+/pull/881)
+- Update typescript-eslint monorepo to v5.59.2 [`#885`](https://github.com/drivy/frontend-configs.git
+/pull/885)
+- Update dependency eslint to v8.39.0 [`#879`](https://github.com/drivy/frontend-configs.git
+/pull/879)
+- Lock file maintenance [`#876`](https://github.com/drivy/frontend-configs.git
+/pull/876)
+- Update typescript-eslint monorepo to v5.59.1 [`#877`](https://github.com/drivy/frontend-configs.git
+/pull/877)
+- Update dependency prettier to v2.8.8 [`#880`](https://github.com/drivy/frontend-configs.git
+/pull/880)
+- Update yarn.lock [`b4f3209`](https://github.com/drivy/frontend-configs.git
+/commit/b4f320983d041d725d6b8e73dc46cdbca6009299)
 
-#### [@getaround-eu/eslint-config@2.0.2](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.1...@getaround-eu/eslint-config@2.0.2)
+#### [@getaround-eu/eslint-config@2.0.2](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@2.0.1...@getaround-eu/eslint-config@2.0.2)
 
 > 12 April 2023
 
-- Lock file maintenance [`#850`](https://github.com/drivy/frontend-configs/pull/850)
-- Update dependency eslint-config-prettier to ^8.8.0 [`#865`](https://github.com/drivy/frontend-configs/pull/865)
-- Update dependency eslint to v8.38.0 [`#864`](https://github.com/drivy/frontend-configs/pull/864)
-- Update babel monorepo [`#859`](https://github.com/drivy/frontend-configs/pull/859)
-- Update dependency eslint-plugin-react to ^7.32.2 [`#861`](https://github.com/drivy/frontend-configs/pull/861)
-- Bump json5 from 2.2.1 to 2.2.3 in /packages/eslint-config [`#856`](https://github.com/drivy/frontend-configs/pull/856)
-- Update dependency prettier to v2.8.7 [`#852`](https://github.com/drivy/frontend-configs/pull/852)
-- Update typescript-eslint monorepo to v5.58.0 [`#851`](https://github.com/drivy/frontend-configs/pull/851)
-- Update dependency eslint-plugin-jest to ^27.2.1 [`#853`](https://github.com/drivy/frontend-configs/pull/853)
-- Update dependency eslint to v8.32.0 [`#849`](https://github.com/drivy/frontend-configs/pull/849)
-- Update dependency eslint-plugin-react to ^7.32.1 [`#848`](https://github.com/drivy/frontend-configs/pull/848)
+- Lock file maintenance [`#850`](https://github.com/drivy/frontend-configs.git
+/pull/850)
+- Update dependency eslint-config-prettier to ^8.8.0 [`#865`](https://github.com/drivy/frontend-configs.git
+/pull/865)
+- Update dependency eslint to v8.38.0 [`#864`](https://github.com/drivy/frontend-configs.git
+/pull/864)
+- Update babel monorepo [`#859`](https://github.com/drivy/frontend-configs.git
+/pull/859)
+- Update dependency eslint-plugin-react to ^7.32.2 [`#861`](https://github.com/drivy/frontend-configs.git
+/pull/861)
+- Bump json5 from 2.2.1 to 2.2.3 in /packages/eslint-config [`#856`](https://github.com/drivy/frontend-configs.git
+/pull/856)
+- Update dependency prettier to v2.8.7 [`#852`](https://github.com/drivy/frontend-configs.git
+/pull/852)
+- Update typescript-eslint monorepo to v5.58.0 [`#851`](https://github.com/drivy/frontend-configs.git
+/pull/851)
+- Update dependency eslint-plugin-jest to ^27.2.1 [`#853`](https://github.com/drivy/frontend-configs.git
+/pull/853)
+- Update dependency eslint to v8.32.0 [`#849`](https://github.com/drivy/frontend-configs.git
+/pull/849)
+- Update dependency eslint-plugin-react to ^7.32.1 [`#848`](https://github.com/drivy/frontend-configs.git
+/pull/848)
 
-#### [@getaround-eu/eslint-config@2.0.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@2.0.0...@getaround-eu/eslint-config@2.0.1)
+#### [@getaround-eu/eslint-config@2.0.1](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@2.0.0...@getaround-eu/eslint-config@2.0.1)
 
 > 17 November 2022
 
-- Lock file maintenance [`#831`](https://github.com/drivy/frontend-configs/pull/831)
-- Update typescript-eslint monorepo to v5.43.0 [`#846`](https://github.com/drivy/frontend-configs/pull/846)
-- Update dependency eslint-plugin-jest to ^27.1.5 [`#843`](https://github.com/drivy/frontend-configs/pull/843)
-- Update typescript-eslint monorepo to v5.42.1 [`#837`](https://github.com/drivy/frontend-configs/pull/837)
-- Update dependency eslint-plugin-jest to ^27.1.4 [`#841`](https://github.com/drivy/frontend-configs/pull/841)
-- Update dependency eslint to v8.27.0 [`#835`](https://github.com/drivy/frontend-configs/pull/835)
-- Update babel monorepo [`#834`](https://github.com/drivy/frontend-configs/pull/834)
-- Update dependency eslint-plugin-jest to ^27.1.3 [`#829`](https://github.com/drivy/frontend-configs/pull/829)
-- Update typescript-eslint monorepo to v5.40.1 [`#832`](https://github.com/drivy/frontend-configs/pull/832)
+- Lock file maintenance [`#831`](https://github.com/drivy/frontend-configs.git
+/pull/831)
+- Update typescript-eslint monorepo to v5.43.0 [`#846`](https://github.com/drivy/frontend-configs.git
+/pull/846)
+- Update dependency eslint-plugin-jest to ^27.1.5 [`#843`](https://github.com/drivy/frontend-configs.git
+/pull/843)
+- Update typescript-eslint monorepo to v5.42.1 [`#837`](https://github.com/drivy/frontend-configs.git
+/pull/837)
+- Update dependency eslint-plugin-jest to ^27.1.4 [`#841`](https://github.com/drivy/frontend-configs.git
+/pull/841)
+- Update dependency eslint to v8.27.0 [`#835`](https://github.com/drivy/frontend-configs.git
+/pull/835)
+- Update babel monorepo [`#834`](https://github.com/drivy/frontend-configs.git
+/pull/834)
+- Update dependency eslint-plugin-jest to ^27.1.3 [`#829`](https://github.com/drivy/frontend-configs.git
+/pull/829)
+- Update typescript-eslint monorepo to v5.40.1 [`#832`](https://github.com/drivy/frontend-configs.git
+/pull/832)
 
-### [@getaround-eu/eslint-config@2.0.0](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@1.7.3...@getaround-eu/eslint-config@2.0.0)
+### [@getaround-eu/eslint-config@2.0.0](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@1.7.3...@getaround-eu/eslint-config@2.0.0)
 
 > 11 October 2022
 
-- Lock file maintenance [`#827`](https://github.com/drivy/frontend-configs/pull/827)
-- Update dependency eslint-plugin-jest to v27 [`#810`](https://github.com/drivy/frontend-configs/pull/810)
-- Lock file maintenance [`#821`](https://github.com/drivy/frontend-configs/pull/821)
-- Update dependency eslint to v8.25.0 [`#826`](https://github.com/drivy/frontend-configs/pull/826)
-- Update babel monorepo [`#815`](https://github.com/drivy/frontend-configs/pull/815)
-- Update dependency eslint-plugin-react to ^7.31.10 [`#824`](https://github.com/drivy/frontend-configs/pull/824)
-- Update typescript-eslint monorepo to v5.40.0 [`#822`](https://github.com/drivy/frontend-configs/pull/822)
+- Lock file maintenance [`#827`](https://github.com/drivy/frontend-configs.git
+/pull/827)
+- Update dependency eslint-plugin-jest to v27 [`#810`](https://github.com/drivy/frontend-configs.git
+/pull/810)
+- Lock file maintenance [`#821`](https://github.com/drivy/frontend-configs.git
+/pull/821)
+- Update dependency eslint to v8.25.0 [`#826`](https://github.com/drivy/frontend-configs.git
+/pull/826)
+- Update babel monorepo [`#815`](https://github.com/drivy/frontend-configs.git
+/pull/815)
+- Update dependency eslint-plugin-react to ^7.31.10 [`#824`](https://github.com/drivy/frontend-configs.git
+/pull/824)
+- Update typescript-eslint monorepo to v5.40.0 [`#822`](https://github.com/drivy/frontend-configs.git
+/pull/822)
 
-#### [@getaround-eu/eslint-config@1.7.3](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@1.7.2...@getaround-eu/eslint-config@1.7.3)
+#### [@getaround-eu/eslint-config@1.7.3](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@1.7.2...@getaround-eu/eslint-config@1.7.3)
 
 > 13 September 2022
 
-- Update dependency eslint to v8.23.1 [`#813`](https://github.com/drivy/frontend-configs/pull/813)
-- Lock file maintenance [`#812`](https://github.com/drivy/frontend-configs/pull/812)
-- Update typescript-eslint monorepo to v5.37.0 [`#814`](https://github.com/drivy/frontend-configs/pull/814)
-- Lock file maintenance [`#802`](https://github.com/drivy/frontend-configs/pull/802)
-- Update typescript-eslint monorepo to v5.36.2 [`#804`](https://github.com/drivy/frontend-configs/pull/804)
-- Update dependency eslint-plugin-react to ^7.31.8 [`#808`](https://github.com/drivy/frontend-configs/pull/808)
-- Update babel monorepo [`#805`](https://github.com/drivy/frontend-configs/pull/805)
-- Update dependency eslint to v8.23.0 [`#803`](https://github.com/drivy/frontend-configs/pull/803)
-- Update dependency eslint-plugin-jest to ^26.9.0 [`#801`](https://github.com/drivy/frontend-configs/pull/801)
-- Update yarn.lock [`9a0abae`](https://github.com/drivy/frontend-configs/commit/9a0abaec133fae3f1dda704a26a2657c628ccebb)
+- Update dependency eslint to v8.23.1 [`#813`](https://github.com/drivy/frontend-configs.git
+/pull/813)
+- Lock file maintenance [`#812`](https://github.com/drivy/frontend-configs.git
+/pull/812)
+- Update typescript-eslint monorepo to v5.37.0 [`#814`](https://github.com/drivy/frontend-configs.git
+/pull/814)
+- Lock file maintenance [`#802`](https://github.com/drivy/frontend-configs.git
+/pull/802)
+- Update typescript-eslint monorepo to v5.36.2 [`#804`](https://github.com/drivy/frontend-configs.git
+/pull/804)
+- Update dependency eslint-plugin-react to ^7.31.8 [`#808`](https://github.com/drivy/frontend-configs.git
+/pull/808)
+- Update babel monorepo [`#805`](https://github.com/drivy/frontend-configs.git
+/pull/805)
+- Update dependency eslint to v8.23.0 [`#803`](https://github.com/drivy/frontend-configs.git
+/pull/803)
+- Update dependency eslint-plugin-jest to ^26.9.0 [`#801`](https://github.com/drivy/frontend-configs.git
+/pull/801)
+- Update yarn.lock [`9a0abae`](https://github.com/drivy/frontend-configs.git
+/commit/9a0abaec133fae3f1dda704a26a2657c628ccebb)
 
-#### [@getaround-eu/eslint-config@1.7.2](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@1.7.1...@getaround-eu/eslint-config@1.7.2)
+#### [@getaround-eu/eslint-config@1.7.2](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@1.7.1...@getaround-eu/eslint-config@1.7.2)
 
 > 27 July 2022
 
-- Lock file maintenance [`#797`](https://github.com/drivy/frontend-configs/pull/797)
-- Update dependency eslint to v8.20.0 [`#795`](https://github.com/drivy/frontend-configs/pull/795)
-- Update babel monorepo to ^7.18.9 [`#798`](https://github.com/drivy/frontend-configs/pull/798)
-- Update dependency eslint-plugin-jest to ^26.6.0 [`#794`](https://github.com/drivy/frontend-configs/pull/794)
-- Update typescript-eslint monorepo to v5.31.0 [`#792`](https://github.com/drivy/frontend-configs/pull/792)
-- Lock file maintenance [`#787`](https://github.com/drivy/frontend-configs/pull/787)
-- Update dependency eslint to v8.19.0 [`#776`](https://github.com/drivy/frontend-configs/pull/776)
-- Update babel monorepo to ^7.18.6 [`#784`](https://github.com/drivy/frontend-configs/pull/784)
-- Update typescript-eslint monorepo to v5.30.5 [`#783`](https://github.com/drivy/frontend-configs/pull/783)
-- Update dependency eslint-plugin-prettier to ^4.2.1 [`#782`](https://github.com/drivy/frontend-configs/pull/782)
-- Update dependency prettier to v2.7.1 [`#774`](https://github.com/drivy/frontend-configs/pull/774)
-- Lock file maintenance [`#777`](https://github.com/drivy/frontend-configs/pull/777)
-- Update typescript-eslint monorepo to v5.29.0 [`#779`](https://github.com/drivy/frontend-configs/pull/779)
-- Update dependency eslint-plugin-react to ^7.30.1 [`#781`](https://github.com/drivy/frontend-configs/pull/781)
-- Lock file maintenance [`#766`](https://github.com/drivy/frontend-configs/pull/766)
-- Update dependency eslint-plugin-react-hooks to ^4.6.0 [`#772`](https://github.com/drivy/frontend-configs/pull/772)
-- Update dependency prettier to v2.7.0 [`#770`](https://github.com/drivy/frontend-configs/pull/770)
-- Update typescript-eslint monorepo to v5.28.0 [`#768`](https://github.com/drivy/frontend-configs/pull/768)
-- Update babel monorepo to ^7.18.5 [`#767`](https://github.com/drivy/frontend-configs/pull/767)
-- Update dependency eslint to v8.17.0 [`#758`](https://github.com/drivy/frontend-configs/pull/758)
-- Lock file maintenance [`#760`](https://github.com/drivy/frontend-configs/pull/760)
-- Update dependency eslint-plugin-jest to ^26.5.3 [`#759`](https://github.com/drivy/frontend-configs/pull/759)
-- Update typescript-eslint monorepo to v5.27.1 [`#761`](https://github.com/drivy/frontend-configs/pull/761)
+- Lock file maintenance [`#797`](https://github.com/drivy/frontend-configs.git
+/pull/797)
+- Update dependency eslint to v8.20.0 [`#795`](https://github.com/drivy/frontend-configs.git
+/pull/795)
+- Update babel monorepo to ^7.18.9 [`#798`](https://github.com/drivy/frontend-configs.git
+/pull/798)
+- Update dependency eslint-plugin-jest to ^26.6.0 [`#794`](https://github.com/drivy/frontend-configs.git
+/pull/794)
+- Update typescript-eslint monorepo to v5.31.0 [`#792`](https://github.com/drivy/frontend-configs.git
+/pull/792)
+- Lock file maintenance [`#787`](https://github.com/drivy/frontend-configs.git
+/pull/787)
+- Update dependency eslint to v8.19.0 [`#776`](https://github.com/drivy/frontend-configs.git
+/pull/776)
+- Update babel monorepo to ^7.18.6 [`#784`](https://github.com/drivy/frontend-configs.git
+/pull/784)
+- Update typescript-eslint monorepo to v5.30.5 [`#783`](https://github.com/drivy/frontend-configs.git
+/pull/783)
+- Update dependency eslint-plugin-prettier to ^4.2.1 [`#782`](https://github.com/drivy/frontend-configs.git
+/pull/782)
+- Update dependency prettier to v2.7.1 [`#774`](https://github.com/drivy/frontend-configs.git
+/pull/774)
+- Lock file maintenance [`#777`](https://github.com/drivy/frontend-configs.git
+/pull/777)
+- Update typescript-eslint monorepo to v5.29.0 [`#779`](https://github.com/drivy/frontend-configs.git
+/pull/779)
+- Update dependency eslint-plugin-react to ^7.30.1 [`#781`](https://github.com/drivy/frontend-configs.git
+/pull/781)
+- Lock file maintenance [`#766`](https://github.com/drivy/frontend-configs.git
+/pull/766)
+- Update dependency eslint-plugin-react-hooks to ^4.6.0 [`#772`](https://github.com/drivy/frontend-configs.git
+/pull/772)
+- Update dependency prettier to v2.7.0 [`#770`](https://github.com/drivy/frontend-configs.git
+/pull/770)
+- Update typescript-eslint monorepo to v5.28.0 [`#768`](https://github.com/drivy/frontend-configs.git
+/pull/768)
+- Update babel monorepo to ^7.18.5 [`#767`](https://github.com/drivy/frontend-configs.git
+/pull/767)
+- Update dependency eslint to v8.17.0 [`#758`](https://github.com/drivy/frontend-configs.git
+/pull/758)
+- Lock file maintenance [`#760`](https://github.com/drivy/frontend-configs.git
+/pull/760)
+- Update dependency eslint-plugin-jest to ^26.5.3 [`#759`](https://github.com/drivy/frontend-configs.git
+/pull/759)
+- Update typescript-eslint monorepo to v5.27.1 [`#761`](https://github.com/drivy/frontend-configs.git
+/pull/761)
 
-#### [@getaround-eu/eslint-config@1.7.1](https://github.com/drivy/frontend-configs/compare/@getaround-eu/eslint-config@1.7.0...@getaround-eu/eslint-config@1.7.1)
+#### [@getaround-eu/eslint-config@1.7.1](https://github.com/drivy/frontend-configs.git
+/compare/@getaround-eu/eslint-config@1.7.0...@getaround-eu/eslint-config@1.7.1)
 
 > 1 June 2022
 
-- Lock file maintenance [`#745`](https://github.com/drivy/frontend-configs/pull/745)
-- Update babel monorepo [`#749`](https://github.com/drivy/frontend-configs/pull/749)
-- Update dependency eslint to v8.16.0 [`#751`](https://github.com/drivy/frontend-configs/pull/751)
-- Update dependency eslint-plugin-react to ^7.30.0 [`#750`](https://github.com/drivy/frontend-configs/pull/750)
-- Update dependency eslint-plugin-jest to ^26.4.6 [`#748`](https://github.com/drivy/frontend-configs/pull/748)
-- Update typescript-eslint monorepo to v5.27.0 [`#746`](https://github.com/drivy/frontend-configs/pull/746)
-- Update dependency eslint to v8.15.0 [`#744`](https://github.com/drivy/frontend-configs/pull/744)
+- Lock file maintenance [`#745`](https://github.com/drivy/frontend-configs.git
+/pull/745)
+- Update babel monorepo [`#749`](https://github.com/drivy/frontend-configs.git
+/pull/749)
+- Update dependency eslint to v8.16.0 [`#751`](https://github.com/drivy/frontend-configs.git
+/pull/751)
+- Update dependency eslint-plugin-react to ^7.30.0 [`#750`](https://github.com/drivy/frontend-configs.git
+/pull/750)
+- Update dependency eslint-plugin-jest to ^26.4.6 [`#748`](https://github.com/drivy/frontend-configs.git
+/pull/748)
+- Update typescript-eslint monorepo to v5.27.0 [`#746`](https://github.com/drivy/frontend-configs.git
+/pull/746)
+- Update dependency eslint to v8.15.0 [`#744`](https://github.com/drivy/frontend-configs.git
+/pull/744)
 
 #### @getaround-eu/eslint-config@1.7.0
 
 > 3 May 2022
 
-- Update typescript-eslint monorepo to v5.22.0 [`#742`](https://github.com/drivy/frontend-configs/pull/742)
-- Lock file maintenance [`#733`](https://github.com/drivy/frontend-configs/pull/733)
-- Update babel monorepo to ^7.17.10 [`#740`](https://github.com/drivy/frontend-configs/pull/740)
-- Update dependency eslint-plugin-react-hooks to ^4.5.0 [`#736`](https://github.com/drivy/frontend-configs/pull/736)
-- Update typescript-eslint monorepo to v5.21.0 [`#734`](https://github.com/drivy/frontend-configs/pull/734)
-- Update dependency eslint to v8.14.0 [`#729`](https://github.com/drivy/frontend-configs/pull/729)
-- Update dependency eslint-plugin-jest to ^26.1.5 [`#730`](https://github.com/drivy/frontend-configs/pull/730)
-- Lock file maintenance [`#726`](https://github.com/drivy/frontend-configs/pull/726)
-- Update typescript-eslint monorepo to v5.20.0 [`#727`](https://github.com/drivy/frontend-configs/pull/727)
-- Lock file maintenance [`#721`](https://github.com/drivy/frontend-configs/pull/721)
-- Update typescript-eslint monorepo to v5.19.0 [`#722`](https://github.com/drivy/frontend-configs/pull/722)
-- Update dependency eslint to v8.13.0 [`#719`](https://github.com/drivy/frontend-configs/pull/719)
-- Update dependency eslint-plugin-jest to ^26.1.4 [`#718`](https://github.com/drivy/frontend-configs/pull/718)
-- Update babel monorepo to ^7.17.9 [`#717`](https://github.com/drivy/frontend-configs/pull/717)
-- Lock file maintenance [`#713`](https://github.com/drivy/frontend-configs/pull/713)
-- Update typescript-eslint monorepo to v5.18.0 [`#714`](https://github.com/drivy/frontend-configs/pull/714)
-- Update dependency eslint-plugin-react-hooks to ^4.4.0 [`#715`](https://github.com/drivy/frontend-configs/pull/715)
-- Update dependency prettier to v2.6.2 [`#716`](https://github.com/drivy/frontend-configs/pull/716)
-- Update dependency eslint to v8.12.0 [`#712`](https://github.com/drivy/frontend-configs/pull/712)
-- Update dependency prettier to v2.6.1 [`#710`](https://github.com/drivy/frontend-configs/pull/710)
-- Bump minimist from 1.2.5 to 1.2.6 [`#708`](https://github.com/drivy/frontend-configs/pull/708)
-- Update dependency eslint-plugin-jest to ^26.1.3 [`#705`](https://github.com/drivy/frontend-configs/pull/705)
-- Update typescript-eslint monorepo to v5.16.0 [`#704`](https://github.com/drivy/frontend-configs/pull/704)
-- Lock file maintenance [`#703`](https://github.com/drivy/frontend-configs/pull/703)
-- Update dependency prettier to v2.6.0 [`#699`](https://github.com/drivy/frontend-configs/pull/699)
-- Update babel monorepo to ^7.17.8 [`#701`](https://github.com/drivy/frontend-configs/pull/701)
-- Update dependency eslint-plugin-jest to ^26.1.2 [`#702`](https://github.com/drivy/frontend-configs/pull/702)
-- Lock file maintenance [`#693`](https://github.com/drivy/frontend-configs/pull/693)
-- Update babel monorepo to ^7.17.7 [`#694`](https://github.com/drivy/frontend-configs/pull/694)
-- Update typescript-eslint monorepo to v5.15.0 [`#695`](https://github.com/drivy/frontend-configs/pull/695)
-- Update dependency eslint-plugin-react to ^7.29.4 [`#692`](https://github.com/drivy/frontend-configs/pull/692)
-- Update dependency eslint to v8.11.0 [`#691`](https://github.com/drivy/frontend-configs/pull/691)
-- Update typescript-eslint monorepo to v5.14.0 [`#690`](https://github.com/drivy/frontend-configs/pull/690)
-- Lock file maintenance [`#689`](https://github.com/drivy/frontend-configs/pull/689)
-- Update dependency eslint-plugin-react to ^7.29.3 [`#687`](https://github.com/drivy/frontend-configs/pull/687)
-- Update dependency eslint-config-prettier to ^8.5.0 [`#686`](https://github.com/drivy/frontend-configs/pull/686)
-- Update dependency eslint to v8.10.0 [`#682`](https://github.com/drivy/frontend-configs/pull/682)
-- Lock file maintenance [`#683`](https://github.com/drivy/frontend-configs/pull/683)
-- Update dependency eslint-plugin-react to ^7.29.2 [`#681`](https://github.com/drivy/frontend-configs/pull/681)
-- Update typescript-eslint monorepo to v5.13.0 [`#684`](https://github.com/drivy/frontend-configs/pull/684)
-- Update dependency eslint-plugin-react to ^7.29.0 [`#680`](https://github.com/drivy/frontend-configs/pull/680)
-- Lock file maintenance [`#679`](https://github.com/drivy/frontend-configs/pull/679)
-- Lock file maintenance [`#672`](https://github.com/drivy/frontend-configs/pull/672)
-- Update typescript-eslint monorepo to v5.12.1 [`#673`](https://github.com/drivy/frontend-configs/pull/673)
-- Update dependency eslint-config-prettier to ^8.4.0 [`#677`](https://github.com/drivy/frontend-configs/pull/677)
-- Update babel monorepo [`#670`](https://github.com/drivy/frontend-configs/pull/670)
-- Update dependency eslint-plugin-jest to ^26.1.1 [`#671`](https://github.com/drivy/frontend-configs/pull/671)
-- Update dependency eslint to v8.9.0 [`#675`](https://github.com/drivy/frontend-configs/pull/675)
-- Update typescript-eslint monorepo to v5.10.2 [`#668`](https://github.com/drivy/frontend-configs/pull/668)
-- Lock file maintenance [`#667`](https://github.com/drivy/frontend-configs/pull/667)
-- Update dependency eslint to v8.8.0 [`#666`](https://github.com/drivy/frontend-configs/pull/666)
-- Improve eslint bas configuration (with prettier) [`a2cb2cb`](https://github.com/drivy/frontend-configs/commit/a2cb2cb04753a924b8369cb4b4ce14e081e52619)
-- Upgrade eslint to 7.8.1 + remove now unecessary config peerDependencies [`9993330`](https://github.com/drivy/frontend-configs/commit/9993330807202679d2f2a52e5d145cc734c70815)
-- Put all eslint-config rules files at root, not in a nested config folder [`8fad8f6`](https://github.com/drivy/frontend-configs/commit/8fad8f6a1734802e49a2fc197966eb1805b1df9a)
-- [eslint] Add used eslint plugins as peerDependencies [`26b1ab6`](https://github.com/drivy/frontend-configs/commit/26b1ab640bb79d00cbe1768d5bb31ce619dfa4a7)
-- [eslint] Add @babel/core required for @babel/eslint-parser [`6d457ce`](https://github.com/drivy/frontend-configs/commit/6d457ce9e1b848e800ebd98ba5a8a2e587cc2d43)
-- [eslint] Remove naming-convention rule + downgrade @typescript-eslint to 3.10.1 [`fbd0d71`](https://github.com/drivy/frontend-configs/commit/fbd0d717f2c6e09dcd9a5592e738d31898c75790)
-- Upgrade @typescript-eslint packages [`759fe20`](https://github.com/drivy/frontend-configs/commit/759fe204905f67a243287fe8d7c6387643fcac11)
-- Add eslint-config package and use it [`b3fd3f4`](https://github.com/drivy/frontend-configs/commit/b3fd3f487c94e209396f825571ae943ff9acca35)
-- Lockfiles update [`be10651`](https://github.com/drivy/frontend-configs/commit/be10651ab18dc7c0f08fb6e1dd48b33ea8c280e6)
-- eslint: add missing jest plugin for jest config [`d6f3a3c`](https://github.com/drivy/frontend-configs/commit/d6f3a3cddffcd5a363dce426187d14e34550c52e)
-- Major update: use @babel/eslint-parser instead of deprecated babel-eslint [`863f685`](https://github.com/drivy/frontend-configs/commit/863f685bfa7a6caebf0af510623f2d8586cedbe4)
-- Bump eslint from 6.5.1 to 6.6.0 [`e9d88bf`](https://github.com/drivy/frontend-configs/commit/e9d88bfb940c1199a651c012f338257401419dd2)
-- Bump babel-eslint from 10.0.3 to 10.1.0 [`d404409`](https://github.com/drivy/frontend-configs/commit/d404409a92bdb0ee803855e2eff23f6b591eff70)
-- publish to npm organisation getaround-eu [`c69acad`](https://github.com/drivy/frontend-configs/commit/c69acadafb6f153442cb06a05252fa12e4a47e78)
-- Bump eslint from 7.14.0 to 7.15.0 [`0183213`](https://github.com/drivy/frontend-configs/commit/0183213fa7af3d6e0c0aca9e6344175b91827348)
-- Add @typescript-eslint/* dependencies to eslint preset [`5e8211f`](https://github.com/drivy/frontend-configs/commit/5e8211f52bd32dd3358a69531eae3d2003ba8911)
-- Update yarn.lock [`cfa6762`](https://github.com/drivy/frontend-configs/commit/cfa67628b634ccfb3d733417a53357555f9cae15)
-- Bump eslint from 7.8.1 to 7.9.0 [`fa398ba`](https://github.com/drivy/frontend-configs/commit/fa398ba2ad8d18402c14d0e0352b90a9fe249134)
-- Enable trainling commas in our prettier config [`ef6c153`](https://github.com/drivy/frontend-configs/commit/ef6c15342135c793a26b3621d799af4f3ef23cbc)
-- Upgrade @typescript-eslint packages [`a74ac63`](https://github.com/drivy/frontend-configs/commit/a74ac6363be82eea9171e913d17c49a93e24e7f0)
-- Bump eslint from 6.6.0 to 6.7.1 [`d638092`](https://github.com/drivy/frontend-configs/commit/d6380925a20e40d7d6d4bea609722539c9227faa)
-- Upgrade @typescript-eslint packages [`cf1a9e7`](https://github.com/drivy/frontend-configs/commit/cf1a9e7ac0ee0da7cbf7e0cf315fdc7544029e7a)
-- Upgrade @typescript-eslint packages [`93767ad`](https://github.com/drivy/frontend-configs/commit/93767ad3f6ae997593c2bb19cdc27f2cef9b3c34)
-- Upgrade @typescript-eslint packages [`91efd42`](https://github.com/drivy/frontend-configs/commit/91efd4223fca5f6598dd66062200f236dcfd1ffd)
-- Upgrade @typescript-eslint packages [`9e185c7`](https://github.com/drivy/frontend-configs/commit/9e185c78b4542b63b64e72da07166c4178c346ec)
-- Upgrade @typescript-eslint packages [`344aa50`](https://github.com/drivy/frontend-configs/commit/344aa506ab9aaa99ec9462ad93c81cf0ef5fc0ce)
-- Upgrade @typescript-eslint packages [`f4defe0`](https://github.com/drivy/frontend-configs/commit/f4defe0b4ca13f8f087ca14fee8389be6d91e740)
-- Upgrade @typescript-eslint packages [`4ebe35a`](https://github.com/drivy/frontend-configs/commit/4ebe35a9ad03d67bde68e8964969463d533165e3)
-- Upgrade @typescript-eslint packages [`0819b2e`](https://github.com/drivy/frontend-configs/commit/0819b2e63fb4c659aa5e269bf5a5062bbcc89746)
-- Upgrade @typescript-eslint packages [`983ec31`](https://github.com/drivy/frontend-configs/commit/983ec319268ef673aaab17be80dac958de2fd940)
-- Upgrade @typescript-eslint packages [`8ede478`](https://github.com/drivy/frontend-configs/commit/8ede4785c2d35ec06af2c9ab4e5798bcc204ab3c)
-- Upgrade @typescript-eslint packages [`98bdcb3`](https://github.com/drivy/frontend-configs/commit/98bdcb3f90fdeceecdc2bf55fff3ad4920dd068e)
-- Bump eslint from 7.9.0 to 7.10.0 [`cc74071`](https://github.com/drivy/frontend-configs/commit/cc74071e46a4e989fcf4b91641d5d04b6a3c2f06)
-- Bump eslint-plugin-react from 7.21.3 to 7.21.4 [`a0ec663`](https://github.com/drivy/frontend-configs/commit/a0ec663f94b723ce05252f13c47a9c783852dacd)
-- Bump eslint-plugin-react from 7.21.4 to 7.21.5 [`38efb7b`](https://github.com/drivy/frontend-configs/commit/38efb7bcb786d4616c4f5d51ccad373d2eedfe14)
-- Bump eslint from 7.11.0 to 7.12.1 [`9a5adb1`](https://github.com/drivy/frontend-configs/commit/9a5adb15caafde8320d638dffb4ce48a451bb810)
-- Bump eslint from 7.12.1 to 7.13.0 [`f341221`](https://github.com/drivy/frontend-configs/commit/f341221a4a84d56e709379ac41b47b99722953d3)
-- Bump eslint-plugin-react from 7.20.6 to 7.21.1 [`ca9a70b`](https://github.com/drivy/frontend-configs/commit/ca9a70bf1b40215ad95b00be8a3a8a6e0dc87b2c)
-- Bump eslint from 7.10.0 to 7.11.0 [`25df438`](https://github.com/drivy/frontend-configs/commit/25df4389e09c02646bbee8eeb7108141bbb4ed21)
-- Fix yarn.lock [`729ab11`](https://github.com/drivy/frontend-configs/commit/729ab1175974555206e64febc56f6575d02f1486)
-- Handle class/property in typescript-eslint naming convention [`91194ca`](https://github.com/drivy/frontend-configs/commit/91194ca52716f6956ecac9554f09a3474f308077)
-- Bump eslint-plugin-prettier from 3.2.0 to 3.3.0 [`a697f35`](https://github.com/drivy/frontend-configs/commit/a697f3500ebca668de83257a41f819194577863d)
-- Bump eslint-plugin-prettier from 3.1.4 to 3.2.0 [`2a23c22`](https://github.com/drivy/frontend-configs/commit/2a23c2233dac2ed44150101d3f187013af689cdf)
-- Bump eslint from 7.13.0 to 7.14.0 [`befc38a`](https://github.com/drivy/frontend-configs/commit/befc38a7d0dc19663cb4bb6bde33c353dc0dbcd6)
-- Bump eslint-plugin-jest from 24.1.0 to 24.1.3 [`1f6c0ff`](https://github.com/drivy/frontend-configs/commit/1f6c0ffcb9a2ba3307f1e0510c3f7c27151ec374)
-- Bump eslint-config-prettier from 6.14.0 to 6.15.0 [`b99a21f`](https://github.com/drivy/frontend-configs/commit/b99a21f362d41e45027596c05f423833f3c7bcd6)
-- Bump eslint-plugin-react-hooks from 4.1.2 to 4.2.0 [`29a4507`](https://github.com/drivy/frontend-configs/commit/29a4507238303ff41af14bfbde9b699c7b69e671)
-- Bump eslint-config-prettier from 6.13.0 to 6.14.0 [`a1a4dee`](https://github.com/drivy/frontend-configs/commit/a1a4dee9ca3fa9f3866184c1b9f077268aabdccd)
-- Bump eslint-config-prettier from 6.12.0 to 6.13.0 [`d7028e8`](https://github.com/drivy/frontend-configs/commit/d7028e89574183ac2df96fd99dceadd8ed570064)
-- Bump eslint-plugin-react from 7.21.2 to 7.21.3 [`93ebf48`](https://github.com/drivy/frontend-configs/commit/93ebf483d489df71290d996e6a09e64da77184b2)
-- Bump eslint-plugin-react from 7.21.1 to 7.21.2 [`1422533`](https://github.com/drivy/frontend-configs/commit/1422533ddacd9198123566cb9321932b6b68a040)
-- Bump eslint-config-prettier from 6.11.0 to 6.12.0 [`f87ba9f`](https://github.com/drivy/frontend-configs/commit/f87ba9f3c37fcf7522e1187d995d05315ad2af45)
-- Bump eslint-plugin-react-hooks from 4.1.0 to 4.1.2 [`fe32660`](https://github.com/drivy/frontend-configs/commit/fe3266047cb6be5d2e396dd5069e0439e3797d72)
-- Update @typescript-eslint config [`52c85ac`](https://github.com/drivy/frontend-configs/commit/52c85ac73bd716ea8dc9f555d070737f71366278)
-- Bump eslint-plugin-react-hooks from 2.5.0 to 4.1.0 [`45dc971`](https://github.com/drivy/frontend-configs/commit/45dc97182ec5e3ec2de1e2a0550f11067c0c9ecf)
-- Bump eslint-plugin-prettier from 3.1.2 to 3.1.4 [`3175c97`](https://github.com/drivy/frontend-configs/commit/3175c9720601066bbb97df2c59ae55f1af5ba509)
-- Bump eslint-config-prettier from 6.10.0 to 6.11.0 [`3d211e0`](https://github.com/drivy/frontend-configs/commit/3d211e0fcc82209e42d06f58da08097aed10897f)
-- Bump eslint-plugin-react-hooks from 2.4.0 to 2.5.0 [`da97ae1`](https://github.com/drivy/frontend-configs/commit/da97ae1dc0688196b9dd3b3b7293767229640838)
-- Bump eslint-plugin-react-hooks from 2.3.0 to 2.4.0 [`1aed576`](https://github.com/drivy/frontend-configs/commit/1aed5760d540c141fe9a7abafe69e833bf63af50)
-- Bump eslint-config-prettier from 6.9.0 to 6.10.0 [`01b9e10`](https://github.com/drivy/frontend-configs/commit/01b9e10552b10053e608e09c4df6a1a008967f48)
-- Bump eslint-config-prettier from 6.8.0 to 6.9.0 [`83585c2`](https://github.com/drivy/frontend-configs/commit/83585c259b93e0fa173c8495e8d39440d8f46149)
-- Bump eslint-config-prettier from 6.7.0 to 6.8.0 [`2659073`](https://github.com/drivy/frontend-configs/commit/2659073899c7e101ff8d7c4432df630f5c05ce9d)
-- Bump eslint from 6.7.2 to 6.8.0 [`423e10a`](https://github.com/drivy/frontend-configs/commit/423e10abfe83294f044ffaee6d7359b5baf553b3)
-- Bump eslint-plugin-prettier from 3.1.1 to 3.1.2 [`dfddb90`](https://github.com/drivy/frontend-configs/commit/dfddb90524a52a637d301c78fad7cdd614e8dd6b)
-- Add react hooks eslint plugin [`6db1f4a`](https://github.com/drivy/frontend-configs/commit/6db1f4a13092392e679b4d38facb3af36de8d64e)
-- Use no-shadow rule only from typescript-eslint [`a6d0ba6`](https://github.com/drivy/frontend-configs/commit/a6d0ba67d62ff0fca13b97c70cb07ae483ad7c25)
-- Remove now unnecessary eslint extens for plugin-pretter [`5f0fda4`](https://github.com/drivy/frontend-configs/commit/5f0fda40591b86fe275bd0750b6a4d26dc51f211)
-- eslint: add missing jquery plugin for jquery config [`95fc09c`](https://github.com/drivy/frontend-configs/commit/95fc09ca0c0d60171d0283ec6850c781d6740722)
-- [Security] Bump lodash from 4.17.15 to 4.17.20 [`b888626`](https://github.com/drivy/frontend-configs/commit/b888626a6a535f279edd1315a52540528dec37a9)
-- [Security] Bump acorn from 7.1.0 to 7.1.1 [`1a35080`](https://github.com/drivy/frontend-configs/commit/1a3508090ebb67aa513c4ae56be7c9036989f4a9)
-- Bump eslint from 6.7.1 to 6.7.2 [`84bbf95`](https://github.com/drivy/frontend-configs/commit/84bbf95beeb41fca093d10c48b3c61c3429c74f7)
-- Bump eslint-config-prettier from 6.5.0 to 6.7.0 [`9d77f2b`](https://github.com/drivy/frontend-configs/commit/9d77f2bfeac13eca48d7120fcbc699335b691913)
-- Bump eslint-plugin-react-hooks from 2.2.0 to 2.3.0 [`1c27929`](https://github.com/drivy/frontend-configs/commit/1c27929a567aa4c1b3cacf7aaceee2de427bb24f)
-- Bump eslint-config-prettier from 6.4.0 to 6.5.0 [`cd10da6`](https://github.com/drivy/frontend-configs/commit/cd10da6bf32a083836e6be987a71d8fab95321c0)
-- Add repository links to all packages [`5d97909`](https://github.com/drivy/frontend-configs/commit/5d9790910d5d3a2da6b3d336a03d1cb40f9dcf05)
-- Update typescript-eslint monorepo to v5.10.1 [`d644847`](https://github.com/drivy/frontend-configs/commit/d644847d4673502da128c298746c2c56f7c54d6a)
-- Update typescript-eslint monorepo to v5.10.0 [`75b6e74`](https://github.com/drivy/frontend-configs/commit/75b6e74e427c473e54bef496944566c20b5a2a76)
-- Update dependency eslint to v8.7.0 [`3ba832e`](https://github.com/drivy/frontend-configs/commit/3ba832efc2b531c8db2bc1339fe0966dcd36b40f)
-- Update typescript-eslint monorepo to v5.9.1 [`dcdb242`](https://github.com/drivy/frontend-configs/commit/dcdb242076935110a76433078b2c684c76574c81)
-- Update typescript-eslint monorepo to v5.4.0 [`a6739b8`](https://github.com/drivy/frontend-configs/commit/a6739b8501c66dbf1403a9422b56b937b1f43188)
-- Update typescript-eslint monorepo to v5.3.1 [`9d150cd`](https://github.com/drivy/frontend-configs/commit/9d150cd34813d6772a501a64d178864e87aa7bd4)
-- Update dependency eslint to v8 [`25d0f1c`](https://github.com/drivy/frontend-configs/commit/25d0f1cb4275e82fd3b72299676c37982af51206)
-- Update typescript-eslint monorepo to v5.3.0 [`b8b8f6d`](https://github.com/drivy/frontend-configs/commit/b8b8f6dd2424f76628a8e3fca38918137cfad0c7)
-- Update typescript-eslint monorepo to v5.1.0 [`ff35a60`](https://github.com/drivy/frontend-configs/commit/ff35a600121c2ae96dea51be5c0195c35324056e)
-- Update typescript-eslint monorepo to v5 [`5c65b30`](https://github.com/drivy/frontend-configs/commit/5c65b30bbe758252b38b7839c789ba454a8c7f9a)
-- Update typescript-eslint monorepo to v4.33.0 [`1ee2228`](https://github.com/drivy/frontend-configs/commit/1ee222804c5a688c6c90943a9af6df6adff1b801)
-- Update typescript-eslint monorepo to v4.32.0 [`12ed9d9`](https://github.com/drivy/frontend-configs/commit/12ed9d98236883d870c9cf7764070c32bc218cea)
-- Update typescript-eslint monorepo to v4.31.2 [`bbb8274`](https://github.com/drivy/frontend-configs/commit/bbb8274093835f484621fa79a3f91fc8b109bdd4)
-- Update typescript-eslint monorepo to v4.31.1 [`452d3fb`](https://github.com/drivy/frontend-configs/commit/452d3fb471e1dd8765a4dbc5d8c2be6353dc2286)
-- Update typescript-eslint monorepo to v4.31.0 [`f2a406f`](https://github.com/drivy/frontend-configs/commit/f2a406f56fadbc1a868912ac5ea64aae891054dd)
-- Update typescript-eslint monorepo to v4.30.0 [`ea47396`](https://github.com/drivy/frontend-configs/commit/ea473966bffe424fa754fa0b55877eb9d8c534f5)
-- Update typescript-eslint monorepo to v4.29.3 [`2a14202`](https://github.com/drivy/frontend-configs/commit/2a142029077ff0921c7f976b24fed1e7610b3d49)
-- Update dependency eslint to v7.32.0 [`bf9f112`](https://github.com/drivy/frontend-configs/commit/bf9f11236f412cb4be42d046fc9d58328801ea05)
-- Update typescript-eslint monorepo to v4.29.2 [`a3bebba`](https://github.com/drivy/frontend-configs/commit/a3bebba8960903e2ae0cac55f4ccb724207d76cb)
-- Update typescript-eslint monorepo to v4.28.4 [`9ae7b84`](https://github.com/drivy/frontend-configs/commit/9ae7b84a87ede2fa0eb86822feb38e4d9ea404d1)
-- Update dependency eslint to v7.31.0 [`ead4f74`](https://github.com/drivy/frontend-configs/commit/ead4f7497a97aac5ce498156190220c8dd62feca)
-- Update typescript-eslint monorepo to v4.28.3 [`e21d741`](https://github.com/drivy/frontend-configs/commit/e21d741b47c4aaf8e847fcc67f1a53527586c6e8)
-- Update typescript-eslint monorepo to v4.28.2 [`6f60f3f`](https://github.com/drivy/frontend-configs/commit/6f60f3f49c8fd0dc1e27e5f8695892eab93a6d6d)
-- Update dependency eslint to v7.30.0 [`71ade65`](https://github.com/drivy/frontend-configs/commit/71ade6518efacc0f3af29bf56cffd774c3f07e3b)
-- Update typescript-eslint monorepo to v4.28.1 [`2857efd`](https://github.com/drivy/frontend-configs/commit/2857efd114e70f48efa026bd85744665869ebd8a)
-- Update typescript-eslint monorepo to v4.28.0 [`b5a428f`](https://github.com/drivy/frontend-configs/commit/b5a428ff6462d7634b4783f9b45290e8c06a5104)
-- Update dependency eslint to v7.29.0 [`d414dc5`](https://github.com/drivy/frontend-configs/commit/d414dc5c971a820469b5ce7883726b72b09e807e)
-- Update dependency eslint to v7.28.0 [`c78b233`](https://github.com/drivy/frontend-configs/commit/c78b2330bb965fccafb0f40c46510f3b323fd9fb)
-- Update typescript-eslint monorepo to v4.26.1 [`05b78e0`](https://github.com/drivy/frontend-configs/commit/05b78e0f4f3ab8ea4beae6f67dc9a90898512467)
-- Update typescript-eslint monorepo to v4.26.0 [`c32de57`](https://github.com/drivy/frontend-configs/commit/c32de571499bd6acfee156914feb55e7b2f3bf1a)
-- Update dependency eslint to v7.27.0 [`1f8d08b`](https://github.com/drivy/frontend-configs/commit/1f8d08b3d3ea12285ad281b5449187a50a7e9f69)
-- Update typescript-eslint monorepo to v4.25.0 [`5f98655`](https://github.com/drivy/frontend-configs/commit/5f986559d103fc6a5c47f1b62d0b984845f4ec08)
-- Update typescript-eslint monorepo to v4.24.0 [`3a2a818`](https://github.com/drivy/frontend-configs/commit/3a2a81847d4eb65fcd9f9016a7e68453b70352f6)
-- Update typescript-eslint monorepo to v4.23.0 [`088894c`](https://github.com/drivy/frontend-configs/commit/088894c87c4218b2f639c1664ff9e7c18d24e0f8)
-- Update dependency eslint to v7.26.0 [`0facb56`](https://github.com/drivy/frontend-configs/commit/0facb5640ccfb7ed130d0dfce0b5b6b9701f836d)
-- Update typescript-eslint monorepo to v4.22.1 [`dfd5876`](https://github.com/drivy/frontend-configs/commit/dfd587635bd4a353663e22465e2981b35fc187ac)
-- Update dependency eslint to v7.25.0 [`5205c45`](https://github.com/drivy/frontend-configs/commit/5205c45f6f1a1d621af3960281b2972181068eed)
-- Update typescript-eslint monorepo to v4.22.0 [`b9898b3`](https://github.com/drivy/frontend-configs/commit/b9898b36639fcf7fe853f74eb3561988d9002d67)
-- Update dependency eslint to v7.24.0 [`9d278fa`](https://github.com/drivy/frontend-configs/commit/9d278fa29e181a94604553b018301a06967c6b21)
-- Update typescript-eslint monorepo to v4.21.0 [`579861a`](https://github.com/drivy/frontend-configs/commit/579861a75779b0c85cf131ad9da3c30a5233fe95)
-- Update typescript-eslint monorepo to v4.20.0 [`8d22632`](https://github.com/drivy/frontend-configs/commit/8d22632d493af23a1fe8aa757687c1ec9e763668)
-- Update dependency eslint to v7.23.0 [`088eb34`](https://github.com/drivy/frontend-configs/commit/088eb34a4d7eff35d405fe7020ab9150fccf7bb6)
-- Update typescript-eslint monorepo to v4.19.0 [`282a4d5`](https://github.com/drivy/frontend-configs/commit/282a4d5e1cd21e6620e9025207821fa390d4b8f4)
-- Update typescript-eslint monorepo to v4.18.0 [`2370735`](https://github.com/drivy/frontend-configs/commit/2370735b467d83d1fbad56513e5fc526e8fc9bfa)
-- Update dependency eslint to v7.22.0 [`919f695`](https://github.com/drivy/frontend-configs/commit/919f6954b5f6dd738432427a3006f34d9503963f)
-- Update typescript-eslint monorepo to v4.17.0 [`91ae9f2`](https://github.com/drivy/frontend-configs/commit/91ae9f2d981a9b0ed5eaa513ec508c729eed892e)
-- Update typescript-eslint monorepo to v4.16.1 [`d57c62d`](https://github.com/drivy/frontend-configs/commit/d57c62da85c80390cd457eb42979c316857bd80c)
-- Update dependency eslint to v7.21.0 [`bd64b56`](https://github.com/drivy/frontend-configs/commit/bd64b56af3d672bc086d0b698f6f6a7214e73b0b)
-- Update typescript-eslint monorepo to v4.15.2 [`e9acef8`](https://github.com/drivy/frontend-configs/commit/e9acef896fae21230ad874f2225e526cb8db1a02)
-- Update typescript-eslint monorepo to v4.15.1 [`2802d02`](https://github.com/drivy/frontend-configs/commit/2802d02df02df79fc63135adcc5c4e97c1eaa282)
-- Update dependency eslint to v7.20.0 [`4a55b14`](https://github.com/drivy/frontend-configs/commit/4a55b14dd17d6218a501f5ebf405ccb630497ea0)
-- Use no-use-before-define rule only from typescript-eslint [`2a72c49`](https://github.com/drivy/frontend-configs/commit/2a72c496ce316d3fa20c7c172f19e5c71b5442c4)
-- Update typescript-eslint monorepo to v4.15.0 [`67f7e26`](https://github.com/drivy/frontend-configs/commit/67f7e26972712125eaece8196e7abbade9ba4775)
-- Update dependency eslint to v7.19.0 [`fbc4100`](https://github.com/drivy/frontend-configs/commit/fbc41006b7251a59a743d3403f398ea1093f106a)
-- Update typescript-eslint monorepo to v4.14.1 [`33bcc95`](https://github.com/drivy/frontend-configs/commit/33bcc951fd8a444d220d243eb58cad2cfd64de30)
-- Update typescript-eslint monorepo to v4.14.0 [`87f688e`](https://github.com/drivy/frontend-configs/commit/87f688e6c4596ae106e02b06ef1810bc5099faa4)
-- Update dependency eslint to v7.18.0 [`a822782`](https://github.com/drivy/frontend-configs/commit/a82278262cff0bad4869812ed94679e4e7dcad68)
-- Update typescript-eslint monorepo to v4 [`4d3decf`](https://github.com/drivy/frontend-configs/commit/4d3decf02fa7585f1529a4ebc2aa870dfaf3a061)
-- Update dependency eslint to v7.17.0 [`458d520`](https://github.com/drivy/frontend-configs/commit/458d520bdfa2bffa568bcf82f549da2e1f9a3bc8)
-- Update dependency eslint to v7.16.0 [`0204a53`](https://github.com/drivy/frontend-configs/commit/0204a5317f7a65f8caaeae6a00b539c988606b61)
-- eslint: Use @typescript-eslint/no-use-before-define except on functions (hoisting) [`1b91a86`](https://github.com/drivy/frontend-configs/commit/1b91a866467cae5c6d48a41cee082599346e3d4f)
-- Add publishConfig prop to packages [`f15fe60`](https://github.com/drivy/frontend-configs/commit/f15fe60f40597f0766ed85925e6ab62535628a19)
-- Update dependency eslint-plugin-jest to v26 [`44272ec`](https://github.com/drivy/frontend-configs/commit/44272ec8a94a456e4609a3b92fa302fd026513d5)
-- Update dependency eslint-plugin-react to ^7.28.0 [`cf50797`](https://github.com/drivy/frontend-configs/commit/cf507974f46534177f40380f7e3051241c5fb38c)
-- Update dependency eslint-plugin-jest to ^25.7.0 [`bb8f8a5`](https://github.com/drivy/frontend-configs/commit/bb8f8a5f49f9c5efce5ea7f41b8480e47924ffa7)
-- Update dependency prettier to v2.5.1 [`97beec3`](https://github.com/drivy/frontend-configs/commit/97beec3b8772db29f671f0b4001080414cb045da)
-- Update dependency eslint-plugin-react to ^7.27.0 [`3899c85`](https://github.com/drivy/frontend-configs/commit/3899c853c132fbd659171d0e0d70b008a0993702)
-- Update babel monorepo to v7.16.3 [`33744d7`](https://github.com/drivy/frontend-configs/commit/33744d74511283203bf48fda730de35d6a012124)
-- Update dependency eslint-plugin-react-hooks to ^4.3.0 [`1018052`](https://github.com/drivy/frontend-configs/commit/1018052e36c52d14fe5286991d648b83f8f80c3f)
-- Update dependency eslint-plugin-jest to ^25.2.4 [`fbea00d`](https://github.com/drivy/frontend-configs/commit/fbea00da81fef43f3bfc0520ab950e99bcc5a7cd)
-- Update dependency eslint-plugin-jest to ^25.2.3 [`3b8dbde`](https://github.com/drivy/frontend-configs/commit/3b8dbdedb21876a2d795024f5d98e9283fe6cc2d)
-- Update dependency eslint-plugin-jest to ^25.2.2 [`78e50f0`](https://github.com/drivy/frontend-configs/commit/78e50f0c833363a8c324c11ab8e5b476767be42f)
-- Update dependency eslint-plugin-jest to ^25.2.1 [`4b985e1`](https://github.com/drivy/frontend-configs/commit/4b985e15cdc74e6f7815d6c3c073629654005944)
-- Update dependency eslint-plugin-jest to ^25.0.6 [`966281d`](https://github.com/drivy/frontend-configs/commit/966281ddaea8cc892e9cafa26a003b4ce23d8aa4)
-- Update dependency eslint-plugin-jest to v25 [`c5fac43`](https://github.com/drivy/frontend-configs/commit/c5fac4349fc71210ce2888db9fc653083c1ebda9)
-- Update dependency eslint-plugin-jest to ^24.5.2 [`3546be7`](https://github.com/drivy/frontend-configs/commit/3546be7813fe571a99233c2f237af7864b4efa79)
-- Update dependency eslint-plugin-react to ^7.26.1 [`757fc91`](https://github.com/drivy/frontend-configs/commit/757fc91c31fb59c3f292461f265888b76531ee98)
-- Update dependency eslint-plugin-jest to ^24.5.0 [`369a4fd`](https://github.com/drivy/frontend-configs/commit/369a4fdfadf243f73d27a6f77ff046f78301ee33)
-- Update dependency eslint-plugin-react to ^7.26.0 [`61adaf0`](https://github.com/drivy/frontend-configs/commit/61adaf04378836b4edac022bf7bf83ca8a72d68d)
-- Update dependency eslint-plugin-react to ^7.25.3 [`c4fb81e`](https://github.com/drivy/frontend-configs/commit/c4fb81e1fcb189faa1dcc1772f111e259582d86a)
-- Update dependency eslint-plugin-react to ^7.25.2 [`c9fe492`](https://github.com/drivy/frontend-configs/commit/c9fe492408d38b8b2fe06cd94c248892d22dc0fa)
-- Update dependency eslint-plugin-jest to ^24.4.2 [`5a8e61b`](https://github.com/drivy/frontend-configs/commit/5a8e61b8eb05598ad46a8e334f696a590d19472a)
-- Update dependency prettier to v2.4.1 [`784e6d7`](https://github.com/drivy/frontend-configs/commit/784e6d77cbafee9c0a22062b9dcb3a454d7a9595)
-- Update dependency eslint-plugin-react to ^7.25.1 [`c25ba6e`](https://github.com/drivy/frontend-configs/commit/c25ba6e2b9aa671977ba75dd548e32cc2a22d062)
-- Update dependency eslint-plugin-prettier to v4 [`2014232`](https://github.com/drivy/frontend-configs/commit/20142322c277e74ed1a112dfcaa08aefe6ad8a6a)
-- Update dependency eslint-plugin-prettier to ^3.4.1 [`e9d6c19`](https://github.com/drivy/frontend-configs/commit/e9d6c19189b2eff78855e00730cd3f80a350e41d)
-- Update dependency eslint-plugin-jest to ^24.4.0 [`deaded3`](https://github.com/drivy/frontend-configs/commit/deaded32e3541e48206c88456a5f00f0f88c8286)
-- Update dependency eslint-plugin-jest to ^24.3.7 [`cc582b3`](https://github.com/drivy/frontend-configs/commit/cc582b37ae98a33b5a1094da812343d5964573af)
-- Update dependency prettier to v2.3.2 [`8d9a8ab`](https://github.com/drivy/frontend-configs/commit/8d9a8ab39f50aab26b5a44efda62af11efd28d6b)
-- Update dependency prettier to v2.3.1 [`a56c3ad`](https://github.com/drivy/frontend-configs/commit/a56c3ad5223bb49987ed2c0e9baaf3f8240f8948)
-- Update dependency eslint-plugin-react to ^7.24.0 [`82c37e3`](https://github.com/drivy/frontend-configs/commit/82c37e3c59c9373da02876658a6b507d64814294)
-- Update dependency prettier to v2.3.0 [`d374c0d`](https://github.com/drivy/frontend-configs/commit/d374c0da69ba7088339d41f0b7a18a62f6d74e60)
-- Update dependency eslint-config-prettier to ^8.3.0 [`6e31348`](https://github.com/drivy/frontend-configs/commit/6e31348ca1e95c1689a08b1467d8b625c8a55376)
-- Update dependency eslint-plugin-jest to ^24.3.6 [`9126ec9`](https://github.com/drivy/frontend-configs/commit/9126ec930ef704fd5deea0962141565ed0093e4a)
-- Update dependency eslint-plugin-prettier to ^3.4.0 [`a0ba3e2`](https://github.com/drivy/frontend-configs/commit/a0ba3e254b02e3ddbf6b217b9311daf8b168dafa)
-- Update dependency eslint-config-prettier to ^8.2.0 [`cd50201`](https://github.com/drivy/frontend-configs/commit/cd5020197827387a707106b46455ec572ced96bd)
-- Update dependency eslint-plugin-jest to ^24.3.5 [`8a9ddcb`](https://github.com/drivy/frontend-configs/commit/8a9ddcb4ffe9499d3da5657f9bced0bb2d3c0590)
-- Update dependency eslint-plugin-react to ^7.23.2 [`5d6ca26`](https://github.com/drivy/frontend-configs/commit/5d6ca26c8ac18cac22de6c33db241ebf66cf78a7)
-- Disable semicolons handling by typescript-eslint since it's handled by prettier [`91c6f0c`](https://github.com/drivy/frontend-configs/commit/91c6f0cc1d83045380c8f44a04d2bcd539e1f2f5)
-- Update dependency eslint-plugin-jest to ^24.3.4 [`4d7480e`](https://github.com/drivy/frontend-configs/commit/4d7480e238426dae20094e5d25b8bf04bb3bea0e)
-- Update dependency eslint-plugin-react to ^7.23.1 [`c944262`](https://github.com/drivy/frontend-configs/commit/c94426232cc7da16bfff9292f4030f3e520f419c)
-- Update dependency eslint-plugin-jest to ^24.3.2 [`39dc93c`](https://github.com/drivy/frontend-configs/commit/39dc93cb6de140b118511e1d3d61d4c2fcd18f08)
-- Update dependency eslint-plugin-jest to ^24.3.1 [`79661b6`](https://github.com/drivy/frontend-configs/commit/79661b6b769d0855fa1c6ae07376819c59edd9c4)
-- Update dependency eslint-plugin-jest to ^24.2.1 [`c55efe6`](https://github.com/drivy/frontend-configs/commit/c55efe63b259987ddcfb9e428a6cb53a40ff0de3)
-- Update dependency eslint-plugin-jest to ^24.2.0 [`a91b295`](https://github.com/drivy/frontend-configs/commit/a91b2951cf63567652709480d16f0d3f1d26061c)
-- Update dependency eslint-plugin-jest to ^24.1.10 [`d62b904`](https://github.com/drivy/frontend-configs/commit/d62b904e3aa4b534cc0826b9a3d8d6a87fa0f724)
-- Update dependency eslint-plugin-jest to ^24.1.9 [`6b507aa`](https://github.com/drivy/frontend-configs/commit/6b507aafba2b53261070885f34243a333909ad0d)
-- Update dependency eslint-config-prettier to ^8.1.0 [`4ba3e88`](https://github.com/drivy/frontend-configs/commit/4ba3e88dbb796c028c642aecf695a621a63830bf)
-- Update dependency eslint-config-prettier to v8 [`d8ced82`](https://github.com/drivy/frontend-configs/commit/d8ced82c071dcb084b75c800de877ac2110c5486)
-- Update dependency eslint-plugin-jest to ^24.1.5 [`a9640f6`](https://github.com/drivy/frontend-configs/commit/a9640f6658415e2f655e8ccdb0f586e5cda2ef16)
-- Update dependency eslint-config-prettier to ^7.2.0 [`960c382`](https://github.com/drivy/frontend-configs/commit/960c382dba4625fd34163c4e936529b3760a2507)
-- Update dependency eslint-config-prettier to v7 [`f16de26`](https://github.com/drivy/frontend-configs/commit/f16de26ef0cd9bcaf381d13e61a5efc3683d2a7f)
-- Update dependency prettier to v2 [`64519ff`](https://github.com/drivy/frontend-configs/commit/64519ff6b9e44cdd101c0ad76439268a207bc02a)
-- Update dependency eslint-plugin-react to ^7.22.0 [`56c9ea7`](https://github.com/drivy/frontend-configs/commit/56c9ea708b7e20ffc2d6d5e0f7121ccd65da8597)
-- Update dependency eslint-plugin-prettier to ^3.3.1 [`551006a`](https://github.com/drivy/frontend-configs/commit/551006ad8caf8c5ef78488af25975ba377d7cfa1)
-- Update dependency eslint to &gt;= 7.15.0 [`3569635`](https://github.com/drivy/frontend-configs/commit/35696359ebe7db93e02ee23983490a2160088018)
-- Better start versions for packages [`4116a69`](https://github.com/drivy/frontend-configs/commit/4116a696778d6fad96f0c35f9c91a72e61e529e8)
-- Update @typescript-eslint rules [`77c44e7`](https://github.com/drivy/frontend-configs/commit/77c44e7a4ae3fa94b2d59577c24143d6359adfc7)
+- Update typescript-eslint monorepo to v5.22.0 [`#742`](https://github.com/drivy/frontend-configs.git
+/pull/742)
+- Lock file maintenance [`#733`](https://github.com/drivy/frontend-configs.git
+/pull/733)
+- Update babel monorepo to ^7.17.10 [`#740`](https://github.com/drivy/frontend-configs.git
+/pull/740)
+- Update dependency eslint-plugin-react-hooks to ^4.5.0 [`#736`](https://github.com/drivy/frontend-configs.git
+/pull/736)
+- Update typescript-eslint monorepo to v5.21.0 [`#734`](https://github.com/drivy/frontend-configs.git
+/pull/734)
+- Update dependency eslint to v8.14.0 [`#729`](https://github.com/drivy/frontend-configs.git
+/pull/729)
+- Update dependency eslint-plugin-jest to ^26.1.5 [`#730`](https://github.com/drivy/frontend-configs.git
+/pull/730)
+- Lock file maintenance [`#726`](https://github.com/drivy/frontend-configs.git
+/pull/726)
+- Update typescript-eslint monorepo to v5.20.0 [`#727`](https://github.com/drivy/frontend-configs.git
+/pull/727)
+- Lock file maintenance [`#721`](https://github.com/drivy/frontend-configs.git
+/pull/721)
+- Update typescript-eslint monorepo to v5.19.0 [`#722`](https://github.com/drivy/frontend-configs.git
+/pull/722)
+- Update dependency eslint to v8.13.0 [`#719`](https://github.com/drivy/frontend-configs.git
+/pull/719)
+- Update dependency eslint-plugin-jest to ^26.1.4 [`#718`](https://github.com/drivy/frontend-configs.git
+/pull/718)
+- Update babel monorepo to ^7.17.9 [`#717`](https://github.com/drivy/frontend-configs.git
+/pull/717)
+- Lock file maintenance [`#713`](https://github.com/drivy/frontend-configs.git
+/pull/713)
+- Update typescript-eslint monorepo to v5.18.0 [`#714`](https://github.com/drivy/frontend-configs.git
+/pull/714)
+- Update dependency eslint-plugin-react-hooks to ^4.4.0 [`#715`](https://github.com/drivy/frontend-configs.git
+/pull/715)
+- Update dependency prettier to v2.6.2 [`#716`](https://github.com/drivy/frontend-configs.git
+/pull/716)
+- Update dependency eslint to v8.12.0 [`#712`](https://github.com/drivy/frontend-configs.git
+/pull/712)
+- Update dependency prettier to v2.6.1 [`#710`](https://github.com/drivy/frontend-configs.git
+/pull/710)
+- Bump minimist from 1.2.5 to 1.2.6 [`#708`](https://github.com/drivy/frontend-configs.git
+/pull/708)
+- Update dependency eslint-plugin-jest to ^26.1.3 [`#705`](https://github.com/drivy/frontend-configs.git
+/pull/705)
+- Update typescript-eslint monorepo to v5.16.0 [`#704`](https://github.com/drivy/frontend-configs.git
+/pull/704)
+- Lock file maintenance [`#703`](https://github.com/drivy/frontend-configs.git
+/pull/703)
+- Update dependency prettier to v2.6.0 [`#699`](https://github.com/drivy/frontend-configs.git
+/pull/699)
+- Update babel monorepo to ^7.17.8 [`#701`](https://github.com/drivy/frontend-configs.git
+/pull/701)
+- Update dependency eslint-plugin-jest to ^26.1.2 [`#702`](https://github.com/drivy/frontend-configs.git
+/pull/702)
+- Lock file maintenance [`#693`](https://github.com/drivy/frontend-configs.git
+/pull/693)
+- Update babel monorepo to ^7.17.7 [`#694`](https://github.com/drivy/frontend-configs.git
+/pull/694)
+- Update typescript-eslint monorepo to v5.15.0 [`#695`](https://github.com/drivy/frontend-configs.git
+/pull/695)
+- Update dependency eslint-plugin-react to ^7.29.4 [`#692`](https://github.com/drivy/frontend-configs.git
+/pull/692)
+- Update dependency eslint to v8.11.0 [`#691`](https://github.com/drivy/frontend-configs.git
+/pull/691)
+- Update typescript-eslint monorepo to v5.14.0 [`#690`](https://github.com/drivy/frontend-configs.git
+/pull/690)
+- Lock file maintenance [`#689`](https://github.com/drivy/frontend-configs.git
+/pull/689)
+- Update dependency eslint-plugin-react to ^7.29.3 [`#687`](https://github.com/drivy/frontend-configs.git
+/pull/687)
+- Update dependency eslint-config-prettier to ^8.5.0 [`#686`](https://github.com/drivy/frontend-configs.git
+/pull/686)
+- Update dependency eslint to v8.10.0 [`#682`](https://github.com/drivy/frontend-configs.git
+/pull/682)
+- Lock file maintenance [`#683`](https://github.com/drivy/frontend-configs.git
+/pull/683)
+- Update dependency eslint-plugin-react to ^7.29.2 [`#681`](https://github.com/drivy/frontend-configs.git
+/pull/681)
+- Update typescript-eslint monorepo to v5.13.0 [`#684`](https://github.com/drivy/frontend-configs.git
+/pull/684)
+- Update dependency eslint-plugin-react to ^7.29.0 [`#680`](https://github.com/drivy/frontend-configs.git
+/pull/680)
+- Lock file maintenance [`#679`](https://github.com/drivy/frontend-configs.git
+/pull/679)
+- Lock file maintenance [`#672`](https://github.com/drivy/frontend-configs.git
+/pull/672)
+- Update typescript-eslint monorepo to v5.12.1 [`#673`](https://github.com/drivy/frontend-configs.git
+/pull/673)
+- Update dependency eslint-config-prettier to ^8.4.0 [`#677`](https://github.com/drivy/frontend-configs.git
+/pull/677)
+- Update babel monorepo [`#670`](https://github.com/drivy/frontend-configs.git
+/pull/670)
+- Update dependency eslint-plugin-jest to ^26.1.1 [`#671`](https://github.com/drivy/frontend-configs.git
+/pull/671)
+- Update dependency eslint to v8.9.0 [`#675`](https://github.com/drivy/frontend-configs.git
+/pull/675)
+- Update typescript-eslint monorepo to v5.10.2 [`#668`](https://github.com/drivy/frontend-configs.git
+/pull/668)
+- Lock file maintenance [`#667`](https://github.com/drivy/frontend-configs.git
+/pull/667)
+- Update dependency eslint to v8.8.0 [`#666`](https://github.com/drivy/frontend-configs.git
+/pull/666)
+- Improve eslint bas configuration (with prettier) [`a2cb2cb`](https://github.com/drivy/frontend-configs.git
+/commit/a2cb2cb04753a924b8369cb4b4ce14e081e52619)
+- Upgrade eslint to 7.8.1 + remove now unecessary config peerDependencies [`9993330`](https://github.com/drivy/frontend-configs.git
+/commit/9993330807202679d2f2a52e5d145cc734c70815)
+- Put all eslint-config rules files at root, not in a nested config folder [`8fad8f6`](https://github.com/drivy/frontend-configs.git
+/commit/8fad8f6a1734802e49a2fc197966eb1805b1df9a)
+- [eslint] Add used eslint plugins as peerDependencies [`26b1ab6`](https://github.com/drivy/frontend-configs.git
+/commit/26b1ab640bb79d00cbe1768d5bb31ce619dfa4a7)
+- [eslint] Add @babel/core required for @babel/eslint-parser [`6d457ce`](https://github.com/drivy/frontend-configs.git
+/commit/6d457ce9e1b848e800ebd98ba5a8a2e587cc2d43)
+- [eslint] Remove naming-convention rule + downgrade @typescript-eslint to 3.10.1 [`fbd0d71`](https://github.com/drivy/frontend-configs.git
+/commit/fbd0d717f2c6e09dcd9a5592e738d31898c75790)
+- Upgrade @typescript-eslint packages [`759fe20`](https://github.com/drivy/frontend-configs.git
+/commit/759fe204905f67a243287fe8d7c6387643fcac11)
+- Add eslint-config package and use it [`b3fd3f4`](https://github.com/drivy/frontend-configs.git
+/commit/b3fd3f487c94e209396f825571ae943ff9acca35)
+- Lockfiles update [`be10651`](https://github.com/drivy/frontend-configs.git
+/commit/be10651ab18dc7c0f08fb6e1dd48b33ea8c280e6)
+- eslint: add missing jest plugin for jest config [`d6f3a3c`](https://github.com/drivy/frontend-configs.git
+/commit/d6f3a3cddffcd5a363dce426187d14e34550c52e)
+- Major update: use @babel/eslint-parser instead of deprecated babel-eslint [`863f685`](https://github.com/drivy/frontend-configs.git
+/commit/863f685bfa7a6caebf0af510623f2d8586cedbe4)
+- Bump eslint from 6.5.1 to 6.6.0 [`e9d88bf`](https://github.com/drivy/frontend-configs.git
+/commit/e9d88bfb940c1199a651c012f338257401419dd2)
+- Bump babel-eslint from 10.0.3 to 10.1.0 [`d404409`](https://github.com/drivy/frontend-configs.git
+/commit/d404409a92bdb0ee803855e2eff23f6b591eff70)
+- publish to npm organisation getaround-eu [`c69acad`](https://github.com/drivy/frontend-configs.git
+/commit/c69acadafb6f153442cb06a05252fa12e4a47e78)
+- Bump eslint from 7.14.0 to 7.15.0 [`0183213`](https://github.com/drivy/frontend-configs.git
+/commit/0183213fa7af3d6e0c0aca9e6344175b91827348)
+- Add @typescript-eslint/* dependencies to eslint preset [`5e8211f`](https://github.com/drivy/frontend-configs.git
+/commit/5e8211f52bd32dd3358a69531eae3d2003ba8911)
+- Update yarn.lock [`cfa6762`](https://github.com/drivy/frontend-configs.git
+/commit/cfa67628b634ccfb3d733417a53357555f9cae15)
+- Bump eslint from 7.8.1 to 7.9.0 [`fa398ba`](https://github.com/drivy/frontend-configs.git
+/commit/fa398ba2ad8d18402c14d0e0352b90a9fe249134)
+- Enable trainling commas in our prettier config [`ef6c153`](https://github.com/drivy/frontend-configs.git
+/commit/ef6c15342135c793a26b3621d799af4f3ef23cbc)
+- Upgrade @typescript-eslint packages [`a74ac63`](https://github.com/drivy/frontend-configs.git
+/commit/a74ac6363be82eea9171e913d17c49a93e24e7f0)
+- Bump eslint from 6.6.0 to 6.7.1 [`d638092`](https://github.com/drivy/frontend-configs.git
+/commit/d6380925a20e40d7d6d4bea609722539c9227faa)
+- Upgrade @typescript-eslint packages [`cf1a9e7`](https://github.com/drivy/frontend-configs.git
+/commit/cf1a9e7ac0ee0da7cbf7e0cf315fdc7544029e7a)
+- Upgrade @typescript-eslint packages [`93767ad`](https://github.com/drivy/frontend-configs.git
+/commit/93767ad3f6ae997593c2bb19cdc27f2cef9b3c34)
+- Upgrade @typescript-eslint packages [`91efd42`](https://github.com/drivy/frontend-configs.git
+/commit/91efd4223fca5f6598dd66062200f236dcfd1ffd)
+- Upgrade @typescript-eslint packages [`9e185c7`](https://github.com/drivy/frontend-configs.git
+/commit/9e185c78b4542b63b64e72da07166c4178c346ec)
+- Upgrade @typescript-eslint packages [`344aa50`](https://github.com/drivy/frontend-configs.git
+/commit/344aa506ab9aaa99ec9462ad93c81cf0ef5fc0ce)
+- Upgrade @typescript-eslint packages [`f4defe0`](https://github.com/drivy/frontend-configs.git
+/commit/f4defe0b4ca13f8f087ca14fee8389be6d91e740)
+- Upgrade @typescript-eslint packages [`4ebe35a`](https://github.com/drivy/frontend-configs.git
+/commit/4ebe35a9ad03d67bde68e8964969463d533165e3)
+- Upgrade @typescript-eslint packages [`0819b2e`](https://github.com/drivy/frontend-configs.git
+/commit/0819b2e63fb4c659aa5e269bf5a5062bbcc89746)
+- Upgrade @typescript-eslint packages [`983ec31`](https://github.com/drivy/frontend-configs.git
+/commit/983ec319268ef673aaab17be80dac958de2fd940)
+- Upgrade @typescript-eslint packages [`8ede478`](https://github.com/drivy/frontend-configs.git
+/commit/8ede4785c2d35ec06af2c9ab4e5798bcc204ab3c)
+- Upgrade @typescript-eslint packages [`98bdcb3`](https://github.com/drivy/frontend-configs.git
+/commit/98bdcb3f90fdeceecdc2bf55fff3ad4920dd068e)
+- Bump eslint from 7.9.0 to 7.10.0 [`cc74071`](https://github.com/drivy/frontend-configs.git
+/commit/cc74071e46a4e989fcf4b91641d5d04b6a3c2f06)
+- Bump eslint-plugin-react from 7.21.3 to 7.21.4 [`a0ec663`](https://github.com/drivy/frontend-configs.git
+/commit/a0ec663f94b723ce05252f13c47a9c783852dacd)
+- Bump eslint-plugin-react from 7.21.4 to 7.21.5 [`38efb7b`](https://github.com/drivy/frontend-configs.git
+/commit/38efb7bcb786d4616c4f5d51ccad373d2eedfe14)
+- Bump eslint from 7.11.0 to 7.12.1 [`9a5adb1`](https://github.com/drivy/frontend-configs.git
+/commit/9a5adb15caafde8320d638dffb4ce48a451bb810)
+- Bump eslint from 7.12.1 to 7.13.0 [`f341221`](https://github.com/drivy/frontend-configs.git
+/commit/f341221a4a84d56e709379ac41b47b99722953d3)
+- Bump eslint-plugin-react from 7.20.6 to 7.21.1 [`ca9a70b`](https://github.com/drivy/frontend-configs.git
+/commit/ca9a70bf1b40215ad95b00be8a3a8a6e0dc87b2c)
+- Bump eslint from 7.10.0 to 7.11.0 [`25df438`](https://github.com/drivy/frontend-configs.git
+/commit/25df4389e09c02646bbee8eeb7108141bbb4ed21)
+- Fix yarn.lock [`729ab11`](https://github.com/drivy/frontend-configs.git
+/commit/729ab1175974555206e64febc56f6575d02f1486)
+- Handle class/property in typescript-eslint naming convention [`91194ca`](https://github.com/drivy/frontend-configs.git
+/commit/91194ca52716f6956ecac9554f09a3474f308077)
+- Bump eslint-plugin-prettier from 3.2.0 to 3.3.0 [`a697f35`](https://github.com/drivy/frontend-configs.git
+/commit/a697f3500ebca668de83257a41f819194577863d)
+- Bump eslint-plugin-prettier from 3.1.4 to 3.2.0 [`2a23c22`](https://github.com/drivy/frontend-configs.git
+/commit/2a23c2233dac2ed44150101d3f187013af689cdf)
+- Bump eslint from 7.13.0 to 7.14.0 [`befc38a`](https://github.com/drivy/frontend-configs.git
+/commit/befc38a7d0dc19663cb4bb6bde33c353dc0dbcd6)
+- Bump eslint-plugin-jest from 24.1.0 to 24.1.3 [`1f6c0ff`](https://github.com/drivy/frontend-configs.git
+/commit/1f6c0ffcb9a2ba3307f1e0510c3f7c27151ec374)
+- Bump eslint-config-prettier from 6.14.0 to 6.15.0 [`b99a21f`](https://github.com/drivy/frontend-configs.git
+/commit/b99a21f362d41e45027596c05f423833f3c7bcd6)
+- Bump eslint-plugin-react-hooks from 4.1.2 to 4.2.0 [`29a4507`](https://github.com/drivy/frontend-configs.git
+/commit/29a4507238303ff41af14bfbde9b699c7b69e671)
+- Bump eslint-config-prettier from 6.13.0 to 6.14.0 [`a1a4dee`](https://github.com/drivy/frontend-configs.git
+/commit/a1a4dee9ca3fa9f3866184c1b9f077268aabdccd)
+- Bump eslint-config-prettier from 6.12.0 to 6.13.0 [`d7028e8`](https://github.com/drivy/frontend-configs.git
+/commit/d7028e89574183ac2df96fd99dceadd8ed570064)
+- Bump eslint-plugin-react from 7.21.2 to 7.21.3 [`93ebf48`](https://github.com/drivy/frontend-configs.git
+/commit/93ebf483d489df71290d996e6a09e64da77184b2)
+- Bump eslint-plugin-react from 7.21.1 to 7.21.2 [`1422533`](https://github.com/drivy/frontend-configs.git
+/commit/1422533ddacd9198123566cb9321932b6b68a040)
+- Bump eslint-config-prettier from 6.11.0 to 6.12.0 [`f87ba9f`](https://github.com/drivy/frontend-configs.git
+/commit/f87ba9f3c37fcf7522e1187d995d05315ad2af45)
+- Bump eslint-plugin-react-hooks from 4.1.0 to 4.1.2 [`fe32660`](https://github.com/drivy/frontend-configs.git
+/commit/fe3266047cb6be5d2e396dd5069e0439e3797d72)
+- Update @typescript-eslint config [`52c85ac`](https://github.com/drivy/frontend-configs.git
+/commit/52c85ac73bd716ea8dc9f555d070737f71366278)
+- Bump eslint-plugin-react-hooks from 2.5.0 to 4.1.0 [`45dc971`](https://github.com/drivy/frontend-configs.git
+/commit/45dc97182ec5e3ec2de1e2a0550f11067c0c9ecf)
+- Bump eslint-plugin-prettier from 3.1.2 to 3.1.4 [`3175c97`](https://github.com/drivy/frontend-configs.git
+/commit/3175c9720601066bbb97df2c59ae55f1af5ba509)
+- Bump eslint-config-prettier from 6.10.0 to 6.11.0 [`3d211e0`](https://github.com/drivy/frontend-configs.git
+/commit/3d211e0fcc82209e42d06f58da08097aed10897f)
+- Bump eslint-plugin-react-hooks from 2.4.0 to 2.5.0 [`da97ae1`](https://github.com/drivy/frontend-configs.git
+/commit/da97ae1dc0688196b9dd3b3b7293767229640838)
+- Bump eslint-plugin-react-hooks from 2.3.0 to 2.4.0 [`1aed576`](https://github.com/drivy/frontend-configs.git
+/commit/1aed5760d540c141fe9a7abafe69e833bf63af50)
+- Bump eslint-config-prettier from 6.9.0 to 6.10.0 [`01b9e10`](https://github.com/drivy/frontend-configs.git
+/commit/01b9e10552b10053e608e09c4df6a1a008967f48)
+- Bump eslint-config-prettier from 6.8.0 to 6.9.0 [`83585c2`](https://github.com/drivy/frontend-configs.git
+/commit/83585c259b93e0fa173c8495e8d39440d8f46149)
+- Bump eslint-config-prettier from 6.7.0 to 6.8.0 [`2659073`](https://github.com/drivy/frontend-configs.git
+/commit/2659073899c7e101ff8d7c4432df630f5c05ce9d)
+- Bump eslint from 6.7.2 to 6.8.0 [`423e10a`](https://github.com/drivy/frontend-configs.git
+/commit/423e10abfe83294f044ffaee6d7359b5baf553b3)
+- Bump eslint-plugin-prettier from 3.1.1 to 3.1.2 [`dfddb90`](https://github.com/drivy/frontend-configs.git
+/commit/dfddb90524a52a637d301c78fad7cdd614e8dd6b)
+- Add react hooks eslint plugin [`6db1f4a`](https://github.com/drivy/frontend-configs.git
+/commit/6db1f4a13092392e679b4d38facb3af36de8d64e)
+- Use no-shadow rule only from typescript-eslint [`a6d0ba6`](https://github.com/drivy/frontend-configs.git
+/commit/a6d0ba67d62ff0fca13b97c70cb07ae483ad7c25)
+- Remove now unnecessary eslint extens for plugin-pretter [`5f0fda4`](https://github.com/drivy/frontend-configs.git
+/commit/5f0fda40591b86fe275bd0750b6a4d26dc51f211)
+- eslint: add missing jquery plugin for jquery config [`95fc09c`](https://github.com/drivy/frontend-configs.git
+/commit/95fc09ca0c0d60171d0283ec6850c781d6740722)
+- [Security] Bump lodash from 4.17.15 to 4.17.20 [`b888626`](https://github.com/drivy/frontend-configs.git
+/commit/b888626a6a535f279edd1315a52540528dec37a9)
+- [Security] Bump acorn from 7.1.0 to 7.1.1 [`1a35080`](https://github.com/drivy/frontend-configs.git
+/commit/1a3508090ebb67aa513c4ae56be7c9036989f4a9)
+- Bump eslint from 6.7.1 to 6.7.2 [`84bbf95`](https://github.com/drivy/frontend-configs.git
+/commit/84bbf95beeb41fca093d10c48b3c61c3429c74f7)
+- Bump eslint-config-prettier from 6.5.0 to 6.7.0 [`9d77f2b`](https://github.com/drivy/frontend-configs.git
+/commit/9d77f2bfeac13eca48d7120fcbc699335b691913)
+- Bump eslint-plugin-react-hooks from 2.2.0 to 2.3.0 [`1c27929`](https://github.com/drivy/frontend-configs.git
+/commit/1c27929a567aa4c1b3cacf7aaceee2de427bb24f)
+- Bump eslint-config-prettier from 6.4.0 to 6.5.0 [`cd10da6`](https://github.com/drivy/frontend-configs.git
+/commit/cd10da6bf32a083836e6be987a71d8fab95321c0)
+- Add repository links to all packages [`5d97909`](https://github.com/drivy/frontend-configs.git
+/commit/5d9790910d5d3a2da6b3d336a03d1cb40f9dcf05)
+- Update typescript-eslint monorepo to v5.10.1 [`d644847`](https://github.com/drivy/frontend-configs.git
+/commit/d644847d4673502da128c298746c2c56f7c54d6a)
+- Update typescript-eslint monorepo to v5.10.0 [`75b6e74`](https://github.com/drivy/frontend-configs.git
+/commit/75b6e74e427c473e54bef496944566c20b5a2a76)
+- Update dependency eslint to v8.7.0 [`3ba832e`](https://github.com/drivy/frontend-configs.git
+/commit/3ba832efc2b531c8db2bc1339fe0966dcd36b40f)
+- Update typescript-eslint monorepo to v5.9.1 [`dcdb242`](https://github.com/drivy/frontend-configs.git
+/commit/dcdb242076935110a76433078b2c684c76574c81)
+- Update typescript-eslint monorepo to v5.4.0 [`a6739b8`](https://github.com/drivy/frontend-configs.git
+/commit/a6739b8501c66dbf1403a9422b56b937b1f43188)
+- Update typescript-eslint monorepo to v5.3.1 [`9d150cd`](https://github.com/drivy/frontend-configs.git
+/commit/9d150cd34813d6772a501a64d178864e87aa7bd4)
+- Update dependency eslint to v8 [`25d0f1c`](https://github.com/drivy/frontend-configs.git
+/commit/25d0f1cb4275e82fd3b72299676c37982af51206)
+- Update typescript-eslint monorepo to v5.3.0 [`b8b8f6d`](https://github.com/drivy/frontend-configs.git
+/commit/b8b8f6dd2424f76628a8e3fca38918137cfad0c7)
+- Update typescript-eslint monorepo to v5.1.0 [`ff35a60`](https://github.com/drivy/frontend-configs.git
+/commit/ff35a600121c2ae96dea51be5c0195c35324056e)
+- Update typescript-eslint monorepo to v5 [`5c65b30`](https://github.com/drivy/frontend-configs.git
+/commit/5c65b30bbe758252b38b7839c789ba454a8c7f9a)
+- Update typescript-eslint monorepo to v4.33.0 [`1ee2228`](https://github.com/drivy/frontend-configs.git
+/commit/1ee222804c5a688c6c90943a9af6df6adff1b801)
+- Update typescript-eslint monorepo to v4.32.0 [`12ed9d9`](https://github.com/drivy/frontend-configs.git
+/commit/12ed9d98236883d870c9cf7764070c32bc218cea)
+- Update typescript-eslint monorepo to v4.31.2 [`bbb8274`](https://github.com/drivy/frontend-configs.git
+/commit/bbb8274093835f484621fa79a3f91fc8b109bdd4)
+- Update typescript-eslint monorepo to v4.31.1 [`452d3fb`](https://github.com/drivy/frontend-configs.git
+/commit/452d3fb471e1dd8765a4dbc5d8c2be6353dc2286)
+- Update typescript-eslint monorepo to v4.31.0 [`f2a406f`](https://github.com/drivy/frontend-configs.git
+/commit/f2a406f56fadbc1a868912ac5ea64aae891054dd)
+- Update typescript-eslint monorepo to v4.30.0 [`ea47396`](https://github.com/drivy/frontend-configs.git
+/commit/ea473966bffe424fa754fa0b55877eb9d8c534f5)
+- Update typescript-eslint monorepo to v4.29.3 [`2a14202`](https://github.com/drivy/frontend-configs.git
+/commit/2a142029077ff0921c7f976b24fed1e7610b3d49)
+- Update dependency eslint to v7.32.0 [`bf9f112`](https://github.com/drivy/frontend-configs.git
+/commit/bf9f11236f412cb4be42d046fc9d58328801ea05)
+- Update typescript-eslint monorepo to v4.29.2 [`a3bebba`](https://github.com/drivy/frontend-configs.git
+/commit/a3bebba8960903e2ae0cac55f4ccb724207d76cb)
+- Update typescript-eslint monorepo to v4.28.4 [`9ae7b84`](https://github.com/drivy/frontend-configs.git
+/commit/9ae7b84a87ede2fa0eb86822feb38e4d9ea404d1)
+- Update dependency eslint to v7.31.0 [`ead4f74`](https://github.com/drivy/frontend-configs.git
+/commit/ead4f7497a97aac5ce498156190220c8dd62feca)
+- Update typescript-eslint monorepo to v4.28.3 [`e21d741`](https://github.com/drivy/frontend-configs.git
+/commit/e21d741b47c4aaf8e847fcc67f1a53527586c6e8)
+- Update typescript-eslint monorepo to v4.28.2 [`6f60f3f`](https://github.com/drivy/frontend-configs.git
+/commit/6f60f3f49c8fd0dc1e27e5f8695892eab93a6d6d)
+- Update dependency eslint to v7.30.0 [`71ade65`](https://github.com/drivy/frontend-configs.git
+/commit/71ade6518efacc0f3af29bf56cffd774c3f07e3b)
+- Update typescript-eslint monorepo to v4.28.1 [`2857efd`](https://github.com/drivy/frontend-configs.git
+/commit/2857efd114e70f48efa026bd85744665869ebd8a)
+- Update typescript-eslint monorepo to v4.28.0 [`b5a428f`](https://github.com/drivy/frontend-configs.git
+/commit/b5a428ff6462d7634b4783f9b45290e8c06a5104)
+- Update dependency eslint to v7.29.0 [`d414dc5`](https://github.com/drivy/frontend-configs.git
+/commit/d414dc5c971a820469b5ce7883726b72b09e807e)
+- Update dependency eslint to v7.28.0 [`c78b233`](https://github.com/drivy/frontend-configs.git
+/commit/c78b2330bb965fccafb0f40c46510f3b323fd9fb)
+- Update typescript-eslint monorepo to v4.26.1 [`05b78e0`](https://github.com/drivy/frontend-configs.git
+/commit/05b78e0f4f3ab8ea4beae6f67dc9a90898512467)
+- Update typescript-eslint monorepo to v4.26.0 [`c32de57`](https://github.com/drivy/frontend-configs.git
+/commit/c32de571499bd6acfee156914feb55e7b2f3bf1a)
+- Update dependency eslint to v7.27.0 [`1f8d08b`](https://github.com/drivy/frontend-configs.git
+/commit/1f8d08b3d3ea12285ad281b5449187a50a7e9f69)
+- Update typescript-eslint monorepo to v4.25.0 [`5f98655`](https://github.com/drivy/frontend-configs.git
+/commit/5f986559d103fc6a5c47f1b62d0b984845f4ec08)
+- Update typescript-eslint monorepo to v4.24.0 [`3a2a818`](https://github.com/drivy/frontend-configs.git
+/commit/3a2a81847d4eb65fcd9f9016a7e68453b70352f6)
+- Update typescript-eslint monorepo to v4.23.0 [`088894c`](https://github.com/drivy/frontend-configs.git
+/commit/088894c87c4218b2f639c1664ff9e7c18d24e0f8)
+- Update dependency eslint to v7.26.0 [`0facb56`](https://github.com/drivy/frontend-configs.git
+/commit/0facb5640ccfb7ed130d0dfce0b5b6b9701f836d)
+- Update typescript-eslint monorepo to v4.22.1 [`dfd5876`](https://github.com/drivy/frontend-configs.git
+/commit/dfd587635bd4a353663e22465e2981b35fc187ac)
+- Update dependency eslint to v7.25.0 [`5205c45`](https://github.com/drivy/frontend-configs.git
+/commit/5205c45f6f1a1d621af3960281b2972181068eed)
+- Update typescript-eslint monorepo to v4.22.0 [`b9898b3`](https://github.com/drivy/frontend-configs.git
+/commit/b9898b36639fcf7fe853f74eb3561988d9002d67)
+- Update dependency eslint to v7.24.0 [`9d278fa`](https://github.com/drivy/frontend-configs.git
+/commit/9d278fa29e181a94604553b018301a06967c6b21)
+- Update typescript-eslint monorepo to v4.21.0 [`579861a`](https://github.com/drivy/frontend-configs.git
+/commit/579861a75779b0c85cf131ad9da3c30a5233fe95)
+- Update typescript-eslint monorepo to v4.20.0 [`8d22632`](https://github.com/drivy/frontend-configs.git
+/commit/8d22632d493af23a1fe8aa757687c1ec9e763668)
+- Update dependency eslint to v7.23.0 [`088eb34`](https://github.com/drivy/frontend-configs.git
+/commit/088eb34a4d7eff35d405fe7020ab9150fccf7bb6)
+- Update typescript-eslint monorepo to v4.19.0 [`282a4d5`](https://github.com/drivy/frontend-configs.git
+/commit/282a4d5e1cd21e6620e9025207821fa390d4b8f4)
+- Update typescript-eslint monorepo to v4.18.0 [`2370735`](https://github.com/drivy/frontend-configs.git
+/commit/2370735b467d83d1fbad56513e5fc526e8fc9bfa)
+- Update dependency eslint to v7.22.0 [`919f695`](https://github.com/drivy/frontend-configs.git
+/commit/919f6954b5f6dd738432427a3006f34d9503963f)
+- Update typescript-eslint monorepo to v4.17.0 [`91ae9f2`](https://github.com/drivy/frontend-configs.git
+/commit/91ae9f2d981a9b0ed5eaa513ec508c729eed892e)
+- Update typescript-eslint monorepo to v4.16.1 [`d57c62d`](https://github.com/drivy/frontend-configs.git
+/commit/d57c62da85c80390cd457eb42979c316857bd80c)
+- Update dependency eslint to v7.21.0 [`bd64b56`](https://github.com/drivy/frontend-configs.git
+/commit/bd64b56af3d672bc086d0b698f6f6a7214e73b0b)
+- Update typescript-eslint monorepo to v4.15.2 [`e9acef8`](https://github.com/drivy/frontend-configs.git
+/commit/e9acef896fae21230ad874f2225e526cb8db1a02)
+- Update typescript-eslint monorepo to v4.15.1 [`2802d02`](https://github.com/drivy/frontend-configs.git
+/commit/2802d02df02df79fc63135adcc5c4e97c1eaa282)
+- Update dependency eslint to v7.20.0 [`4a55b14`](https://github.com/drivy/frontend-configs.git
+/commit/4a55b14dd17d6218a501f5ebf405ccb630497ea0)
+- Use no-use-before-define rule only from typescript-eslint [`2a72c49`](https://github.com/drivy/frontend-configs.git
+/commit/2a72c496ce316d3fa20c7c172f19e5c71b5442c4)
+- Update typescript-eslint monorepo to v4.15.0 [`67f7e26`](https://github.com/drivy/frontend-configs.git
+/commit/67f7e26972712125eaece8196e7abbade9ba4775)
+- Update dependency eslint to v7.19.0 [`fbc4100`](https://github.com/drivy/frontend-configs.git
+/commit/fbc41006b7251a59a743d3403f398ea1093f106a)
+- Update typescript-eslint monorepo to v4.14.1 [`33bcc95`](https://github.com/drivy/frontend-configs.git
+/commit/33bcc951fd8a444d220d243eb58cad2cfd64de30)
+- Update typescript-eslint monorepo to v4.14.0 [`87f688e`](https://github.com/drivy/frontend-configs.git
+/commit/87f688e6c4596ae106e02b06ef1810bc5099faa4)
+- Update dependency eslint to v7.18.0 [`a822782`](https://github.com/drivy/frontend-configs.git
+/commit/a82278262cff0bad4869812ed94679e4e7dcad68)
+- Update typescript-eslint monorepo to v4 [`4d3decf`](https://github.com/drivy/frontend-configs.git
+/commit/4d3decf02fa7585f1529a4ebc2aa870dfaf3a061)
+- Update dependency eslint to v7.17.0 [`458d520`](https://github.com/drivy/frontend-configs.git
+/commit/458d520bdfa2bffa568bcf82f549da2e1f9a3bc8)
+- Update dependency eslint to v7.16.0 [`0204a53`](https://github.com/drivy/frontend-configs.git
+/commit/0204a5317f7a65f8caaeae6a00b539c988606b61)
+- eslint: Use @typescript-eslint/no-use-before-define except on functions (hoisting) [`1b91a86`](https://github.com/drivy/frontend-configs.git
+/commit/1b91a866467cae5c6d48a41cee082599346e3d4f)
+- Add publishConfig prop to packages [`f15fe60`](https://github.com/drivy/frontend-configs.git
+/commit/f15fe60f40597f0766ed85925e6ab62535628a19)
+- Update dependency eslint-plugin-jest to v26 [`44272ec`](https://github.com/drivy/frontend-configs.git
+/commit/44272ec8a94a456e4609a3b92fa302fd026513d5)
+- Update dependency eslint-plugin-react to ^7.28.0 [`cf50797`](https://github.com/drivy/frontend-configs.git
+/commit/cf507974f46534177f40380f7e3051241c5fb38c)
+- Update dependency eslint-plugin-jest to ^25.7.0 [`bb8f8a5`](https://github.com/drivy/frontend-configs.git
+/commit/bb8f8a5f49f9c5efce5ea7f41b8480e47924ffa7)
+- Update dependency prettier to v2.5.1 [`97beec3`](https://github.com/drivy/frontend-configs.git
+/commit/97beec3b8772db29f671f0b4001080414cb045da)
+- Update dependency eslint-plugin-react to ^7.27.0 [`3899c85`](https://github.com/drivy/frontend-configs.git
+/commit/3899c853c132fbd659171d0e0d70b008a0993702)
+- Update babel monorepo to v7.16.3 [`33744d7`](https://github.com/drivy/frontend-configs.git
+/commit/33744d74511283203bf48fda730de35d6a012124)
+- Update dependency eslint-plugin-react-hooks to ^4.3.0 [`1018052`](https://github.com/drivy/frontend-configs.git
+/commit/1018052e36c52d14fe5286991d648b83f8f80c3f)
+- Update dependency eslint-plugin-jest to ^25.2.4 [`fbea00d`](https://github.com/drivy/frontend-configs.git
+/commit/fbea00da81fef43f3bfc0520ab950e99bcc5a7cd)
+- Update dependency eslint-plugin-jest to ^25.2.3 [`3b8dbde`](https://github.com/drivy/frontend-configs.git
+/commit/3b8dbdedb21876a2d795024f5d98e9283fe6cc2d)
+- Update dependency eslint-plugin-jest to ^25.2.2 [`78e50f0`](https://github.com/drivy/frontend-configs.git
+/commit/78e50f0c833363a8c324c11ab8e5b476767be42f)
+- Update dependency eslint-plugin-jest to ^25.2.1 [`4b985e1`](https://github.com/drivy/frontend-configs.git
+/commit/4b985e15cdc74e6f7815d6c3c073629654005944)
+- Update dependency eslint-plugin-jest to ^25.0.6 [`966281d`](https://github.com/drivy/frontend-configs.git
+/commit/966281ddaea8cc892e9cafa26a003b4ce23d8aa4)
+- Update dependency eslint-plugin-jest to v25 [`c5fac43`](https://github.com/drivy/frontend-configs.git
+/commit/c5fac4349fc71210ce2888db9fc653083c1ebda9)
+- Update dependency eslint-plugin-jest to ^24.5.2 [`3546be7`](https://github.com/drivy/frontend-configs.git
+/commit/3546be7813fe571a99233c2f237af7864b4efa79)
+- Update dependency eslint-plugin-react to ^7.26.1 [`757fc91`](https://github.com/drivy/frontend-configs.git
+/commit/757fc91c31fb59c3f292461f265888b76531ee98)
+- Update dependency eslint-plugin-jest to ^24.5.0 [`369a4fd`](https://github.com/drivy/frontend-configs.git
+/commit/369a4fdfadf243f73d27a6f77ff046f78301ee33)
+- Update dependency eslint-plugin-react to ^7.26.0 [`61adaf0`](https://github.com/drivy/frontend-configs.git
+/commit/61adaf04378836b4edac022bf7bf83ca8a72d68d)
+- Update dependency eslint-plugin-react to ^7.25.3 [`c4fb81e`](https://github.com/drivy/frontend-configs.git
+/commit/c4fb81e1fcb189faa1dcc1772f111e259582d86a)
+- Update dependency eslint-plugin-react to ^7.25.2 [`c9fe492`](https://github.com/drivy/frontend-configs.git
+/commit/c9fe492408d38b8b2fe06cd94c248892d22dc0fa)
+- Update dependency eslint-plugin-jest to ^24.4.2 [`5a8e61b`](https://github.com/drivy/frontend-configs.git
+/commit/5a8e61b8eb05598ad46a8e334f696a590d19472a)
+- Update dependency prettier to v2.4.1 [`784e6d7`](https://github.com/drivy/frontend-configs.git
+/commit/784e6d77cbafee9c0a22062b9dcb3a454d7a9595)
+- Update dependency eslint-plugin-react to ^7.25.1 [`c25ba6e`](https://github.com/drivy/frontend-configs.git
+/commit/c25ba6e2b9aa671977ba75dd548e32cc2a22d062)
+- Update dependency eslint-plugin-prettier to v4 [`2014232`](https://github.com/drivy/frontend-configs.git
+/commit/20142322c277e74ed1a112dfcaa08aefe6ad8a6a)
+- Update dependency eslint-plugin-prettier to ^3.4.1 [`e9d6c19`](https://github.com/drivy/frontend-configs.git
+/commit/e9d6c19189b2eff78855e00730cd3f80a350e41d)
+- Update dependency eslint-plugin-jest to ^24.4.0 [`deaded3`](https://github.com/drivy/frontend-configs.git
+/commit/deaded32e3541e48206c88456a5f00f0f88c8286)
+- Update dependency eslint-plugin-jest to ^24.3.7 [`cc582b3`](https://github.com/drivy/frontend-configs.git
+/commit/cc582b37ae98a33b5a1094da812343d5964573af)
+- Update dependency prettier to v2.3.2 [`8d9a8ab`](https://github.com/drivy/frontend-configs.git
+/commit/8d9a8ab39f50aab26b5a44efda62af11efd28d6b)
+- Update dependency prettier to v2.3.1 [`a56c3ad`](https://github.com/drivy/frontend-configs.git
+/commit/a56c3ad5223bb49987ed2c0e9baaf3f8240f8948)
+- Update dependency eslint-plugin-react to ^7.24.0 [`82c37e3`](https://github.com/drivy/frontend-configs.git
+/commit/82c37e3c59c9373da02876658a6b507d64814294)
+- Update dependency prettier to v2.3.0 [`d374c0d`](https://github.com/drivy/frontend-configs.git
+/commit/d374c0da69ba7088339d41f0b7a18a62f6d74e60)
+- Update dependency eslint-config-prettier to ^8.3.0 [`6e31348`](https://github.com/drivy/frontend-configs.git
+/commit/6e31348ca1e95c1689a08b1467d8b625c8a55376)
+- Update dependency eslint-plugin-jest to ^24.3.6 [`9126ec9`](https://github.com/drivy/frontend-configs.git
+/commit/9126ec930ef704fd5deea0962141565ed0093e4a)
+- Update dependency eslint-plugin-prettier to ^3.4.0 [`a0ba3e2`](https://github.com/drivy/frontend-configs.git
+/commit/a0ba3e254b02e3ddbf6b217b9311daf8b168dafa)
+- Update dependency eslint-config-prettier to ^8.2.0 [`cd50201`](https://github.com/drivy/frontend-configs.git
+/commit/cd5020197827387a707106b46455ec572ced96bd)
+- Update dependency eslint-plugin-jest to ^24.3.5 [`8a9ddcb`](https://github.com/drivy/frontend-configs.git
+/commit/8a9ddcb4ffe9499d3da5657f9bced0bb2d3c0590)
+- Update dependency eslint-plugin-react to ^7.23.2 [`5d6ca26`](https://github.com/drivy/frontend-configs.git
+/commit/5d6ca26c8ac18cac22de6c33db241ebf66cf78a7)
+- Disable semicolons handling by typescript-eslint since it's handled by prettier [`91c6f0c`](https://github.com/drivy/frontend-configs.git
+/commit/91c6f0cc1d83045380c8f44a04d2bcd539e1f2f5)
+- Update dependency eslint-plugin-jest to ^24.3.4 [`4d7480e`](https://github.com/drivy/frontend-configs.git
+/commit/4d7480e238426dae20094e5d25b8bf04bb3bea0e)
+- Update dependency eslint-plugin-react to ^7.23.1 [`c944262`](https://github.com/drivy/frontend-configs.git
+/commit/c94426232cc7da16bfff9292f4030f3e520f419c)
+- Update dependency eslint-plugin-jest to ^24.3.2 [`39dc93c`](https://github.com/drivy/frontend-configs.git
+/commit/39dc93cb6de140b118511e1d3d61d4c2fcd18f08)
+- Update dependency eslint-plugin-jest to ^24.3.1 [`79661b6`](https://github.com/drivy/frontend-configs.git
+/commit/79661b6b769d0855fa1c6ae07376819c59edd9c4)
+- Update dependency eslint-plugin-jest to ^24.2.1 [`c55efe6`](https://github.com/drivy/frontend-configs.git
+/commit/c55efe63b259987ddcfb9e428a6cb53a40ff0de3)
+- Update dependency eslint-plugin-jest to ^24.2.0 [`a91b295`](https://github.com/drivy/frontend-configs.git
+/commit/a91b2951cf63567652709480d16f0d3f1d26061c)
+- Update dependency eslint-plugin-jest to ^24.1.10 [`d62b904`](https://github.com/drivy/frontend-configs.git
+/commit/d62b904e3aa4b534cc0826b9a3d8d6a87fa0f724)
+- Update dependency eslint-plugin-jest to ^24.1.9 [`6b507aa`](https://github.com/drivy/frontend-configs.git
+/commit/6b507aafba2b53261070885f34243a333909ad0d)
+- Update dependency eslint-config-prettier to ^8.1.0 [`4ba3e88`](https://github.com/drivy/frontend-configs.git
+/commit/4ba3e88dbb796c028c642aecf695a621a63830bf)
+- Update dependency eslint-config-prettier to v8 [`d8ced82`](https://github.com/drivy/frontend-configs.git
+/commit/d8ced82c071dcb084b75c800de877ac2110c5486)
+- Update dependency eslint-plugin-jest to ^24.1.5 [`a9640f6`](https://github.com/drivy/frontend-configs.git
+/commit/a9640f6658415e2f655e8ccdb0f586e5cda2ef16)
+- Update dependency eslint-config-prettier to ^7.2.0 [`960c382`](https://github.com/drivy/frontend-configs.git
+/commit/960c382dba4625fd34163c4e936529b3760a2507)
+- Update dependency eslint-config-prettier to v7 [`f16de26`](https://github.com/drivy/frontend-configs.git
+/commit/f16de26ef0cd9bcaf381d13e61a5efc3683d2a7f)
+- Update dependency prettier to v2 [`64519ff`](https://github.com/drivy/frontend-configs.git
+/commit/64519ff6b9e44cdd101c0ad76439268a207bc02a)
+- Update dependency eslint-plugin-react to ^7.22.0 [`56c9ea7`](https://github.com/drivy/frontend-configs.git
+/commit/56c9ea708b7e20ffc2d6d5e0f7121ccd65da8597)
+- Update dependency eslint-plugin-prettier to ^3.3.1 [`551006a`](https://github.com/drivy/frontend-configs.git
+/commit/551006ad8caf8c5ef78488af25975ba377d7cfa1)
+- Update dependency eslint to &gt;= 7.15.0 [`3569635`](https://github.com/drivy/frontend-configs.git
+/commit/35696359ebe7db93e02ee23983490a2160088018)
+- Better start versions for packages [`4116a69`](https://github.com/drivy/frontend-configs.git
+/commit/4116a696778d6fad96f0c35f9c91a72e61e529e8)
+- Update @typescript-eslint rules [`77c44e7`](https://github.com/drivy/frontend-configs.git
+/commit/77c44e7a4ae3fa94b2d59577c24143d6359adfc7)
