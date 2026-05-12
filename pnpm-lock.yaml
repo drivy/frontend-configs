@@ -134,8 +134,8 @@ importers:
         specifier: ^7.37.5
         version: 7.37.5(eslint@8.57.1)
       eslint-plugin-react-hooks:
-        specifier: ^4.6.2
-        version: 4.6.2(eslint@8.57.1)
+        specifier: ^7.1.1
+        version: 7.1.1(eslint@8.57.1)
       prettier:
         specifier: ^3.8.3
         version: 3.8.3
@@ -4060,13 +4060,20 @@ packages:
       synckit: 0.11.12
     dev: false
 
-  /eslint-plugin-react-hooks@4.6.2(eslint@8.57.1):
-    resolution: {integrity: sha512-QzliNJq4GinDBcD8gPB5v0wh6g8q3SUi6EFF0x8N/BL9PoVs0atuGc47ozMRyOWAKdwaZ5OnbOEa3WR+dSGKuQ==}
-    engines: {node: '>=10'}
+  /eslint-plugin-react-hooks@7.1.1(eslint@8.57.1):
+    resolution: {integrity: sha512-f2I7Gw6JbvCexzIInuSbZpfdQ44D7iqdWX01FKLvrPgqxoE7oMj8clOfto8U6vYiz4yd5oKu39rRSVOe1zRu0g==}
+    engines: {node: '>=18'}
     peerDependencies:
-      eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0
+      eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0 || ^9.0.0 || ^10.0.0
     dependencies:
+      '@babel/core': 7.29.0
+      '@babel/parser': 7.29.2
       eslint: 8.57.1
+      hermes-parser: 0.25.1
+      zod: 4.4.3
+      zod-validation-error: 4.0.2(zod@4.4.3)
+    transitivePeerDependencies:
+      - supports-color
     dev: false
 
   /eslint-plugin-react@7.37.5(eslint@8.57.1):
@@ -4761,6 +4768,16 @@ packages:
     engines: {node: '>= 0.4'}
     dependencies:
       function-bind: 1.1.2
+    dev: false
+
+  /hermes-estree@0.25.1:
+    resolution: {integrity: sha512-0wUoCcLp+5Ev5pDW2OriHC2MJCbwLwuRx+gAqMTOkGKJJiBCLjtrvy4PWUGn6MIVefecRpzoOZ/UV6iGdOr+Cw==}
+    dev: false
+
+  /hermes-parser@0.25.1:
+    resolution: {integrity: sha512-6pEjquH3rqaI6cYAXYPcz9MS4rY6R4ngRgrgfDshRptUZIc3lw0MCIJIGDj9++mfySOuPTHB4nrSW99BCvOPIA==}
+    dependencies:
+      hermes-estree: 0.25.1
     dev: false
 
   /hookified@1.15.1:
@@ -8272,6 +8289,19 @@ packages:
     engines: {node: '>=18'}
     dev: false
 
+  /zod-validation-error@4.0.2(zod@4.4.3):
+    resolution: {integrity: sha512-Q6/nZLe6jxuU80qb/4uJ4t5v2VEZ44lzQjPDhYJNztRQ4wyWc6VF3D3Kb/fAuPetZQnhS3hnajCf9CsWesghLQ==}
+    engines: {node: '>=18.0.0'}
+    peerDependencies:
+      zod: ^3.25.0 || ^4.0.0
+    dependencies:
+      zod: 4.4.3
+    dev: false
+
+  /zod@4.4.3:
+    resolution: {integrity: sha512-ytENFjIJFl2UwYglde2jchW2Hwm4GJFLDiSXWdTrJQBIN9Fcyp7n4DhxJEiWNAJMV1/BqWfW/kkg71UDcHJyTQ==}
+    dev: false
+
   file:packages/biome-config:
     resolution: {directory: packages/biome-config, type: directory}
     name: '@getaround-eu/biome-config'
@@ -8292,7 +8322,7 @@ packages:
       eslint-plugin-jquery: 1.5.1(eslint@8.57.1)
       eslint-plugin-prettier: 5.5.5(eslint-config-prettier@9.1.2)(eslint@8.57.1)(prettier@3.8.3)
       eslint-plugin-react: 7.37.5(eslint@8.57.1)
-      eslint-plugin-react-hooks: 4.6.2(eslint@8.57.1)
+      eslint-plugin-react-hooks: 7.1.1(eslint@8.57.1)
       prettier: 3.8.3
     transitivePeerDependencies:
       - '@types/eslint'
