@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@biomejs/biome": "2.4.12",
+    "@biomejs/biome": "2.4.15",
     "@getaround-eu/biome-config": "file:packages/biome-config",
     "@getaround-eu/eslint-config": "file:packages/eslint-config",
     "@getaround-eu/prettier-config": "file:packages/prettier-config",
