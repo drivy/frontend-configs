@@ -11,7 +11,7 @@ jobs:
 
       - run:
           name: Enable corepack
-          command: corepack enable
+          command: sudo corepack enable
 
       - run:
           name: Install Javascript dependencies
