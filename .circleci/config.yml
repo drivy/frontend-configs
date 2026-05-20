@@ -10,6 +10,10 @@ jobs:
       - checkout
 
       - run:
+          name: Enable corepack
+          command: corepack enable
+
+      - run:
           name: Install Javascript dependencies
           command: pnpm install
 

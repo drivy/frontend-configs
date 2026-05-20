@@ -1,2 +1,9 @@
 packages:
-- packages/*
+  - packages/*
+
+allowBuilds:
+  core-js: false
+  core-js-pure: false
+  nx: false
+
+minimumReleaseAge: 10080

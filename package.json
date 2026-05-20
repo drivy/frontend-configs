@@ -15,6 +15,7 @@
     "typescript": "6.0.3"
   },
   "license": "MIT",
+  "packageManager": "pnpm@11.1.3",
   "scripts": {
     "test": "lerna run test",
     "lint": "biome check",
