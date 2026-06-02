@@ -18,8 +18,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@babel/core": "^7.29.0",
-    "@babel/eslint-parser": "7.28.6",
+    "@babel/core": "^7.29.7",
+    "@babel/eslint-parser": "7.29.7",
     "@typescript-eslint/eslint-plugin": "8.59.3",
     "@typescript-eslint/parser": "8.59.3",
     "eslint": "^8.57.1",
